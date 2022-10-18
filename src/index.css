@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Cairo&family=Goudy+Bookletter+1911&display=swap');
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  background-color: rgba(188, 143, 143, 0.349);
+}
