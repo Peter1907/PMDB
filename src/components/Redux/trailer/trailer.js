@@ -21,7 +21,7 @@ const getTrailer = createAsyncThunk(
   async (id) => {
     const response = await axios(`https://imdb-api.com/en/API/Trailer/k_sncsc4tf/${id}`);
     const data = await response.data;
-    return data
+    return data;
   },
 );
 

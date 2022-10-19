@@ -11,7 +11,7 @@ export default function topMoviesReducer(state = [], action) {
       const modData = data.map((item) => ({
         ...item,
         image: item.image.replace('@._V1_UX128_CR0,12,128,176_AL_.jpg', '@._V1_.jpg'),
-      }))
+      }));
       localStorage.setItem('TOP_MOVIES', JSON.stringify(modData));
       return modData;
     }
@@ -27,7 +27,7 @@ const getTopMovies = createAsyncThunk(
   async () => {
     const response = await axios('https://imdb-api.com/en/API/Top250Movies/k_sncsc4tf');
     const data = await response.data;
-    return data
+    return data;
   },
 );
 

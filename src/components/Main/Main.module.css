@@ -60,7 +60,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   scroll-snap-type: y mandatory;
-  /* scroll-behavior: smooth; */
   max-width: 100%;
   position: absolute;
   right: 0;

@@ -15,10 +15,10 @@ const peterReducer = combineReducers({
   inTheaters: inTheatersReducer,
   trailer: trailerReducer,
   details: detailsReducer,
-})
+});
 
 const store = configureStore({
   reducer: peterReducer,
-})
+});
 
 export default store;

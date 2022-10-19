@@ -21,7 +21,7 @@ const getInTheaters = createAsyncThunk(
   async () => {
     const response = await axios('https://imdb-api.com/en/API/InTheaters/k_sncsc4tf');
     const data = await response.data;
-    return data
+    return data;
   },
 );
 

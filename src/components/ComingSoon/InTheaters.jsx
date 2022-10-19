@@ -14,7 +14,6 @@ export default function InTheaters() {
   const Data = useSelector((state) => state.inTheaters);
   const modData = Data.slice(1, 4);
   const DATA = localStorage.getItem('IN_THEATERS');
-  const plot = `${(Data[0].plot).substring(0, 150)}...`;
 
   const getData = () => (DATA ? dispatch(getStoredInTheaters()) : dispatch(getInTheaters()));
 
@@ -36,7 +35,7 @@ export default function InTheaters() {
               </div>
               <div className={s.textContainer}>
                 <h2>{Data[0].fullTitle}</h2>
-                <p className={s.plot}>{plot}</p>
+                <p className={s.plot}>{`${(Data[0].plot).substring(0, 150)}...`}</p>
                 <p className={s.mainPlayTrailer}>
                   <img src={playIcon} className={s.mainPlayButton} alt="play button" />
                   watch trailer

@@ -145,7 +145,7 @@
 .movie {
   display: flex;
   gap: 0.5rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.555), #222831a4 );
+  background: linear-gradient(rgba(0, 0, 0, 0.555), #222831a4);
   padding: 10px;
 }
 

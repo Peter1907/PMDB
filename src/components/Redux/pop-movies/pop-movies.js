@@ -21,7 +21,7 @@ const getPopMovies = createAsyncThunk(
   async () => {
     const response = await axios('https://imdb-api.com/en/API/MostPopularMovies/k_0m1r0qhf');
     const data = await response.data;
-    return data
+    return data;
   },
 );
 
