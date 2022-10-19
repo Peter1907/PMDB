@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  padding: 0 5rem;
+  align-items: center;
+  gap: 10px;
+  backdrop-filter: blur(8px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #222831;
+  z-index: 10;
+  filter: drop-shadow(0 0 15px #222831);
+}
+
+.title {
+  color: #eee;
+  margin: 1rem 0;
+}
