@@ -25,12 +25,12 @@ export default function TopMovies() {
 
   return (
     <div className={s.topMovies}>
-      <h1>Top Movies</h1>
-      <h3>PMDB&apos;s Top 250 Movies as per Ratings</h3>
+      <h1 className={s.header}>Top Movies</h1>
+      <h3 className={s.subHeader}>PMDB&apos;s Top 250 Movies as per Ratings</h3>
       <Filter filter={filterTopMovies} remove={removeTopMoviesFilter} />
       <div className={s.movieList}>
         {Data.map((item, index) => (
-          <div className={s.movie}>
+          <div key={index} className={s.movie}>
             <img className={s.poster} src={item.image} alt="movie poster" />
             <p className={s.index}>{`${index + 1} . `}</p>
             <p className={s.title}>{item.fullTitle}</p>

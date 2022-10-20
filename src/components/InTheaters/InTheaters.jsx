@@ -44,8 +44,8 @@ export default function InTheaters() {
             </div>
           </div>)}
         <div className={s.next}>
-          {modData.map((item) => (
-            <div className={s.movie}>
+          {modData.map((item, index) => (
+            <div key={index} className={s.movie}>
               <img src={item.image} className={s.poster} alt="poster" />
               <div className={s.text}>
                 <h3 className={s.title}>{item.title}</h3>

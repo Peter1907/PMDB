@@ -24,13 +24,13 @@ export default function PopMovies() {
   }, []);
 
   return (
-    <div className={s.topMovies}>
-      <h1>Top Movies</h1>
-      <h3>PMDB&apos;s Top 250 Movies as per Ratings</h3>
+    <div className={s.popMovies}>
+      <h1 className={s.header}>Popular Movies</h1>
+      <h3 className={s.subHeader}>PMDB&apos;s Most Popular Movies</h3>
       <Filter filter={filterPopMovies} remove={removePopMoviesFilter} />
       <div className={s.movieList}>
         {Data.map((item, index) => (
-          <div className={s.movie}>
+          <div key={index} className={s.movie}>
             <img className={s.poster} src={item.image} alt="movie poster" />
             <p className={s.index}>{`${index + 1} . `}</p>
             <p className={s.title}>{item.fullTitle}</p>
