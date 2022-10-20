@@ -1,0 +1,19 @@
+.filter {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 60rem;
+  margin: auto;
+  justify-content: flex-end;
+}
+
+.options,
+.search {
+  width: 10rem;
+  border-radius: 0;
+  border: 1px solid #222831;
+  font-family: 'Cairo', sans-serif;
+  padding: 5px 7px;
+  background-color: white;
+}

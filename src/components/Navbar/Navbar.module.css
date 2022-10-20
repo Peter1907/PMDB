@@ -2,7 +2,7 @@
   display: flex;
   padding: 0 5rem;
   align-items: center;
-  gap: 10px;
+  gap: 0;
   backdrop-filter: blur(8px);
   position: fixed;
   top: 0;
@@ -16,4 +16,9 @@
 .title {
   color: #eee;
   margin: 1rem 0;
+}
+
+.homeLink:active {
+  text-decoration: none;
+  color: #eee;
 }

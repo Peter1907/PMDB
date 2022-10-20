@@ -69,7 +69,7 @@ export default function InTheaters() {
 
 const Thumbnail = ({ id }) => {
   const dispatch = useDispatch();
-  const storedTrailer = localStorage.getItem(id);
+  const storedTrailer = localStorage.getItem(`T_${id}`);
   const trailerInfo = useSelector((state) => state.trailer);
 
   const getData = () => {

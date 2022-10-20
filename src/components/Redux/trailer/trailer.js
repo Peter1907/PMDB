@@ -7,10 +7,10 @@ const GET_STORED = './redux/trailer/GET_STORED';
 export default function trailerReducer(state = [], action) {
   switch (action.type) {
     case `${GET}/fulfilled`:
-      localStorage.setItem(action.payload.imDbId, JSON.stringify(action.payload));
+      localStorage.setItem(`T_${action.payload.imDbId}`, JSON.stringify(action.payload));
       return action.payload;
     case GET_STORED:
-      return JSON.parse(localStorage.getItem(action.id));
+      return JSON.parse(localStorage.getItem(`T_${action.id}`));
     default:
       return state;
   }
