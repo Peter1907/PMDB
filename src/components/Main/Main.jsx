@@ -5,7 +5,6 @@ import { getStoredTopMovies, getTopMovies } from '../Redux/top-movies/top-movies
 import s from './Main.module.css';
 
 export default function Main() {
-  // const image = ('./assets/img.jpg');
   const logo = ('./assets/logo02.png');
   
   const dispatch = useDispatch();
@@ -26,12 +25,12 @@ export default function Main() {
       <div className={s.sliderContainer}>
         <div className={s.imgContainer}>
           {images.map((item, id) => (
-            <img id={`image-${id + 1}`} src={item.image} alt={images.title} />
+            <img key={id} id={`image-${id + 1}`} src={item.image} alt={images.title} />
           ))}
         </div>
         <div className={s.dotsContainer}>
           {images.map((item, id) => (
-            <a href={`image-${id}`}> </a>
+            <a key={id} href={`image-${id}`}> </a>
           ))}
         </div>
       </div>

@@ -5,5 +5,19 @@ body {
   box-sizing: border-box;
   padding: 0;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  background-color: rgba(188, 143, 143, 0.349);
+}
+
+.link.one {
+  margin-left: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: #eee;
+  padding: 0.25rem 0.4rem;
+}
+
+.link.active {
+  color: #ffd369;
+  background-color: rgba(238, 238, 238, 0.068);
 }

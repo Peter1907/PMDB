@@ -44,8 +44,8 @@ export default function InTheaters() {
             </div>
           </div>)}
         <div className={s.next}>
-          {modData.map((item) => (
-            <div className={s.movie}>
+          {modData.map((item, index) => (
+            <div key={index} className={s.movie}>
               <img src={item.image} className={s.poster} alt="poster" />
               <div className={s.text}>
                 <h3 className={s.title}>{item.title}</h3>
@@ -69,7 +69,7 @@ export default function InTheaters() {
 
 const Thumbnail = ({ id }) => {
   const dispatch = useDispatch();
-  const storedTrailer = localStorage.getItem(id);
+  const storedTrailer = localStorage.getItem(`T_${id}`);
   const trailerInfo = useSelector((state) => state.trailer);
 
   const getData = () => {
