@@ -1,35 +1,16 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import React, { useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+/* eslint-disable*/
+import React from 'react';
 import * as Scroll from 'react-scroll';
-import { getPopMovies, getStoredPopMovies } from '../Redux/pop-movies/pop-movies';
-import { getPopSeries, getStoredPopSeries } from '../Redux/pop-series/pop-series';
-import { getStoredTopMovies, getTopMovies } from '../Redux/top-movies/top-movies';
 import s from './Main.module.css';
+import store from './store';
 
 const ScrollLink = Scroll.Link;
 
 export default function Main() {
   const logo = ('./assets/logo02.png');
 
-  const dispatch = useDispatch();
-  const DATA = localStorage.getItem('TOP_MOVIES');
-  const DATA2 = localStorage.getItem('POP_MOVIES');
-  const DATA3 = localStorage.getItem('POP_SERIES');
-  const Data = useSelector((state) => state.topMovies);
-  const random = Math.floor(Math.random() * 247);
-  const images = Data.slice(random, random + 2);
-
-  const getData = () => {
-    (DATA ? dispatch(getStoredTopMovies()) : dispatch(getTopMovies()));
-    (DATA2 ? dispatch(getStoredPopMovies()) : dispatch(getPopMovies()));
-    (DATA3 ? dispatch(getStoredPopSeries()) : dispatch(getPopSeries()));
-  };
-
-  useEffect(() => {
-    getData();
-  }, []);
-
+  const Data = store.topMovies;
+  const images = Data.slice(0, 2);
 
   return (
     <div className={s.mainContainer}>

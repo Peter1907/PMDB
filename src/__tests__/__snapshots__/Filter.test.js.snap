@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="filter"
+>
+  <p>
+    Search By:
+  </p>
+  <select
+    className="options"
+    onChange={[Function]}
+  >
+    <option
+      value="none"
+    >
+      No-Filters
+    </option>
+    <option
+      value="title"
+    >
+      Title
+    </option>
+    <option
+      value="year"
+    >
+      Year
+    </option>
+    <option
+      value="imDbRating"
+    >
+      Rating
+    </option>
+  </select>
+  <input
+    className="search"
+    onChange={[Function]}
+    type="text"
+  />
+</div>
+`;
