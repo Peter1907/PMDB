@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="inTheaters"
+  id="in-theaters"
+>
+  <h1>
+    In Theaters Now!
+  </h1>
+  <div
+    className="block"
+  >
+    <div
+      className="view"
+    >
+      <div
+        className="thumbnailContainer"
+      >
+        <img
+          alt="thumbnail"
+          className="thumbnail"
+          src="https://m.media-amazon.com/images/M/MV5BZjc3YjUxMzYtNTVlYy00YjhkLTg1YzctNjljYmY4OWRkMDVkXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        />
+        <div
+          className="mainBlock"
+        >
+          <div
+            className="imgContainer"
+          >
+            <img
+              alt="#"
+              className="saveTag"
+              src="./assets/add.png"
+            />
+            <img
+              alt="poster"
+              className="mainPoster"
+              src="https://m.media-amazon.com/images/M/MV5BZTg1Y2Q3MzctMDlkOS00OGE1LWE4MjUtNmJjNDNkZmM2YmVkXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_Ratio0.6699_AL_.jpg"
+            />
+          </div>
+          <div
+            className="textContainer"
+          >
+            <a
+              className="title"
+              href="/item-details/tt10665342"
+              onClick={[Function]}
+            >
+              <h2>
+                Halloween Ends (2022)
+              </h2>
+            </a>
+            <p
+              className="plot"
+            >
+              The saga of Michael Myers and Laurie Strode comes to a spine-chilling climax in this final installment of this trilogy....
+            </p>
+            <p
+              className="mainPlayTrailer"
+            >
+              <img
+                alt="play button"
+                className="mainPlayButton"
+                src="./assets/play.png"
+              />
+              watch trailer
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="next"
+    >
+      <div
+        className="movie"
+      >
+        <img
+          alt="poster"
+          className="poster"
+          src="https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6699_AL_.jpg"
+        />
+        <div
+          className="text"
+        >
+          <a
+            href="/item-details/tt15474916"
+            onClick={[Function]}
+          >
+            <h3
+              className="title"
+            >
+              Smile (V) (2022)
+            </h3>
+          </a>
+          <p>
+            <strong>
+              Genre:
+            </strong>
+             
+            Horror
+          </p>
+          <p
+            className="rating"
+          >
+            <img
+              alt="start shaped icon"
+              className="playButton"
+              src="./assets/star.png"
+            />
+            6.9
+             (
+            25377
+            )
+          </p>
+          <p
+            className="playTrailer"
+          >
+            <img
+              alt="play button"
+              className="playButton"
+              src="./assets/play.png"
+            />
+            watch
+            <br />
+             trailer
+          </p>
+        </div>
+      </div>
+      <div
+        className="movie"
+      >
+        <img
+          alt="poster"
+          className="poster"
+          src="https://m.media-amazon.com/images/M/MV5BNDQwNzE0ZTItYmZjMC00NjI3LWFlNzctNTExZDY2NWE0Zjc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg"
+        />
+        <div
+          className="text"
+        >
+          <a
+            href="/item-details/tt10304142"
+            onClick={[Function]}
+          >
+            <h3
+              className="title"
+            >
+              Amsterdam
+            </h3>
+          </a>
+          <p>
+            <strong>
+              Genre:
+            </strong>
+             
+            Comedy, Drama, History
+          </p>
+          <p
+            className="rating"
+          >
+            <img
+              alt="start shaped icon"
+              className="playButton"
+              src="./assets/star.png"
+            />
+            6.2
+             (
+            9671
+            )
+          </p>
+          <p
+            className="playTrailer"
+          >
+            <img
+              alt="play button"
+              className="playButton"
+              src="./assets/play.png"
+            />
+            watch
+            <br />
+             trailer
+          </p>
+        </div>
+      </div>
+      <div
+        className="movie"
+      >
+        <img
+          alt="poster"
+          className="poster"
+          src="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg"
+        />
+        <div
+          className="text"
+        >
+          <a
+            href="/item-details/tt12593682"
+            onClick={[Function]}
+          >
+            <h3
+              className="title"
+            >
+              Bullet Train
+            </h3>
+          </a>
+          <p>
+            <strong>
+              Genre:
+            </strong>
+             
+            Action, Comedy, Thriller
+          </p>
+          <p
+            className="rating"
+          >
+            <img
+              alt="start shaped icon"
+              className="playButton"
+              src="./assets/star.png"
+            />
+            7.4
+             (
+            140434
+            )
+          </p>
+          <p
+            className="playTrailer"
+          >
+            <img
+              alt="play button"
+              className="playButton"
+              src="./assets/play.png"
+            />
+            watch
+            <br />
+             trailer
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

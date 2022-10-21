@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="mainContainer"
+>
+  <div
+    className="sliderContainer"
+  >
+    <div
+      className="imgContainer"
+    >
+      <img
+        id="image-1"
+        src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_12,128,176_AL_.jpg"
+      />
+      <img
+        id="image-2"
+        src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_12,128,176_AL_.jpg"
+      />
+    </div>
+    <div
+      className="dotsContainer"
+    >
+      <a
+        href="image-0"
+      >
+         
+      </a>
+      <a
+        href="image-1"
+      >
+         
+      </a>
+    </div>
+  </div>
+  <div
+    className="gradient"
+  />
+  <div
+    className="textBox"
+  >
+    <div
+      className="title"
+    >
+      <img
+        alt="movie disk logo"
+        src="./assets/logo02.png"
+      />
+      <div
+        className="separator"
+      >
+        |
+      </div>
+      <h1>
+        PMDB
+      </h1>
+    </div>
+  </div>
+  <a
+    className="explore"
+    onClick={[Function]}
+  >
+    explore
+    <p
+      className="arrow"
+    />
+  </a>
+</div>
+`;
