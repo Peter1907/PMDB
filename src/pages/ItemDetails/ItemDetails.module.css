@@ -1,7 +1,8 @@
 .detailsContainer {
   min-height: calc(100vh - 8rem);
   padding: 5rem 2rem 3rem;
-  background: linear-gradient(#393e46f1, #222831f8),
+  background:
+    linear-gradient(#393e46f1, #222831f8),
     linear-gradient(0.25turn, #393e46, #393e4600);
   background-size: 100% 100vh;
   background-repeat: no-repeat;
