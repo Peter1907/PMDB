@@ -52,14 +52,17 @@
   color: #eee;
 }
 
-.sliderContainer {
-  position: relative;
+.subTitle {
+  color: #eee;
+  font-family: 'Cairo', sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  margin: 0 0 0 8rem;
 }
 
 .imgContainer {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  scroll-snap-type: y mandatory;
   max-width: 100%;
   position: absolute;
   right: 0;
@@ -76,7 +79,7 @@
   bottom: 2rem;
   left: 50%;
   transform: translate(-50%, 0);
-  font-size: 52px;
+  font-size: 46px;
   line-height: 1rem;
   color: #eee;
   font-family: 'Cairo', sans-serif;
@@ -85,10 +88,10 @@
 }
 
 .arrow {
-  border-top: 3px solid #eee;
-  border-right: 3px solid #eee;
-  height: 2.2rem;
-  width: 2.2rem;
+  border-top: 2px solid #eee;
+  border-right: 2px solid #eee;
+  height: 2rem;
+  width: 2rem;
   transform: rotate(135deg);
   align-self: flex-end;
   margin: 1rem auto 0;

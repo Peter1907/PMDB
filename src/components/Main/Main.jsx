@@ -33,17 +33,10 @@ export default function Main() {
 
   return (
     <div className={s.mainContainer}>
-      <div className={s.sliderContainer}>
-        <div className={s.imgContainer}>
-          {images.map((item, id) => (
-            <img key={id} id={`image-${id + 1}`} src={item.image} alt={images.title} />
-          ))}
-        </div>
-        <div className={s.dotsContainer}>
-          {images.map((item, id) => (
-            <a key={id} href={`image-${id}`}> </a>
-          ))}
-        </div>
+      <div className={s.imgContainer}>
+        {images.map((item, id) => (
+          <img key={id} id={`image-${id + 1}`} src={item.image} alt={images.title} />
+        ))}
       </div>
       <div className={s.gradient} />
       <div className={s.textBox}>
@@ -52,6 +45,7 @@ export default function Main() {
           <div className={s.separator}>|</div>
           <h1>PMDB</h1>
         </div>
+        <h3 className={s.subTitle}>Media with Class</h3>
       </div>
       <ScrollLink
         to="in-theaters"

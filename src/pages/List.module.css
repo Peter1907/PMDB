@@ -12,6 +12,7 @@
   color: #eee;
   margin: 0;
   font-family: 'Cairo', sans-serif;
+  min-height: calc(100vh - 8rem);
 }
 
 .background {
