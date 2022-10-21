@@ -58,6 +58,7 @@ Give a ⭐️ if you like this project!
 
 - A big kudos to everyone who worked hard to make this project a success.
 - <a target="_blank" href="https://icons8.com/icon/WYO2K5RJknB9/movie">movie icon by Icons8</a>
+- Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## 📝 License
 
