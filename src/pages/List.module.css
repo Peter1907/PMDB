@@ -3,34 +3,48 @@
 .popMovies,
 .popSeries {
   padding: 5rem 2rem 3rem;
-  background: linear-gradient(#eee, white);
+  background:
+    linear-gradient(#393e46f1, #222831f8),
+    linear-gradient(0.25turn, #393e46, #393e4600);
   background-size: 100% 100vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: #222831;
+  color: #eee;
   margin: 0;
   font-family: 'Cairo', sans-serif;
+}
+
+.background {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 130vh;
+  z-index: -1;
 }
 
 .header,
 .subHeader {
   width: 60rem;
   margin: auto;
+  color: #ffd369;
 }
 
 .subHeader {
   padding-left: 1rem;
+  color: #eee;
+  font-weight: 300;
+  letter-spacing: 2px;
 }
 
 .movieList,
 .seriesList {
   width: 60rem;
-  border: 2px solid red;
   margin: auto;
   display: flex;
   flex-direction: column;
-  background-color: white;
-  padding: 2rem 0;
+  background-color: #22283165;
+  padding: 0.5rem 0;
+  box-shadow: 0 0 50px 1px #eee1;
 }
 
 .movie,
@@ -41,13 +55,25 @@
   padding: 0.25rem 0;
 }
 
-.movie:nth-child(even) {
-  background-color: #eee;
+.movie:nth-child(even),
+.series:nth-child(even) {
+  background-color: #393e4665;
 }
 
 .poster {
   width: 5rem;
   margin-left: 2rem;
+}
+
+.title {
+  text-decoration: none;
+  color: #eee;
+  cursor: pointer;
+}
+
+.title:hover {
+  text-decoration: underline;
+  color: #ffd369;
 }
 
 .ratingContainer {
@@ -69,10 +95,11 @@
 }
 
 .saveTag {
-  opacity: 0.3;
+  opacity: 0.5;
   width: 30px;
   cursor: pointer;
   margin: 0 2rem 0 3rem;
+  transition: all 250ms ease;
 }
 
 .saveTag:hover {

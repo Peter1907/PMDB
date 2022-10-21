@@ -12,6 +12,7 @@ body {
 }
 
 .link {
+  font-size: 20px;
   text-decoration: none;
   color: #eee;
   padding: 0.25rem 0.4rem;
@@ -20,4 +21,64 @@ body {
 .link.active {
   color: #ffd369;
   background-color: rgba(238, 238, 238, 0.068);
+}
+
+.home {
+  scroll-behavior: smooth;
+}
+
+.racks {
+  background-color: #222831;
+}
+
+.header {
+  color: #ffd369;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  margin: 0 auto;
+  padding-top: 3rem;
+  font-size: 72px;
+  width: 75rem;
+}
+
+.movies-rack,
+.series-rack {
+  padding: 5rem 0 0;
+}
+
+.series-rack {
+  padding-bottom: 5rem;
+}
+
+.rack-head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  line-height: 5rem;
+  width: 75rem;
+  margin: 0 auto 1rem;
+}
+
+.rack-head h1 {
+  font-size: 60px;
+  color: #ffd369;
+  margin: 1rem 1rem 0 0;
+}
+
+.rack-head h2 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  line-height: 0;
+  padding-top: 1rem;
+  font-size: 42px;
+  font-weight: 600;
+  color: #eee;
+}
+
+.arrow {
+  border-top: 5px solid #eee;
+  border-right: 5px solid #eee;
+  height: 1.3rem;
+  width: 1.3rem;
+  transform: rotate(45deg);
+  align-self: flex-end;
+  margin: 0 0 0.5rem 0.5rem;
 }

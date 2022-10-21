@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 import TopSeries from './pages/TopSeries';
 import PopMovies from './pages/PopMovies';
 import PopSeries from './pages/PopSeries';
+import ItemDetails from './pages/ItemDetails/ItemDetails';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/top-series" element={<TopSeries />} />
         <Route path="/pop-movies" element={<PopMovies />} />
         <Route path="/pop-series" element={<PopSeries />} />
+        <Route path="/item-details/:id" element={<ItemDetails />} />
       </Routes>
     </div>
   );

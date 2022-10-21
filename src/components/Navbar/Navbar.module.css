@@ -14,8 +14,11 @@
 }
 
 .title {
-  color: #eee;
+  color: #222831;
   margin: 1rem 0;
+  background-color: #ffd369;
+  padding: 2px 1rem;
+  border-radius: 3px;
 }
 
 .homeLink:active {
