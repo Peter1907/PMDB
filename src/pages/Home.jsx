@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import InTheaters from '../components/InTheaters/InTheaters';
 import Main from '../components/Main/Main';
 import Rack from '../components/Rack/Rack';
@@ -17,6 +18,9 @@ export default function Home() {
             <h1>|</h1>
             <h2>Popular Movies</h2>
             <p className="arrow" />
+            <Link to="/pop-movies" className="page-link">
+              Browse All...
+            </Link>
           </div>
           <div className="rack">
             <Rack type={'movies'} />
@@ -27,6 +31,9 @@ export default function Home() {
             <h1>|</h1>
             <h2>Popular Series</h2>
             <p className="arrow" />
+            <Link to="/pop-series" className="page-link">
+              Browse All...
+            </Link>
           </div>
           <div className="rack">
             <Rack type={'series'} />

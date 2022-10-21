@@ -1,0 +1,83 @@
+.menuContainer {
+  margin-left: auto;
+}
+
+.closeBtn {
+  cursor: pointer;
+  color: #222831;
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.closeBtn p {
+  margin: 0;
+}
+
+.arrow {
+  border-top: 3px solid #222831;
+  border-right: 3px solid #222831;
+  height: 1.5rem;
+  width: 1.5rem;
+  transform: rotate(45deg);
+  line-height: 7rem;
+}
+
+.line {
+  border-left: 3px solid #222831;
+  height: 2.8rem;
+  width: 2.8rem;
+}
+
+.closeBtn:hover {
+  filter: drop-shadow(0 0 3px #2228319f);
+}
+
+.menuBtn {
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: 'Cairo', sans-serif;
+  border: none;
+  background-color: transparent;
+  color: #eee;
+  align-self: center;
+  line-height: 1rem;
+}
+
+.menuBtn:hover {
+  filter: drop-shadow(0 0 3px #fdd369cc);
+}
+
+.menu {
+  z-index: 10;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: -50%;
+  width: 40%;
+  height: 100vh;
+  background-color: #eee;
+  color: #222831;
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  transition: all 500ms ease-in;
+}
+
+menu h1 {
+  font-size: 52px;
+}
+
+.lists,
+.popular {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  gap: 0.5rem;
+}
