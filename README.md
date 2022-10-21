@@ -1,10 +1,10 @@
 # Project Name
 
-PMDB (Peter's Movie Database):joy:
+PMDB (Peter's Movie Database) :joy::joy::joy:
 
 # Description the project.
 
-This project is still under development
+This is a project I made using React & Redux with the help of the [IMDb API](https://imdb-api.com/api)
 
 ## Built With
 
@@ -17,11 +17,14 @@ This project is still under development
 
 ## Screenshots
 
-This project is still under development
+![](ScreenShots/s01.jpg)
+![](ScreenShots/s02.jpg)
+![](ScreenShots/s03.jpg)
+![](ScreenShots/s04.jpg)
 
 ## Link to the Page
 
-This project is still under development
+[Live Demo](https://pmdb-media.netlify.app/)
 
 ## Getting Started
 
@@ -57,8 +60,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - A big kudos to everyone who worked hard to make this project a success.
-- <a target="_blank" href="https://icons8.com/icon/WYO2K5RJknB9/movie">movie icon by Icons8</a>
-- Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Background photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## 📝 License
 
