@@ -1,6 +1,5 @@
-/* eslint-disable*/
 import renderer from 'react-test-renderer';
-import Filter from '../__mocks__/Filter';
+import Filter from '../_mocks_/Filter';
 
 it('renders correctly', () => {
   const tree = renderer

@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import * as Scroll from 'react-scroll';
@@ -20,15 +19,11 @@ export default function Main() {
   const random = Math.floor(Math.random() * 247);
   const images = Data.slice(random, random + 2);
 
-  const getData = () => {
+  useEffect(() => {
     (DATA ? dispatch(getStoredTopMovies()) : dispatch(getTopMovies()));
     (DATA2 ? dispatch(getStoredPopMovies()) : dispatch(getPopMovies()));
     (DATA3 ? dispatch(getStoredPopSeries()) : dispatch(getPopSeries()));
-  };
-
-  useEffect(() => {
-    getData();
-  }, []);
+  }, [DATA, DATA2, DATA3, dispatch]);
 
 
   return (

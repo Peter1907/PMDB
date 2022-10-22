@@ -1,6 +1,5 @@
-/* eslint-disable*/
 import renderer from 'react-test-renderer';
-import Main from '../__mocks__/Main';
+import Main from '../_mocks_/Main';
 
 it('renders correctly', () => {
   const tree = renderer

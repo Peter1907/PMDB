@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -19,12 +18,10 @@ export default function TopMovies() {
   const Data = useSelector((state) => state.topMovies);
   const storedData = localStorage.getItem('TOP_MOVIES');
 
-  const getData = () => (storedData ? dispatch(getStoredTopMovies()) : dispatch(getTopMovies()));
-
   useEffect(() => {
-    getData();
+    (storedData ? dispatch(getStoredTopMovies()) : dispatch(getTopMovies()));
     window.scrollTo(0, 0);
-  }, []);
+  }, [dispatch, storedData]);
 
   return (
     <div className={s.topMovies}>

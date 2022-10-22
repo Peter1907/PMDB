@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -19,12 +18,10 @@ export default function TopSeries() {
   const Data = useSelector((state) => state.topSeries);
   const storedData = localStorage.getItem('TOP_SERIES');
 
-  const getData = () => (storedData ? dispatch(getStoredTopSeries()) : dispatch(getTopSeries()));
-
   useEffect(() => {
-    getData();
+    (storedData ? dispatch(getStoredTopSeries()) : dispatch(getTopSeries()));
     window.scrollTo(0, 0);
-  }, []);
+  }, [dispatch, storedData]);
 
   return (
     <div className={s.topSeries}>

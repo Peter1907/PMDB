@@ -1,6 +1,5 @@
-/* eslint-disable*/
 import renderer from 'react-test-renderer';
-import NavBar from '../__mocks__/Navbar';
+import NavBar from '../_mocks_/Navbar';
 
 it('renders correctly', () => {
   const tree = renderer

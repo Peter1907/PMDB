@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -19,12 +18,10 @@ export default function PopMovies() {
   const Data = useSelector((state) => state.popMovies);
   const storedData = localStorage.getItem('POP_MOVIES');
 
-  const getData = () => (storedData ? dispatch(getStoredPopMovies()) : dispatch(getPopMovies()));
-
   useEffect(() => {
-    getData();
+    (storedData ? dispatch(getStoredPopMovies()) : dispatch(getPopMovies()));
     window.scrollTo(0, 0);
-  }, []);
+  }, [dispatch, storedData]);
 
   return (
     <div className={s.popMovies}>

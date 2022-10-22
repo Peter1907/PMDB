@@ -1,4 +1,3 @@
-/* eslint-disable*/
 const store = {
   topMovies: [
     {

@@ -1,4 +1,3 @@
-/* eslint-disable*/
 import { Link } from 'react-router-dom';
 import * as Scroll from 'react-scroll';
 import s from './Rack.module.css';

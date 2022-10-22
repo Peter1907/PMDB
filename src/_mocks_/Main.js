@@ -1,4 +1,3 @@
-/* eslint-disable*/
 import React from 'react';
 import * as Scroll from 'react-scroll';
 import s from './Main.module.css';

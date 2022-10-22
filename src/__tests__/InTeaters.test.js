@@ -1,6 +1,5 @@
-/* eslint-disable*/
 import renderer from 'react-test-renderer';
-import InTheaters from '../__mocks__/InTheaters';
+import InTheaters from '../_mocks_/InTheaters';
 
 it('renders correctly', () => {
   const tree = renderer

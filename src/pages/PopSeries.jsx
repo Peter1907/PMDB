@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -19,12 +18,10 @@ export default function PopSeries() {
   const Data = useSelector((state) => state.popSeries);
   const storedData = localStorage.getItem('POP_SERIES');
 
-  const getData = () => (storedData ? dispatch(getStoredPopSeries()) : dispatch(getPopSeries()));
-
   useEffect(() => {
-    getData();
+    (storedData ? dispatch(getStoredPopSeries()) : dispatch(getPopSeries()));
     window.scrollTo(0, 0);
-  }, []);
+  }, [dispatch, storedData]);
 
   return (
     <div className={s.popSeries}>

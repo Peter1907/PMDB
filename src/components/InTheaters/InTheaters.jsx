@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -16,11 +15,9 @@ export default function InTheaters() {
   const modData = Data.slice(1, 4);
   const DATA = localStorage.getItem('IN_THEATERS');
 
-  const getData = () => (DATA ? dispatch(getStoredInTheaters()) : dispatch(getInTheaters()));
-
   useEffect(() => {
-    getData();
-  }, []);
+    (DATA ? dispatch(getStoredInTheaters()) : dispatch(getInTheaters()));
+  }, [DATA, dispatch]);
 
   return (
     <div id="in-theaters" className={s.inTheaters}>
