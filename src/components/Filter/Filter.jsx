@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
+import PropTypes from 'prop-types';
 import s from './Filter.module.css';
 
 export default function Filter({ filter, remove }) {
@@ -30,4 +31,9 @@ export default function Filter({ filter, remove }) {
       <input className={s.search} type="text" onChange={(e) => handleChange(e)}/>
     </div>
   );
+}
+
+Filter.propTypes = {
+  filter: PropTypes.func.isRequired,
+  remove: PropTypes.func.isRequired,
 }

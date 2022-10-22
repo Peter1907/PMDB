@@ -1,3 +1,4 @@
+/* eslint-disable*/
 import { BrowserRouter, Link } from 'react-router-dom';
 import Menu from './menu';
 import s from './Navbar.module.css';

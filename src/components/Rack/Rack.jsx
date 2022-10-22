@@ -2,6 +2,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import * as Scroll from 'react-scroll';
 import { clearDetails } from '../Redux/details/details';
+import PropTypes from 'prop-types';
 import s from './Rack.module.css';
 
 const ScrollLink = Scroll.Link;
@@ -132,4 +133,8 @@ export default function Rack({ type }) {
       </div>
     </div>
   );
+}
+
+Rack.propTypes = {
+  type: PropTypes.string.isRequired,
 }

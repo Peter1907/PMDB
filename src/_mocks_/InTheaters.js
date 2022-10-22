@@ -1,3 +1,4 @@
+/* eslint-disable*/
 import React from 'react';
 import { BrowserRouter, Link } from 'react-router-dom';
 import s from './InTheaters.module.css';
