@@ -7,7 +7,7 @@
   color: #222831;
   position: absolute;
   top: 1rem;
-  right: 1.5rem;
+  right: 0;
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -57,8 +57,7 @@
   position: fixed;
   top: 0;
   bottom: 0;
-  right: -50%;
-  width: 40%;
+  width: 50%;
   height: 100vh;
   background-color: #eee;
   color: #222831;
@@ -80,4 +79,10 @@ menu h1 {
   flex-direction: column;
   margin: 2rem auto;
   gap: 0.5rem;
+}
+
+@media screen and (max-width: 480px) {
+  .menu {
+    width: 100%;
+  }
 }

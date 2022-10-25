@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Cairo:wght@200;300;400;500;600;700&family=Goudy+Bookletter+1911&display=swap');
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   box-sizing: border-box;
@@ -44,7 +48,7 @@ body {
   margin: 0 auto;
   padding-top: 3rem;
   font-size: 72px;
-  width: 75rem;
+  max-width: 75rem;
 }
 
 .movies-rack,
@@ -61,17 +65,19 @@ body {
   align-items: center;
   gap: 0.5rem;
   line-height: 5rem;
-  width: 75rem;
+  max-width: 75rem;
   margin: 0 auto 1rem;
 }
 
 .rack-head h1 {
+  flex-shrink: 0;
   font-size: 60px;
   color: #ffd369;
   margin: 1rem 1rem 0 0;
 }
 
 .rack-head h2 {
+  flex-shrink: 0;
   font-family: 'Barlow Semi Condensed', sans-serif;
   line-height: 0;
   padding-top: 1rem;
@@ -81,13 +87,14 @@ body {
 }
 
 .arrow {
+  flex-shrink: 0;
   border-top: 5px solid #eee;
   border-right: 5px solid #eee;
   height: 1.3rem;
   width: 1.3rem;
   transform: rotate(45deg);
   align-self: flex-end;
-  margin: 0 0 1.3rem 0.5rem;
+  margin: 0 0 1.5rem 0.5rem;
 }
 
 .page-link {
@@ -102,4 +109,44 @@ body {
 .page-link:hover {
   text-decoration: underline;
   color: #ffd369;
+}
+
+@media screen and (max-width: 480px) {
+  .header {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .rack-head {
+    margin: 0 5% 1rem;
+  }
+
+  .rack-head h1 {
+    font-size: 50px;
+    margin: 1rem 0.5rem 0 0;
+  }
+  
+  .rack-head h2 {
+    font-size: 36px;
+  }
+
+  .arrow {
+    border-top: 4px solid #eee;
+    border-right: 4px solid #eee;
+    height: 1rem;
+    width: 1rem;
+    margin: 0 0 1.7rem 0.2rem;
+  }
+
+  .page-link {
+    font-size: 16px;
+    margin-left: auto;
+    align-self: flex-end;
+    line-height: 25px;
+  }
+  
+  .page-link:hover {
+    text-decoration: underline;
+    color: #ffd369;
+  }
 }

@@ -1,6 +1,6 @@
 .rack {
   margin: auto;
-  width: 75rem;
+  max-width: 75rem;
   position: relative;
 }
 
@@ -22,33 +22,10 @@
   scroll-snap-align: start;
 }
 
-.dotsContainer {
-  position: absolute;
-  right: 17rem;
-  top: 50%;
-  transform: translate(0, -50%);
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
-
-.dot {
-  width: 0.7rem;
-  height: 0.7rem;
-  border-radius: 50%;
-  background-color: #eee;
-  opacity: 0.6;
-  transition: opacity 250ms ease;
-  cursor: pointer;
-}
-
-.dot:hover {
-  opacity: 1;
-}
-
 .item {
   height: 25rem;
   width: 13rem;
+  flex-shrink: 0;
   position: relative;
 }
 
@@ -139,4 +116,56 @@ a {
 
 .btn:active {
   transform: scale(0.98);
+}
+
+.dotsContainer {
+  position: absolute;
+  right: 17rem;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.dot {
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  background-color: #eee;
+  opacity: 0.6;
+  transition: opacity 250ms ease;
+  cursor: pointer;
+}
+
+.dot:hover {
+  opacity: 1;
+}
+
+.dot.active {
+  box-shadow: 0 0 0 2px #222831, 0 0 0 4px #ffd369;
+  opacity: 1;
+}
+
+@media screen and (max-width: 480px) {
+  .row1,
+  .row2,
+  .row3 {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .rows {
+    height: 51rem;
+  }
+
+  .dotsContainer {
+    top: auto;
+    right: calc(100% / 2);
+    bottom: -3rem;
+    transform: translate(50%, 0);
+    height: 2rem;
+    flex-direction: row;
+    align-items: center;
+  }
 }

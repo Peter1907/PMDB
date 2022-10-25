@@ -9,7 +9,14 @@ export default function Menu() {
     setState(!state);
   };
 
-  const menuStyle = (state) ? { right: 0 } : { right: '-50%' };
+  const handleItemLink = () => {
+    setState(!state);
+    setTimeout(() => {
+      window.location.reload();
+    }, 100)
+  };
+
+  const menuStyle = (state) ? { right: 0 } : { right: '-100%' };
 
   return (
     <div className={s.menuContainer}>
@@ -61,42 +68,42 @@ export default function Menu() {
           <NavLink
             className="link"
             to="/item-details/tt1375666"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             Inception
           </NavLink>
           <NavLink
             className="link"
             to="/item-details/tt0816692"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             Interstellar
           </NavLink>
           <NavLink
             className="link"
             to="/item-details/tt0050083"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             12 Angry Men
           </NavLink>
           <NavLink
             className="link"
             to="/item-details/tt11198330"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             House of the Dragon
           </NavLink>
           <NavLink
             className="link"
             to="/item-details/tt0903747"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             Breaking Bad
           </NavLink>
           <NavLink
             className="link"
             to="/item-details/tt0944947"
-            onClick={() => handleClick()}
+            onClick={() => handleItemLink()}
           >
             Game of Thrones
           </NavLink>

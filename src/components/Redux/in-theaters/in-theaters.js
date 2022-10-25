@@ -6,9 +6,15 @@ const GET_STORED = './redux/in-theaters/GET_STORED';
 
 export default function inTheatersReducer(state = [], action) {
   switch (action.type) {
-    case `${GET}/fulfilled`:
-      localStorage.setItem('IN_THEATERS', JSON.stringify(action.payload.items));
-      return action.payload.items;
+    case `${GET}/fulfilled`: {
+      const data = action.payload.items;
+      const modData = data.map((item) => ({
+        ...item,
+        image: item.image.replace('UX128_CR0', 'UX350'),
+      }));
+      localStorage.setItem('IN_THEATERS', JSON.stringify(modData));
+      return modData;
+    }
     case GET_STORED:
       return JSON.parse(localStorage.getItem('IN_THEATERS'));
     default:
