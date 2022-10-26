@@ -56,7 +56,7 @@ export default function ItemDetails() {
           <img className={s.poster} src={Data.image} alt="poster" />
         </div>
         <div className={s.thumbnailContainer}>
-          <Thumbnail id={id} />
+          <Thumbnail id={id} type={'new'} />
           <p className={s.playTrailer}>
             <img src={playIcon} className={s.playButton} alt="play button" />
             watch trailer
@@ -129,12 +129,14 @@ export default function ItemDetails() {
           ))}
         </div>}
       </div>
-      <div className={s.rackHead}>
-        <h1>|</h1>
-        <h2>More like this</h2>
-        <p className={s.arrow}></p>
+      <div className={s.rackContainer}>
+        <div className={s.rackHead}>
+          <h1>|</h1>
+          <h2>More like this</h2>
+          <p className={s.arrow}></p>
+        </div>
+        <Rack type={'similar'} />
       </div>
-      <Rack type={'similar'} />
     </div>
   );
 }

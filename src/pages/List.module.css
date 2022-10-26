@@ -12,7 +12,7 @@
   color: #eee;
   margin: 0;
   font-family: 'Cairo', sans-serif;
-  min-height: calc(100vh - 8rem);
+  min-height: 100vh;
 }
 
 .background {
@@ -130,13 +130,6 @@
 }
 
 @media screen and (max-width: 480px) {
-  .topMovies,
-  .topSeries,
-  .popMovies,
-  .popSeries {
-    background-size: auto 100vh;
-  }
-
   .textContainer {
     flex-direction: column;
   }

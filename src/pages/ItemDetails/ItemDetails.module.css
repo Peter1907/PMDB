@@ -1,5 +1,5 @@
 .detailsContainer {
-  min-height: calc(100vh - 8rem);
+  min-height: 100vh;
   padding: 5rem 2rem 3rem;
   background:
     linear-gradient(#393e46f1, #222831f8),
@@ -22,14 +22,14 @@
 
 .main {
   display: flex;
-  width: 75rem;
+  max-width: 75rem;
   margin: 0 auto;
   padding: 1rem;
   align-items: center;
 }
 
 .header {
-  font-size: 46px;
+  font-size: 50px;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-weight: 600;
   color: #ffd369;
@@ -89,19 +89,20 @@
 
 .pictures {
   display: flex;
-  width: 75rem;
-  height: 32rem;
+  max-width: 75rem;
   margin: 0 auto;
   gap: 0.5rem;
 }
 
 .posterContainer {
   position: relative;
+  display: flex;
 }
 
 .poster {
-  height: 100%;
-  width: 22rem;
+  max-height: 100%;
+  max-width: 22rem;
+  flex-shrink: 1;
 }
 
 .thumbnailContainer {
@@ -109,23 +110,24 @@
   position: relative;
   background-color: black;
   display: flex;
-  overflow: hidden;
 }
 
 .playTrailer {
   position: absolute;
-  bottom: 2rem;
-  left: 1rem;
+  bottom: 0;
+  left: 0;
   color: #eee;
   font-size: 36px;
   display: flex;
   align-items: center;
   margin: 0;
+  padding: 1rem 2rem;
   line-height: 1.2rem;
   gap: 1rem;
   cursor: pointer;
-  background-color: rgba(0, 0, 0, 0.055);
+  background-color: rgba(0, 0, 0, 0.274);
   backdrop-filter: blur(1px);
+  width: 100%;
 }
 
 .playTrailer:hover {
@@ -152,14 +154,14 @@
 }
 
 .info {
-  width: 75rem;
+  max-width: 75rem;
   margin: auto auto 5rem;
   display: flex;
   gap: 3rem;
 }
 
 .left {
-  width: calc(70% - 1.5rem);
+  width: 70%;
 }
 
 .genres {
@@ -169,7 +171,6 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  font-size: 26px;
   font-weight: 600;
 }
 
@@ -177,14 +178,14 @@
   border: 1px solid hsl(0, 0%, 70%);
   border-radius: 20px;
   padding: 0 10px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .plot {
   margin: 0;
   padding: 10px;
-  line-height: 1.2rem;
-  font-size: 18px;
+  line-height: 1.4rem;
+  font-size: 20px;
   font-weight: 300;
 }
 
@@ -199,8 +200,8 @@
 .creators p,
 .stars p {
   margin: 0;
-  line-height: 1.3rem;
-  font-size: 18px;
+  line-height: 1.4rem;
+  font-size: 20px;
   font-weight: 300;
 }
 
@@ -208,15 +209,17 @@
 .sTitle {
   font-family: 'Barlow Semi Condensed', sans-serif;
   margin: 0;
+  font-size: 22px;
+  font-weight: 600;
 }
 
 .right {
-  width: calc(30% - 1.5rem);
+  width: 30%;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
   padding: 2rem 1rem 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.11), #2228314f);
+  background: linear-gradient(rgba(0, 0, 0, 0.11), #22283127);
 }
 
 .right p {
@@ -249,18 +252,25 @@ hr {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  width: 75rem;
+  max-width: 75rem;
   margin: 0 auto 8rem;
+}
+
+.rackContainer {
+  max-width: 75rem;
+  margin: auto auto 2rem;
 }
 
 .castHead,
 .rackHead {
   display: flex;
+  align-self: flex-start;
   align-items: baseline;
   gap: 0.5rem;
   line-height: 5rem;
-  width: 75rem;
-  margin: 0 auto 1rem;
+  max-width: 75rem;
+  margin: 0 0 1rem;
+  text-align: left;
 }
 
 .castHead h1,
@@ -279,14 +289,14 @@ hr {
 }
 
 .castList {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  width: 50rem;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 75rem;
   margin: 0;
   align-self: flex-start;
   padding: 1rem 0;
   row-gap: 2rem;
-  column-gap: 2.5rem;
+  column-gap: 5rem;
 }
 
 .actor {
@@ -295,6 +305,7 @@ hr {
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, 0.199), #2228314b);
   border-radius: 45%;
+  min-width: 380px;
 }
 
 .actorInfo h3 {
@@ -323,4 +334,120 @@ hr {
   transform: rotate(45deg);
   align-self: flex-end;
   margin: 0 0 1.4rem 0.5rem;
+}
+
+@media screen and (max-width: 480px) {
+  .detailsContainer {
+    padding: 5rem 1rem 3rem;
+  }
+
+  .main {
+    padding: 1rem 0;
+  }
+
+  .header {
+    font-size: 38px;
+  }
+
+  .subHeader {
+    font-size: 14px;
+  }
+
+  .rating {
+    font-size: 18px;
+  }
+  
+  .score {
+    font-size: 22px;
+  }
+  
+  .rating div {
+    gap: 0.4rem;
+    margin: 0.4rem 0 0;
+  }
+  
+  .rate {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .star {
+    width: 30px;
+  }
+
+  .pictures {
+    flex-direction: column;
+    background: linear-gradient(#22283163, rgba(0, 0, 0, 0.658));
+  }
+  
+  .posterContainer {
+    position: relative;
+    margin: auto;
+  }
+
+  .thumbnailContainer {
+    width: 100%;
+  }
+  
+  .playTrailer {
+    font-size: 30px;
+  }
+  
+  .playButton {
+    width: 3.3rem;
+  }
+
+  .info {
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .left {
+    width: 100%;
+  }
+
+  .genre {
+    font-size: 16px;
+  }
+
+  .plot {
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+  .creators p,
+  .stars p {
+    font-size: 18px;
+  }
+
+  .cTitle,
+  .sTitle {
+    font-size: 20px;
+  }
+
+  .right {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+
+  .castHead h1,
+  .rackHead h1 {
+    font-size: 50px;
+    margin: 1rem 0.5rem 0 0;
+  }
+
+  .castHead h2,
+  .rackHead h2 {
+    font-size: 36px;
+  }
+
+  .arrow {
+    border-top: 4px solid #eee;
+    border-right: 4px solid #eee;
+    height: 1rem;
+    width: 1rem;
+    margin: 0 0 1.7rem 0.2rem;
+  }
 }
