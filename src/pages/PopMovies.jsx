@@ -32,16 +32,22 @@ export default function PopMovies() {
       <div className={s.movieList}>
         {Data.map((item, index) => (
           <div key={index} className={s.movie}>
-            <img className={s.poster} src={item.image} alt="movie poster" />
-            <p className={s.index}>{`${index + 1} . `}</p>
-            <Link className={s.title} to={`/item-details/${item.id}`}>
-              <p>{item.fullTitle}</p>
-            </Link>
-            <div className={s.ratingContainer}>
-              <p className={s.rating}>
-                <img src={starIcon} className={s.star} alt="star shaped icon" />
-                {item.imDbRating} ({item.imDbRatingCount})
-              </p>
+            <div className={s.posterContainer}>
+              <img className={s.poster} src={item.image} alt="movie poster" />
+            </div>
+            <div className={s.textContainer}>
+              <div className={s.titleContainer}>
+                <p className={s.index}>{`${index + 1}.`}</p>
+                <Link className={s.title} to={`/item-details/${item.id}`}>
+                  <p>{item.fullTitle}</p>
+                </Link>
+              </div>
+              <div className={s.ratingContainer}>
+                <p className={s.rating}>
+                  <img src={starIcon} className={s.playButton} alt="star shaped icon" />
+                  {item.imDbRating} ({item.imDbRatingCount})
+                </p>
+              </div>
             </div>
             <img className={s.saveTag} src={saveIcon} alt="#" />
           </div>
