@@ -1,6 +1,6 @@
 .detailsContainer {
   min-height: 100vh;
-  padding: 5rem 2rem 3rem;
+  padding: 5rem 0 3rem;
   background:
     linear-gradient(#393e46f1, #222831f8),
     linear-gradient(0.25turn, #393e46, #393e4600);

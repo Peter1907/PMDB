@@ -172,6 +172,7 @@ a {
 
   .rows {
     height: 51rem;
+    min-width: 27rem;
   }
 
   .dotsContainer {
