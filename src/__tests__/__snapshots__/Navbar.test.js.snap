@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<header
+  className="header"
+>
+  <a
+    className="homeLink"
+    href="/"
+    onClick={[Function]}
+  >
+    <h2
+      className="title"
+    >
+      PMDB
+    </h2>
+  </a>
+  <div
+    className="menuContainer"
+  >
+    <button
+      className="menuBtn"
+      onClick={[Function]}
+      type="button"
+    >
+      ||
+    </button>
+    <div
+      className="menu"
+      style={
+        Object {
+          "right": "-50%",
+        }
+      }
+    >
+      <div
+        className="closeBtn"
+        onClick={[Function]}
+      >
+        <p
+          className="arrow"
+        />
+        <p
+          className="line"
+        />
+      </div>
+      <div
+        className="lists"
+      >
+        <h1>
+          Quick Access
+        </h1>
+        <a
+          className="link"
+          href="/pop-movies"
+          onClick={[Function]}
+        >
+          Most Popular Movies Now
+        </a>
+        <a
+          className="link"
+          href="/top-movies"
+          onClick={[Function]}
+        >
+          Top 250 Movies of All Time
+        </a>
+        <a
+          className="link"
+          href="/pop-series"
+          onClick={[Function]}
+        >
+          Most Popular Series Now
+        </a>
+        <a
+          className="link"
+          href="/top-series"
+          onClick={[Function]}
+        >
+          Top 250 Series of All Time
+        </a>
+      </div>
+      <div
+        className="popular"
+      >
+        <h1>
+          Popular Titles
+        </h1>
+        <a
+          className="link"
+          href="/item-details/tt1375666"
+          onClick={[Function]}
+        >
+          Inception
+        </a>
+        <a
+          className="link"
+          href="/item-details/tt0816692"
+          onClick={[Function]}
+        >
+          Interstellar
+        </a>
+        <a
+          className="link"
+          href="/item-details/tt0050083"
+          onClick={[Function]}
+        >
+          12 Angry Men
+        </a>
+        <a
+          className="link"
+          href="/item-details/tt11198330"
+          onClick={[Function]}
+        >
+          House of the Dragon
+        </a>
+        <a
+          className="link"
+          href="/item-details/tt0903747"
+          onClick={[Function]}
+        >
+          Breaking Bad
+        </a>
+        <a
+          className="link"
+          href="/item-details/tt0944947"
+          onClick={[Function]}
+        >
+          Game of Thrones
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+`;

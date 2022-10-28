@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Cairo:wght@200;300;400;500;600;700&family=Goudy+Bookletter+1911&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.link.one {
+  margin-left: auto;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: #222831;
+  padding: 0.4rem 0.4rem;
+  border-radius: 3px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link.active {
+  color: #ffd369;
+  text-decoration: underline;
+  background-color: #393e4665;
+  filter: drop-shadow(0.25rem 0.25rem 0.5rem #222831);
+}
+
+.home {
+  scroll-behavior: smooth;
+}
+
+.racks {
+  background-color: #222831;
+}
+
+.header {
+  color: #ffd369;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  margin: 0 auto;
+  padding-top: 3rem;
+  font-size: 72px;
+  max-width: 75rem;
+  padding-left: 2rem;
+}
+
+.movies-rack,
+.series-rack {
+  padding: 5rem 0 0 2rem;
+}
+
+.series-rack {
+  padding-bottom: 5rem;
+}
+
+.rack-head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  line-height: 5rem;
+  max-width: 75rem;
+  margin: 0 auto 1rem;
+}
+
+.rack-head h1 {
+  flex-shrink: 0;
+  font-size: 60px;
+  color: #ffd369;
+  margin: 1rem 1rem 0 0;
+}
+
+.rack-head h2 {
+  flex-shrink: 0;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  line-height: 0;
+  padding-top: 1rem;
+  font-size: 42px;
+  font-weight: 600;
+  color: #eee;
+}
+
+.arrow {
+  flex-shrink: 0;
+  border-top: 5px solid #eee;
+  border-right: 5px solid #eee;
+  height: 1.3rem;
+  width: 1.3rem;
+  transform: rotate(45deg);
+  align-self: flex-end;
+  margin: 0 0 1.5rem 0.5rem;
+}
+
+.page-link {
+  text-decoration: none;
+  color: #eee;
+  font-size: 18px;
+  margin-left: 29rem;
+  align-self: flex-end;
+  line-height: 25px;
+}
+
+.page-link:hover {
+  text-decoration: underline;
+  color: #ffd369;
+}
+
+@media screen and (max-width: 950px) {
+  .page-link {
+    margin-left: 15rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 0 auto 0 2rem;
+  }
+
+  .series-rack {
+    padding-bottom: 5rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .movies-rack,
+  .series-rack {
+    padding: 5rem 0 0;
+  }
+
+  .series-rack {
+    padding-bottom: 5rem;
+  }
+
+  .header {
+    font-size: 60px;
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .rack-head {
+    margin: 0 5% 1rem;
+    max-width: 26rem;
+  }
+
+  .rack-head h1 {
+    font-size: 50px;
+    margin: 1rem 0.5rem 0 0;
+  }
+
+  .rack-head h2 {
+    font-size: 36px;
+  }
+
+  .arrow {
+    border-top: 4px solid #eee;
+    border-right: 4px solid #eee;
+    height: 1rem;
+    width: 1rem;
+    margin: 0 0 1.7rem 0.2rem;
+  }
+
+  .page-link {
+    font-size: 16px;
+    margin-left: auto;
+    align-self: flex-end;
+    line-height: 25px;
+  }
+
+  .page-link:hover {
+    text-decoration: underline;
+    color: #ffd369;
+  }
+}

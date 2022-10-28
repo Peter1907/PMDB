@@ -1,0 +1,148 @@
+.topMovies,
+.topSeries,
+.popMovies,
+.popSeries {
+  padding: 5rem 1rem 3rem;
+  background:
+    linear-gradient(#393e46f1, #222831f8),
+    linear-gradient(0.25turn, #393e46, #393e4600);
+  background-size: 100% 120vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #eee;
+  margin: 0;
+  font-family: 'Cairo', sans-serif;
+  min-height: 100vh;
+}
+
+.background {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 130vh;
+  z-index: -1;
+}
+
+.header,
+.subHeader {
+  max-width: 60rem;
+  margin: auto;
+  color: #ffd369;
+}
+
+.subHeader {
+  padding-left: 1rem;
+  color: #eee;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.movieList,
+.seriesList {
+  max-width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #22283165;
+  padding: 0.5rem 0;
+  box-shadow: 0 0 50px 1px #eee1;
+}
+
+.movie,
+.series {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0;
+}
+
+.movie:nth-child(even),
+.series:nth-child(even) {
+  background-color: #393e4665;
+}
+
+.posterContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.poster {
+  width: 5rem;
+  margin-left: 2rem;
+}
+
+.textContainer {
+  width: 100%;
+  display: flex;
+}
+
+.titleContainer {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.titleContainer p {
+  margin: 0;
+}
+
+.title {
+  text-decoration: none;
+  color: #eee;
+  cursor: pointer;
+}
+
+.title:hover {
+  text-decoration: underline;
+  color: #ffd369;
+}
+
+.ratingContainer {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 8rem;
+}
+
+.rating {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0;
+}
+
+.rating img {
+  width: 20px;
+}
+
+.saveTag {
+  opacity: 0.5;
+  width: 30px;
+  cursor: pointer;
+  margin: 0 2rem 0 2rem;
+  transition: all 250ms ease;
+}
+
+.saveTag:hover {
+  opacity: 1;
+  box-shadow: inset 0 0 0 80px #ffd369;
+}
+
+@media screen and (max-width: 768px) {
+  .textContainer {
+    flex-direction: column;
+  }
+
+  .ratingContainer {
+    margin-left: 1rem;
+  }
+
+  .poster {
+    margin-left: 1rem;
+  }
+
+  .saveTag {
+    margin: 0 1rem 0;
+  }
+}
