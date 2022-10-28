@@ -28,8 +28,16 @@ export default function Rack({ type }) {
     }, 100)
   };
 
+  const activateDot = (e) => {
+    const dots = e.target.parentNode.childNodes;
+    dots.forEach((dot) => {
+      dot.classList.remove(`${s.active}`);
+    })
+    e.target.classList.add(`${s.active}`);
+  };
+
   return (
-    <div className={s.rack}>
+    <div className={s.rack} onLoad={() => Scroll.scroller.scrollTo(0, 0)}>
       {(selection)
         && <div id={`${type}-rows`} className={s.rows}>
           <div name={`${type}-row1`} className={s.row1}>
@@ -107,7 +115,8 @@ export default function Rack({ type }) {
           smooth={true}
           offset={50}
           duration={300}
-          className={s.dot}
+          className={`${s.dot} ${s.active}`}
+          onClick={(e) => activateDot(e)}
         >
         </ScrollLink>
         <ScrollLink
@@ -118,6 +127,7 @@ export default function Rack({ type }) {
           offset={50}
           duration={300}
           className={s.dot}
+          onClick={(e) => activateDot(e)}
         >
         </ScrollLink>
         <ScrollLink
@@ -128,6 +138,7 @@ export default function Rack({ type }) {
           offset={50}
           duration={300}
           className={s.dot}
+          onClick={(e) => activateDot(e)}
         >
         </ScrollLink>
       </div>

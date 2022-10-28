@@ -9,10 +9,9 @@
 .inTheaters h1 {
   color: #ffd369;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  margin: 0 0 7rem;
+  margin: 0 0 3.5rem;
   text-align: center;
   font-size: 72px;
-  line-height: 1px;
 }
 
 .block {
@@ -29,14 +28,14 @@
 }
 
 .thumbnailContainer {
-  height: 28.7rem;
+  min-height: 28.7rem;
   background-color: black;
 }
 
 .mainBlock {
   position: absolute;
   bottom: 0;
-  left: 2.5rem;
+  left: 7%;
   width: 90%;
   background: linear-gradient(rgba(0, 0, 0, 0.151), black);
   backdrop-filter: blur(1px);
@@ -77,7 +76,7 @@
 
 .plot {
   font-size: 18px;
-  margin: 0 0 0 1rem;
+  margin: 0 3%;
 }
 
 .mainPlayTrailer {
@@ -86,7 +85,10 @@
   gap: 1rem;
   align-items: center;
   cursor: pointer;
-  margin: 1rem 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.247);
+  width: 100%;
+  padding: 10px;
 }
 
 .mainPlayTrailer:hover {
@@ -99,7 +101,6 @@
 
 .next {
   width: 30%;
-  flex-shrink: 1;
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -144,7 +145,7 @@
 
 .movie {
   display: flex;
-  gap: 0.5rem;
+  gap: 1rem;
   background: linear-gradient(rgba(0, 0, 0, 0.555), #222831a4);
   padding: 10px;
 }
@@ -157,4 +158,82 @@
   font-weight: 700;
   margin: 0;
   color: #ffd369;
+}
+
+@media screen and (max-width: 1024px) {
+  .block {
+    flex-direction: column;
+  }
+
+  .view {
+    width: 100%;
+    overflow: hidden;
+    aspect-ratio: 14 / 9;
+  }
+
+  .next {
+    width: 70%;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .inTheaters {
+    padding: 5rem 5% 3rem;
+  }
+
+  .inTheaters h1 {
+    text-align: center;
+    font-size: 60px;
+  }
+
+  .block {
+    flex-direction: column;
+  }
+
+  .view {
+    width: 100%;
+    min-height: 75rem;
+  }
+
+  .mainBlock {
+    position: static;
+    margin: auto auto 20rem;
+    display: flex;
+    background: transparent;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 7rem 0 0;
+  }
+
+  .imgContainer {
+    max-width: 350px;
+    margin: auto;
+  }
+
+  .mainPoster {
+    width: 100%;
+  }
+
+  .textContainer h2 {
+    font-size: 34px;
+    position: absolute;
+    top: 1.5rem;
+    left: 5%;
+  }
+
+  .mainPlayTrailer {
+    font-size: 26px;
+    position: absolute;
+    bottom: -25rem;
+  }
+
+  .mainPlayButton {
+    width: 50px;
+  }
+
+  .next {
+    width: 100%;
+  }
 }

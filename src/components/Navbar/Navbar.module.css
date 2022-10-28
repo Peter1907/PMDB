@@ -1,6 +1,6 @@
 .header {
   display: flex;
-  padding: 0 5rem;
+  padding: 0 4%;
   align-items: center;
   gap: 0;
   backdrop-filter: blur(8px);
@@ -10,7 +10,7 @@
   right: 0;
   background-color: #222831;
   z-index: 10;
-  filter: drop-shadow(0 0 15px #222831);
+  filter: drop-shadow(0 0 5px rgba(238, 238, 238, 0.096));
 }
 
 .title {

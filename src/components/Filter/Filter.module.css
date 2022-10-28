@@ -1,9 +1,9 @@
 .filter {
-  padding: 10px;
+  padding: 10px 0;
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  width: 60rem;
+  max-width: 60rem;
   margin: auto;
   justify-content: flex-end;
 }

@@ -17,10 +17,14 @@ This is a project I made using React & Redux with the help of the [IMDb API](htt
 
 ## Screenshots
 
+### Desktop
 ![](ScreenShots/s01.jpg)
 ![](ScreenShots/s02.jpg)
 ![](ScreenShots/s03.jpg)
 ![](ScreenShots/s04.jpg)
+
+### Mobile
+![](ScreenShots/msc01.jpg) ![](ScreenShots/msc02.jpg)
 
 ## Link to the Page
 

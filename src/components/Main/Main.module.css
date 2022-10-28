@@ -96,3 +96,44 @@
   align-self: flex-end;
   margin: 1rem auto 0;
 }
+
+@media screen and (max-width: 768px) {
+  .gradient {
+    background-image: linear-gradient(#222831, #222831, #222831ef, #222831d3, #22283121, #22283100, #22283175, #222831da, #222831);
+    box-shadow: inset 0 0 0 #222831;
+  }
+
+  .title img {
+    width: 90px;
+  }
+
+  .title h1 {
+    font-size: 60px;
+  }
+
+  .separator {
+    font-size: 80px;
+  }
+
+  .subTitle {
+    font-size: 36px;
+    margin: 0 0 0 4rem;
+  }
+
+  .imgContainer {
+    display: flex;
+    flex-direction: column;
+    top: 10%;
+  }
+
+  .explore {
+    font-size: 34px;
+  }
+
+  .arrow {
+    border-top: 1.5px solid #eee;
+    border-right: 1.5px solid #eee;
+    height: 1.3rem;
+    width: 1.3rem;
+  }
+}
