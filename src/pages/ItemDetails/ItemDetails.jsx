@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
@@ -18,12 +17,10 @@ export default function ItemDetails() {
   const Data = useSelector((state) => state.details);
   const storedData = localStorage.getItem(`D_${id}`);
 
-  const getData = () => (storedData ? dispatch(getStoredDetails(id)) : dispatch(getDetails(id)));
-
   useEffect(() => {
-    getData();
+    (storedData ? dispatch(getStoredDetails(id)) : dispatch(getDetails(id)));
     window.scrollTo(0, 0);
-  }, []);
+  }, [dispatch, id, storedData]);
 
   return (
     <div className={s.detailsContainer}>

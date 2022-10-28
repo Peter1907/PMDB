@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import * as Scroll from 'react-scroll';
-import { clearDetails } from '../Redux/details/details';
+import { getDetails, getStoredDetails } from '../../components/Redux/details/details';
 import PropTypes from 'prop-types';
 import s from './Rack.module.css';
 
@@ -21,11 +21,9 @@ export default function Rack({ type }) {
   const selection = options[type];
   const dispatch = useDispatch();
 
-  const refresh = () => {
-    dispatch(clearDetails());
-    setTimeout(() => {
-      document.location.reload();
-    }, 100)
+  const refresh = (id) => {
+    const storedData = localStorage.getItem(`D_${id}`);
+    (storedData ? dispatch(getStoredDetails(id)) : dispatch(getDetails(id)));
   };
 
   const activateDot = (e) => {
@@ -48,7 +46,7 @@ export default function Rack({ type }) {
                   <img className={s.poster} src={item.image} alt="poster" />
                 </div>
                 <div className={s.info}>
-                  <Link onClick={() => refresh()} to={`/item-details/${item.id}`}>
+                  <Link onClick={() => refresh(item.id)} to={`/item-details/${item.id}`}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <div className={s.ratingContainer}>
