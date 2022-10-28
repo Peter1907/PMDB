@@ -81,7 +81,7 @@ menu h1 {
   gap: 0.5rem;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 640px) {
   .menu {
     width: 100%;
   }

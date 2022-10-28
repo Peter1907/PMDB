@@ -129,7 +129,7 @@
   box-shadow: inset 0 0 0 80px #ffd369;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
   .textContainer {
     flex-direction: column;
   }

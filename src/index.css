@@ -111,7 +111,28 @@ body {
   color: #ffd369;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 950px) {
+  .page-link {
+    margin-left: 15rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .movies-rack,
+  .series-rack {
+    padding: 5rem 0 0 2rem;
+  }
+
+  .header {
+    margin: 0 auto 0 2rem;
+  }
+
+  .series-rack {
+    padding-bottom: 5rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
   .header {
     font-size: 60px;
     text-align: center;
@@ -119,6 +140,7 @@ body {
 
   .rack-head {
     margin: 0 5% 1rem;
+    max-width: 26rem;
   }
 
   .rack-head h1 {
