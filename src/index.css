@@ -49,11 +49,12 @@ body {
   padding-top: 3rem;
   font-size: 72px;
   max-width: 75rem;
+  padding-left: 2rem;
 }
 
 .movies-rack,
 .series-rack {
-  padding: 5rem 0 0;
+  padding: 5rem 0 0 2rem;
 }
 
 .series-rack {
@@ -118,11 +119,6 @@ body {
 }
 
 @media screen and (max-width: 1024px) {
-  .movies-rack,
-  .series-rack {
-    padding: 5rem 0 0 2rem;
-  }
-
   .header {
     margin: 0 auto 0 2rem;
   }
@@ -133,9 +129,19 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+  .movies-rack,
+  .series-rack {
+    padding: 5rem 0 0;
+  }
+
+  .series-rack {
+    padding-bottom: 5rem;
+  }
+
   .header {
     font-size: 60px;
     text-align: center;
+    padding-left: 0;
   }
 
   .rack-head {
@@ -147,7 +153,7 @@ body {
     font-size: 50px;
     margin: 1rem 0.5rem 0 0;
   }
-  
+
   .rack-head h2 {
     font-size: 36px;
   }
@@ -166,7 +172,7 @@ body {
     align-self: flex-end;
     line-height: 25px;
   }
-  
+
   .page-link:hover {
     text-decoration: underline;
     color: #ffd369;

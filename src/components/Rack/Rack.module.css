@@ -158,6 +158,10 @@ a {
 }
 
 @media screen and (max-width: 768px) {
+  .item:last-child {
+    display: block;
+  }
+
   .row1,
   .row2,
   .row3 {
@@ -165,7 +169,7 @@ a {
     flex-wrap: wrap;
     max-width: 30rem;
   }
-  
+
   .rows {
     height: 51rem;
   }

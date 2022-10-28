@@ -356,21 +356,21 @@ hr {
   .rating {
     font-size: 18px;
   }
-  
+
   .score {
     font-size: 22px;
   }
-  
+
   .rating div {
     gap: 0.4rem;
     margin: 0.4rem 0 0;
   }
-  
+
   .rate {
     display: flex;
     flex-direction: column;
   }
-  
+
   .star {
     width: 30px;
   }
@@ -379,7 +379,7 @@ hr {
     flex-direction: column;
     background: linear-gradient(#22283163, rgba(0, 0, 0, 0.658));
   }
-  
+
   .posterContainer {
     position: relative;
     margin: auto;
@@ -388,11 +388,11 @@ hr {
   .thumbnailContainer {
     width: 100%;
   }
-  
+
   .playTrailer {
     font-size: 30px;
   }
-  
+
   .playButton {
     width: 3.3rem;
   }
@@ -401,7 +401,7 @@ hr {
     flex-direction: column;
     gap: 2rem;
   }
-  
+
   .left {
     width: 100%;
   }
