@@ -146,3 +146,16 @@
     margin: 0 1rem 0;
   }
 }
+
+@media screen and (max-width: 436px) {
+  .topMovies,
+  .topSeries,
+  .popMovies,
+  .popSeries {
+    padding: 5rem 0.5rem 3rem;
+  }
+
+  .poster {
+    margin-left: 0.5rem;
+  }
+}
