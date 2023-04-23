@@ -3,6 +3,7 @@ import axios from 'axios';
 
 const GET = './redux/in-theaters/GET';
 const GET_STORED = './redux/in-theaters/GET_STORED';
+const UPDATE = './redux/in-theaters/UPDATE';
 
 export default function inTheatersReducer(state = [], action) {
   switch (action.type) {
@@ -10,13 +11,20 @@ export default function inTheatersReducer(state = [], action) {
       const data = action.payload.items;
       const modData = data.map((item) => ({
         ...item,
-        image: item.image.replace('UX128_CR0', 'UX350'),
+        image: item.image.replace(/_UX128_CR0_|_AL_/, '_UX350_'),
       }));
       localStorage.setItem('IN_THEATERS', JSON.stringify(modData));
+      return [modData[0], modData.slice(1, 4)];
+    }
+    case GET_STORED: {
+      const modData = JSON.parse(localStorage.getItem('IN_THEATERS'));
+      return [modData[0], modData.slice(1, 4)];
+    }
+    case UPDATE: {
+      const data = JSON.parse(localStorage.getItem('IN_THEATERS'));
+      const modData = [data[0], data.slice(1, action.count)];
       return modData;
     }
-    case GET_STORED:
-      return JSON.parse(localStorage.getItem('IN_THEATERS'));
     default:
       return state;
   }
@@ -35,4 +43,9 @@ const getStoredInTheaters = () => ({
   type: GET_STORED,
 });
 
-export { getInTheaters, getStoredInTheaters };
+const updateInTheaters = (count) => ({
+  type: UPDATE,
+  count,
+});
+
+export { getInTheaters, getStoredInTheaters, updateInTheaters };
