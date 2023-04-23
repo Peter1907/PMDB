@@ -1,7 +1,7 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { getInTheaters, getStoredInTheaters } from '../Redux/in-theaters/in-theaters';
+import { getInTheaters, getStoredInTheaters, updateInTheaters } from '../Redux/in-theaters/in-theaters';
 import Thumbnail from '../Thumbnail/Thumbnail';
 import s from './InTheaters.module.css';
 
@@ -12,19 +12,24 @@ export default function InTheaters() {
   const dispatch = useDispatch();
 
   const Data = useSelector((state) => state.inTheaters);
-  const modData = Data.slice(1, 4);
+  console.log(Data);
   const DATA = localStorage.getItem('IN_THEATERS');
 
   useEffect(() => {
     (DATA ? dispatch(getStoredInTheaters()) : dispatch(getInTheaters()));
   }, [DATA, dispatch]);
 
+  const [count, setCount] = useState(7);
+  const handleLoad = (i) => {
+    dispatch(updateInTheaters(i));
+  };
+
   return (
     <div id="in-theaters" className={s.inTheaters}>
       <h1>In Theaters Now!</h1>
-      <div className={s.block}>
-        {(Data.length > 0)
-          && (<div className={s.view}>
+      {(Data.length > 0)
+        && (<div className={s.block}>
+          <div className={s.view}>
             <div className={s.thumbnailContainer}>
               <Thumbnail id={Data[0].id} />
               <div className={s.mainBlock}>
@@ -44,29 +49,39 @@ export default function InTheaters() {
                 </div>
               </div>
             </div>
-          </div>)}
-        <div className={s.next}>
-          {modData.map((item, index) => (
-            <div key={index} className={s.movie}>
-              <img src={item.image} className={s.poster} alt="poster" />
-              <div className={s.text}>
-                <Link to={`/item-details/${item.id}`}>
-                  <h3 className={s.title} >{item.title}</h3>
-                </Link>
-                <p><strong>Genre:</strong> {item.genres}</p>
-                <p className={s.rating}>
-                  <img src={starIcon} className={s.playButton} alt="start shaped icon" />
-                  {item.imDbRating} ({item.imDbRatingCount})
-                </p>
-                <p className={s.playTrailer}>
-                  <img src={playIcon} className={s.playButton} alt="play button" />
-                  watch<br /> trailer
-                </p>
+          </div>
+          <div className={s.next}>
+            {Data[1].map((item, index) => (
+              <div key={index} className={s.movie}>
+                <img src={item.image} className={s.poster} alt="poster" />
+                <div className={s.text}>
+                  <Link to={`/item-details/${item.id}`}>
+                    <h3 className={s.title} >{item.title}</h3>
+                  </Link>
+                  <p><strong>Genre:</strong> {item.genres}</p>
+                  <p className={s.rating}>
+                    <img src={starIcon} className={s.playButton} alt="start shaped icon" />
+                    {item.imDbRating} ({item.imDbRatingCount})
+                  </p>
+                  <p className={s.playTrailer}>
+                    <img src={playIcon} className={s.playButton} alt="play button" />
+                    watch<br /> trailer
+                  </p>
+                </div>
               </div>
-            </div>
-          ))}
-        </div>
-      </div>
+            ))}
+            <button
+              className={s.loadBtn}
+              type="button"
+              onClick={() => {
+                handleLoad(count);
+                setCount(count + 3);
+              }}
+            >
+              Load more
+            </button>
+          </div>
+        </div>)}
     </div>
   )
 }
