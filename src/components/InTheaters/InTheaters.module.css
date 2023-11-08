@@ -262,3 +262,13 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width: 436px) {
+  .inTheaters {
+    padding: 5rem 0.5rem 3rem;
+  }
+
+  .inTheaters h1 {
+    font-size: 46px;
+  }
+}
