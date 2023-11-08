@@ -12,7 +12,7 @@ export default function popSeriesReducer(state = [], action) {
       const data = action.payload.items;
       const modData = data.map((item) => ({
         ...item,
-        image: item.image.replace('Ratio0', 'UX350'),
+        image: item.image.replace('UX128_CR0', 'UX350'),
       }));
       localStorage.setItem('POP_SERIES', JSON.stringify(modData));
       return modData;
@@ -35,7 +35,7 @@ export default function popSeriesReducer(state = [], action) {
 const getPopSeries = createAsyncThunk(
   GET,
   async () => {
-    const response = await axios('https://imdb-api.com/en/API/MostPopularTVs/k_sncsc4tf');
+    const response = await axios('https://imdb-api.com/en/API/MostPopularTVs/k_0m1r0qhf');
     const data = await response.data;
     return data;
   },

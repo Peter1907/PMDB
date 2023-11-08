@@ -81,7 +81,7 @@ menu h1 {
   gap: 0.5rem;
 }
 
-@media screen and (max-width: 640px) {
+@media (max-aspect-ratio: 1.2) {
   .menu {
     width: 100%;
   }

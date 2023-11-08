@@ -6,7 +6,7 @@
   background:
     linear-gradient(#393e46f1, #222831f8),
     linear-gradient(0.25turn, #393e46, #393e4600);
-  background-size: 100% 100vh;
+  background-size: 100% 120vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #eee;
@@ -144,5 +144,18 @@
 
   .saveTag {
     margin: 0 1rem 0;
+  }
+}
+
+@media screen and (max-width: 436px) {
+  .topMovies,
+  .topSeries,
+  .popMovies,
+  .popSeries {
+    padding: 5rem 0.5rem 3rem;
+  }
+
+  .poster {
+    margin-left: 0.5rem;
   }
 }

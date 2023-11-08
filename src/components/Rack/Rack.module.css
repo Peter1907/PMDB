@@ -172,15 +172,44 @@ a {
 
   .rows {
     height: 51rem;
+    min-width: 27rem;
   }
 
   .dotsContainer {
     top: auto;
-    left: 15rem;
+    left: 50%;
     bottom: -3rem;
     transform: translate(-50%, 0);
     height: 2rem;
     flex-direction: row;
     align-items: center;
+  }
+}
+
+@media screen and (max-width: 436px) {
+  .rows {
+    min-width: 350px;
+  }
+
+  .rows {
+    height: calc(0.8 * 51rem);
+  }
+  
+  .row1,
+  .row2,
+  .row3 {
+    display: flex;
+    gap: 0.5rem;
+    scroll-snap-align: start;
+  }
+  
+  .item {
+    height: calc(0.8 * 25rem);
+    width: calc(0.8 * 13rem);
+    font-size: 14px;
+  }
+
+  .btn {
+    font-size: 14px;
   }
 }

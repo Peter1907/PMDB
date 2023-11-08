@@ -1,10 +1,10 @@
 .detailsContainer {
   min-height: 100vh;
-  padding: 5rem 2rem 3rem;
+  padding: 5rem 0 3rem;
   background:
     linear-gradient(#393e46f1, #222831f8),
     linear-gradient(0.25turn, #393e46, #393e4600);
-  background-size: 100% 100vh;
+  background-size: 100% 120vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #eee;
@@ -254,9 +254,11 @@ hr {
   gap: 1rem;
   max-width: 75rem;
   margin: 0 auto 8rem;
+  padding-left: 0.5rem;
 }
 
 .rackContainer {
+  padding-left: 0.5rem;
   max-width: 75rem;
   margin: auto auto 2rem;
 }
@@ -337,12 +339,8 @@ hr {
 }
 
 @media screen and (max-width: 1024px) {
-  .detailsContainer {
-    padding: 5rem 1rem 3rem;
-  }
-
   .main {
-    padding: 1rem 0;
+    padding: 1rem 0.5rem;
   }
 
   .header {
@@ -351,6 +349,7 @@ hr {
 
   .subHeader {
     font-size: 14px;
+    margin-left: 0.5rem;
   }
 
   .rating {
@@ -449,5 +448,19 @@ hr {
     height: 1rem;
     width: 1rem;
     margin: 0 0 1.7rem 0.2rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .rackContainer {
+    padding: 0;
+  }
+
+  .rackHead {
+    padding-left: 0.5rem;
+  }
+
+  .actor {
+    min-width: 340px;
   }
 }
