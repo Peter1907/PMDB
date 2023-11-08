@@ -1,4 +1,4 @@
-const IN_THEATERS = [
+export const IN_THEATERS = [
   {
     "id": "tt14209916",
     "title": "Cocaine Bear",

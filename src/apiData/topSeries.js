@@ -1,4 +1,4 @@
-const TOP_SERIES = [
+export const TOP_SERIES = [
   {
     "id": "tt5491994",
     "rank": "1",

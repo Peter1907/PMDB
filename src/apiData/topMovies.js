@@ -1,4 +1,4 @@
-const TOP_MOVIES = [
+export const TOP_MOVIES = [
   {
     "id": "tt0111161",
     "rank": "1",

@@ -1,5 +1,6 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
+import { itemsData } from '../../../apiData/itemsData';
 
 const GET = './redux/details/GET';
 const GET_STORED = './redux/details/GET_STORED';
@@ -21,7 +22,7 @@ const getDetails = createAsyncThunk(
   GET,
   async (id) => {
     const response = await axios(`https://imdb-api.com/en/API/Title/k_0m1r0qhf/${id}`);
-    const data = await response.data;
+    const data = response.data.errorMessage ? itemsData[`D_${id}`] : response.data;
     return data;
   },
 );

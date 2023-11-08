@@ -1,5 +1,6 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
+import { POP_MOVIES } from '../../../apiData/popMovies';
 
 const GET = './redux/pop-movies/GET';
 const GET_STORED = './redux/pop-movies/GET_STORED';
@@ -9,7 +10,7 @@ const REMOVE_FILTER = './redux/pop-movies/REMOVE_FILTER';
 export default function popMoviesReducer(state = [], action) {
   switch (action.type) {
     case `${GET}/fulfilled`: {
-      const data = action.payload.items;
+      const data = action.payload.items || action.payload;
       const modData = data.map((item) => ({
         ...item,
         image: item.image.replace('UX128_CR0,', 'UX350_'),
@@ -36,7 +37,7 @@ const getPopMovies = createAsyncThunk(
   GET,
   async () => {
     const response = await axios('https://imdb-api.com/en/API/MostPopularMovies/k_sncsc4tf');
-    const data = await response.data;
+    const data = response.data.errorMessage ? POP_MOVIES : response.data;
     return data;
   },
 );

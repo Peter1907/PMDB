@@ -1,4 +1,4 @@
-const POP_SERIES = [
+export const POP_SERIES = [
   {
     "id": "tt3581920",
     "rank": "1",

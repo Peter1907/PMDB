@@ -1,4 +1,4 @@
-const POP_MOVIES = [
+export const POP_MOVIES = [
   {
     "id": "tt6718170",
     "rank": "1",
