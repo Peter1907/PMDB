@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import NavBar from './components/Navbar/NavBar';
 import TopMovies from './pages/TopMovies';
@@ -10,8 +9,6 @@ import ItemDetails from './pages/ItemDetails/ItemDetails';
 import Disclaimer from './components/Disclaimer/Disclaimer';
 
 function App() {
-  const [disclaimer, setDisclaimer] = useState(true);
-
   return (
     <div className="App">
       <NavBar />
@@ -23,7 +20,7 @@ function App() {
         <Route path="/pop-series" element={<PopSeries />} />
         <Route path="/item-details/:id" element={<ItemDetails />} />
       </Routes>
-      {disclaimer && <Disclaimer closeMsg={() => setDisclaimer(false)} />}
+      <Disclaimer />
     </div>
   );
 }

@@ -16,6 +16,7 @@ export default function DisclaimerSvg({ primaryColor, secondaryColor, open }) {
       ease: 'power1.out',
     });
     tl.add(iconAnimation);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const displayMsg = () => {
