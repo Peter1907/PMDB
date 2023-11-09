@@ -19,8 +19,9 @@ export default function InTheaters() {
   }, [DATA, dispatch]);
 
   const [count, setCount] = useState(7);
-  const handleLoad = (i) => {
+  const handleLoad = (i, event) => {
     dispatch(updateInTheaters(i));
+    if (i === 7) event.target.parentNode.style.overflowY = 'scroll';
   };
 
   return (
@@ -72,8 +73,8 @@ export default function InTheaters() {
             <button
               className={s.loadBtn}
               type="button"
-              onClick={() => {
-                handleLoad(count);
+              onClick={(event) => {
+                handleLoad(count, event);
                 setCount(count + 3);
               }}
             >
