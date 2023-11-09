@@ -1,8 +1,41 @@
+import { useEffect, useRef } from 'react';
+import gsap from 'gsap';
 import s from './disclaimer.module.css';
 
 export default function DisclaimerSvg({ primaryColor, secondaryColor, open }) {
+  const iconRef = useRef(null);
+
+  let tl = gsap.timeline();
+
+  useEffect(() => {
+    const iconAnimation = gsap.to(iconRef.current, {
+      marginBottom: '2rem',
+      duration: 0.8,
+      repeat: -1,
+      yoyo: true,
+      ease: 'power1.out',
+    });
+    tl.add(iconAnimation);
+  }, []);
+
+  const displayMsg = () => {
+    tl.pause();
+    gsap.to(iconRef.current, {
+      marginBottom: 0,
+      duration: 0.5,
+    })
+    open();
+  };
+
   return (
-    <svg onClick={() => open()} className={s.svg} xmlns="http://www.w3.org/2000/svg" height="3.5rem" viewBox="0 0 512 512">
+    <svg
+      ref={iconRef}
+      onClick={() => displayMsg()}
+      className={s.svg}
+      xmlns="http://www.w3.org/2000/svg"
+      height="3.5rem"
+      viewBox="0 0 512 512"
+    >
       {/* Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. */}
       <path
         fill={primaryColor}
