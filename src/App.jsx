@@ -6,6 +6,7 @@ import TopSeries from './pages/TopSeries';
 import PopMovies from './pages/PopMovies';
 import PopSeries from './pages/PopSeries';
 import ItemDetails from './pages/ItemDetails/ItemDetails';
+import Disclaimer from './components/Disclaimer/Disclaimer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/pop-series" element={<PopSeries />} />
         <Route path="/item-details/:id" element={<ItemDetails />} />
       </Routes>
+      <Disclaimer />
     </div>
   );
 }

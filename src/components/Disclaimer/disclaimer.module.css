@@ -1,0 +1,28 @@
+.disclaimer {
+  z-index: 12;
+  max-width: 760px;
+  padding: 0 1rem;
+  position: fixed;
+  left: calc(5% / 2);
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: #ffd369;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.svg {
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.close {
+  align-self: flex-start;
+  margin-top: 0.3rem;
+  border: none;
+  font-size: 1.5rem;
+  background-color: transparent;
+  font-weight: 900;
+  cursor: pointer;
+}
