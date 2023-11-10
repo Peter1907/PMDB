@@ -12,7 +12,7 @@ export default function InTheaters() {
   const dispatch = useDispatch();
 
   const Data = useSelector((state) => state.inTheaters);
-  const DATA = localStorage.getItem('IN_THEATERS');
+  const DATA = sessionStorage.getItem('IN_THEATERS');
 
   useEffect(() => {
     (DATA ? dispatch(getStoredInTheaters()) : dispatch(getInTheaters()));

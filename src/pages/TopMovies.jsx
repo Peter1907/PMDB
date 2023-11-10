@@ -16,7 +16,7 @@ export default function TopMovies() {
   const background = ('./assets/img.jpg');
   const dispatch = useDispatch();
   const Data = useSelector((state) => state.topMovies);
-  const storedData = localStorage.getItem('TOP_MOVIES');
+  const storedData = sessionStorage.getItem('TOP_MOVIES');
 
   useEffect(() => {
     (storedData ? dispatch(getStoredTopMovies()) : dispatch(getTopMovies()));

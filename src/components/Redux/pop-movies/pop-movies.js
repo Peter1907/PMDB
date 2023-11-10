@@ -15,19 +15,19 @@ export default function popMoviesReducer(state = [], action) {
         ...item,
         image: item.image.replace('UX128_CR0,', 'UX350_'),
       }));
-      localStorage.setItem('POP_MOVIES', JSON.stringify(modData));
+      sessionStorage.setItem('POP_MOVIES', JSON.stringify(modData));
       return modData;
     }
     case GET_STORED:
-      return JSON.parse(localStorage.getItem('POP_MOVIES'));
+      return JSON.parse(sessionStorage.getItem('POP_MOVIES'));
     case FILTER: {
-      const list = JSON.parse(localStorage.getItem('POP_MOVIES'));
+      const list = JSON.parse(sessionStorage.getItem('POP_MOVIES'));
       const param = new RegExp(action.text, 'ig');
       const modList = list.filter((item) => (item[action.category].match(param)));
       return modList;
     }
     case REMOVE_FILTER:
-      return JSON.parse(localStorage.getItem('POP_MOVIES'));
+      return JSON.parse(sessionStorage.getItem('POP_MOVIES'));
     default:
       return state;
   }

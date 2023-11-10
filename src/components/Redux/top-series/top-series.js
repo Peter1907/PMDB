@@ -15,19 +15,19 @@ export default function topSeriesReducer(state = [], action) {
         ...item,
         image: item.image.replace('UX128_CR0', 'UX350'),
       }));
-      localStorage.setItem('TOP_SERIES', JSON.stringify(modData));
+      sessionStorage.setItem('TOP_SERIES', JSON.stringify(modData));
       return modData;
     }
     case GET_STORED:
-      return JSON.parse(localStorage.getItem('TOP_SERIES'));
+      return JSON.parse(sessionStorage.getItem('TOP_SERIES'));
     case FILTER: {
-      const list = JSON.parse(localStorage.getItem('TOP_SERIES'));
+      const list = JSON.parse(sessionStorage.getItem('TOP_SERIES'));
       const param = new RegExp(action.text, 'ig');
       const modList = list.filter((item) => (item[action.category].match(param)));
       return modList;
     }
     case REMOVE_FILTER:
-      return JSON.parse(localStorage.getItem('TOP_SERIES'));
+      return JSON.parse(sessionStorage.getItem('TOP_SERIES'));
     default:
       return state;
   }

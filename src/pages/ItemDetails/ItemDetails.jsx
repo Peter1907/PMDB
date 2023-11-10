@@ -15,7 +15,7 @@ export default function ItemDetails() {
   const { id } = useParams();
 
   const Data = useSelector((state) => state.details);
-  const storedData = localStorage.getItem(`D_${id}`);
+  const storedData = sessionStorage.getItem(`D_${id}`);
 
   useEffect(() => {
     (storedData ? dispatch(getStoredDetails(id)) : dispatch(getDetails(id)));

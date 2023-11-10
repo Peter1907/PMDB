@@ -9,10 +9,10 @@ const CLEAR = './redux/details/CLEAR';
 export default function detailsReducer(state = [], action) {
   switch (action.type) {
     case `${GET}/fulfilled`:
-      localStorage.setItem(`D_${action.payload.id}`, JSON.stringify(action.payload));
+      sessionStorage.setItem(`D_${action.payload.id}`, JSON.stringify(action.payload));
       return action.payload;
     case GET_STORED:
-      return JSON.parse(localStorage.getItem(`D_${action.id}`));
+      return JSON.parse(sessionStorage.getItem(`D_${action.id}`));
     default:
       return state;
   }

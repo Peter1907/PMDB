@@ -5,7 +5,7 @@ import s from './Thumbnail.module.css';
 
 const Thumbnail = ({ id, type }) => {
   const dispatch = useDispatch();
-  const storedTrailer = localStorage.getItem(`T_${id}`);
+  const storedTrailer = sessionStorage.getItem(`T_${id}`);
   const trailerInfo = useSelector((state) => state.trailer);
 
   useEffect(() => {

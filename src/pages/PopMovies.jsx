@@ -16,7 +16,7 @@ export default function PopMovies() {
   const background = ('./assets/img.jpg');
   const dispatch = useDispatch();
   const Data = useSelector((state) => state.popMovies);
-  const storedData = localStorage.getItem('POP_MOVIES');
+  const storedData = sessionStorage.getItem('POP_MOVIES');
 
   useEffect(() => {
     (storedData ? dispatch(getStoredPopMovies()) : dispatch(getPopMovies()));

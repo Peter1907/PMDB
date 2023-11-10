@@ -14,15 +14,15 @@ export default function inTheatersReducer(state = [], action) {
         ...item,
         image: item.image.replace(/_UX128_CR0_|_AL_/, '_UX350_'),
       }));
-      localStorage.setItem('IN_THEATERS', JSON.stringify(modData));
+      sessionStorage.setItem('IN_THEATERS', JSON.stringify(modData));
       return [modData[0], modData.slice(1, 4)];
     }
     case GET_STORED: {
-      const modData = JSON.parse(localStorage.getItem('IN_THEATERS'));
+      const modData = JSON.parse(sessionStorage.getItem('IN_THEATERS'));
       return [modData[0], modData.slice(1, 4)];
     }
     case UPDATE: {
-      const data = JSON.parse(localStorage.getItem('IN_THEATERS'));
+      const data = JSON.parse(sessionStorage.getItem('IN_THEATERS'));
       const modData = [data[0], data.slice(1, action.count)];
       return modData;
     }

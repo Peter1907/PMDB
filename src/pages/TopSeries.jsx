@@ -16,7 +16,7 @@ export default function TopSeries() {
   const background = ('./assets/img.jpg');
   const dispatch = useDispatch();
   const Data = useSelector((state) => state.topSeries);
-  const storedData = localStorage.getItem('TOP_SERIES');
+  const storedData = sessionStorage.getItem('TOP_SERIES');
 
   useEffect(() => {
     (storedData ? dispatch(getStoredTopSeries()) : dispatch(getTopSeries()));

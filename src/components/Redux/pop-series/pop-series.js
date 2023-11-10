@@ -15,19 +15,19 @@ export default function popSeriesReducer(state = [], action) {
         ...item,
         image: item.image.replace('UX128_CR0', 'UX350'),
       }));
-      localStorage.setItem('POP_SERIES', JSON.stringify(modData));
+      sessionStorage.setItem('POP_SERIES', JSON.stringify(modData));
       return modData;
     }
     case GET_STORED:
-      return JSON.parse(localStorage.getItem('POP_SERIES'));
+      return JSON.parse(sessionStorage.getItem('POP_SERIES'));
     case FILTER: {
-      const list = JSON.parse(localStorage.getItem('POP_SERIES'));
+      const list = JSON.parse(sessionStorage.getItem('POP_SERIES'));
       const param = new RegExp(action.text, 'ig');
       const modList = list.filter((item) => (item[action.category].match(param)));
       return modList;
     }
     case REMOVE_FILTER:
-      return JSON.parse(localStorage.getItem('POP_SERIES'));
+      return JSON.parse(sessionStorage.getItem('POP_SERIES'));
     default:
       return state;
   }

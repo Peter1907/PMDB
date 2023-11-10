@@ -22,7 +22,7 @@ export default function Rack({ type }) {
   const dispatch = useDispatch();
 
   const refresh = (id) => {
-    const storedData = localStorage.getItem(`D_${id}`);
+    const storedData = sessionStorage.getItem(`D_${id}`);
     (storedData ? dispatch(getStoredDetails(id)) : dispatch(getDetails(id)));
   };
 

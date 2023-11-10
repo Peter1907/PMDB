@@ -16,7 +16,7 @@ export default function PopSeries() {
   const background = ('./assets/img.jpg');
   const dispatch = useDispatch();
   const Data = useSelector((state) => state.popSeries);
-  const storedData = localStorage.getItem('POP_SERIES');
+  const storedData = sessionStorage.getItem('POP_SERIES');
 
   useEffect(() => {
     (storedData ? dispatch(getStoredPopSeries()) : dispatch(getPopSeries()));
