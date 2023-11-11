@@ -6,7 +6,7 @@ export const POP_SERIES = [
     "title": "The Last of Us",
     "fullTitle": "The Last of Us (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Pedro Pascal, Bella Ramsey",
     "imDbRating": "9.1",
     "imDbRatingCount": "262312"
@@ -18,7 +18,7 @@ export const POP_SERIES = [
     "title": "The Mandalorian",
     "fullTitle": "The Mandalorian (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjRlZDIyNDMtZjIwYi00YmJiLTg4NjMtODA2Mjc0YTBlNzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjRlZDIyNDMtZjIwYi00YmJiLTg4NjMtODA2Mjc0YTBlNzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Pedro Pascal, Carl Weathers",
     "imDbRating": "8.7",
     "imDbRatingCount": "508307"
@@ -30,7 +30,7 @@ export const POP_SERIES = [
     "title": "Outer Banks",
     "fullTitle": "Outer Banks (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2Q3MmQzODctZDJhMi00NGMyLWI4M2YtZDkwODdiOGZkMGRjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Q3MmQzODctZDJhMi00NGMyLWI4M2YtZDkwODdiOGZkMGRjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Chase Stokes, Madelyn Cline",
     "imDbRating": "7.6",
     "imDbRatingCount": "61158"
@@ -42,7 +42,7 @@ export const POP_SERIES = [
     "title": "1923",
     "fullTitle": "1923 (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWZhNGJjMGUtYmVhZi00NDFiLWE2NWMtYjE1OGZmNGMxNDk4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWZhNGJjMGUtYmVhZi00NDFiLWE2NWMtYjE1OGZmNGMxNDk4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Harrison Ford, Helen Mirren",
     "imDbRating": "8.5",
     "imDbRatingCount": "24218"
@@ -54,7 +54,7 @@ export const POP_SERIES = [
     "title": "Poker Face",
     "fullTitle": "Poker Face (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDMyNjAxYTQtMjAyNi00NGQ5LWE0YzUtMTEzNWQ5NjYyNmFjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDMyNjAxYTQtMjAyNi00NGQ5LWE0YzUtMTEzNWQ5NjYyNmFjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Natasha Lyonne, Benjamin Bratt",
     "imDbRating": "8.0",
     "imDbRatingCount": "18310"
@@ -66,7 +66,7 @@ export const POP_SERIES = [
     "title": "Attack on Titan",
     "fullTitle": "Attack on Titan (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._UX240_Ratio0.7313_AL_.jpg",
     "crew": "Josh Grelle, Bryce Papenbrook",
     "imDbRating": "9.0",
     "imDbRatingCount": "395512"
@@ -78,7 +78,7 @@ export const POP_SERIES = [
     "title": "Daisy Jones & The Six",
     "fullTitle": "Daisy Jones & The Six (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjdlZmJmNzAtYWI1OC00YzVmLWE0N2UtNzg5YTUyODk2ODcxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjdlZmJmNzAtYWI1OC00YzVmLWE0N2UtNzg5YTUyODk2ODcxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Riley Keough, Sam Claflin",
     "imDbRating": "8.0",
     "imDbRatingCount": "2869"
@@ -90,7 +90,7 @@ export const POP_SERIES = [
     "title": "The White Lotus",
     "fullTitle": "The White Lotus (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjdjNzBmYjEtM2Y5My00YjI0LWJjY2YtOGQ4MjNkNmE2MDVjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdjNzBmYjEtM2Y5My00YjI0LWJjY2YtOGQ4MjNkNmE2MDVjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jennifer Coolidge, Jon Gries",
     "imDbRating": "7.9",
     "imDbRatingCount": "155787"
@@ -102,7 +102,7 @@ export const POP_SERIES = [
     "title": "Yellowstone",
     "fullTitle": "Yellowstone (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGFiZjU5NGEtNTAwNS00ZjI2LTg0YTktNjg0ODFlM2E0NGVhXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGFiZjU5NGEtNTAwNS00ZjI2LTg0YTktNjg0ODFlM2E0NGVhXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Kevin Costner, Luke Grimes",
     "imDbRating": "8.7",
     "imDbRatingCount": "165991"
@@ -114,7 +114,7 @@ export const POP_SERIES = [
     "title": "You",
     "fullTitle": "You (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmUxYTllMzEtNmNmMi00OWNkLTg0ZmItZDdkYTJkOTAxZmJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmUxYTllMzEtNmNmMi00OWNkLTg0ZmItZDdkYTJkOTAxZmJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Penn Badgley, Victoria Pedretti",
     "imDbRating": "7.7",
     "imDbRatingCount": "262871"
@@ -126,7 +126,7 @@ export const POP_SERIES = [
     "title": "The Consultant",
     "fullTitle": "The Consultant (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzEyMDBmNmItZmI5My00ZDVjLTliNWEtZDc1NzMyYWY1MzNlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzEyMDBmNmItZmI5My00ZDVjLTliNWEtZDc1NzMyYWY1MzNlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Christoph Waltz, Nat Wolff",
     "imDbRating": "6.6",
     "imDbRatingCount": "7107"
@@ -138,7 +138,7 @@ export const POP_SERIES = [
     "title": "Star Trek: Picard",
     "fullTitle": "Star Trek: Picard (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzRjZWQ5YzAtY2Q1Ny00MmY0LWFmMmItNjEzNGEwNDdjYWExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzRjZWQ5YzAtY2Q1Ny00MmY0LWFmMmItNjEzNGEwNDdjYWExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Patrick Stewart, Michelle Hurd",
     "imDbRating": "7.3",
     "imDbRatingCount": "76935"
@@ -150,7 +150,7 @@ export const POP_SERIES = [
     "title": "The Walking Dead",
     "fullTitle": "The Walking Dead (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Andrew Lincoln, Norman Reedus",
     "imDbRating": "8.1",
     "imDbRatingCount": "1013664"
@@ -162,7 +162,7 @@ export const POP_SERIES = [
     "title": "Shrinking",
     "fullTitle": "Shrinking (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzhjMDIwOTgtYmMwNC00ZDIyLWJiMzUtMDM0YTY3M2VmOWNiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhjMDIwOTgtYmMwNC00ZDIyLWJiMzUtMDM0YTY3M2VmOWNiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jason Segel, Jessica Williams",
     "imDbRating": "7.9",
     "imDbRatingCount": "15299"
@@ -174,7 +174,7 @@ export const POP_SERIES = [
     "title": "Game of Thrones",
     "fullTitle": "Game of Thrones (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._UX240_Ratio0.7313_AL_.jpg",
     "crew": "Emilia Clarke, Peter Dinklage",
     "imDbRating": "9.2",
     "imDbRatingCount": "2135558"
@@ -186,7 +186,7 @@ export const POP_SERIES = [
     "title": "Carnival Row",
     "fullTitle": "Carnival Row (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGY4ZDFiYWYtYzMwZS00ZmVlLWEwOGEtM2I1ZjcxNTFjMTRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGY4ZDFiYWYtYzMwZS00ZmVlLWEwOGEtM2I1ZjcxNTFjMTRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Orlando Bloom, Cara Delevingne",
     "imDbRating": "7.8",
     "imDbRatingCount": "70291"
@@ -198,7 +198,7 @@ export const POP_SERIES = [
     "title": "Succession",
     "fullTitle": "Succession (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTY0YjU0NTUtMGRmNS00NDMyLWI2MzYtNjM2MmM1M2FkMjkyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTY0YjU0NTUtMGRmNS00NDMyLWI2MzYtNjM2MmM1M2FkMjkyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Nicholas Braun, Brian Cox",
     "imDbRating": "8.8",
     "imDbRatingCount": "160824"
@@ -210,7 +210,7 @@ export const POP_SERIES = [
     "title": "Ted Lasso",
     "fullTitle": "Ted Lasso (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jason Sudeikis, Brett Goldstein",
     "imDbRating": "8.8",
     "imDbRatingCount": "233435"
@@ -222,7 +222,7 @@ export const POP_SERIES = [
     "title": "Sex/Life",
     "fullTitle": "Sex/Life (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2NlYjZiYjItNTljNy00MzU2LWJkYmMtMjNkMWVjYmYwMzExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NlYjZiYjItNTljNy00MzU2LWJkYmMtMjNkMWVjYmYwMzExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Sarah Shahi, Mike Vogel",
     "imDbRating": "5.5",
     "imDbRatingCount": "24032"
@@ -234,7 +234,7 @@ export const POP_SERIES = [
     "title": "Breaking Bad",
     "fullTitle": "Breaking Bad (2008)",
     "year": "2008",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2VjOTkwMjgtYWEyMy00MzNmLTllMjktNDI1ZmRhYTAwYTg1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2VjOTkwMjgtYWEyMy00MzNmLTllMjktNDI1ZmRhYTAwYTg1XkEyXkFqcGdeQXVyNjAwNDUxODI@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Bryan Cranston, Aaron Paul",
     "imDbRating": "9.5",
     "imDbRatingCount": "1937699"
@@ -246,7 +246,7 @@ export const POP_SERIES = [
     "title": "South Park",
     "fullTitle": "South Park (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjNhODYzZGItZWQ3Ny00ZjViLTkxMTUtM2EzN2RjYjU2OGZiXkEyXkFqcGdeQXVyMTI5MTc0OTIy._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjNhODYzZGItZWQ3Ny00ZjViLTkxMTUtM2EzN2RjYjU2OGZiXkEyXkFqcGdeQXVyMTI5MTc0OTIy._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Trey Parker, Matt Stone",
     "imDbRating": "8.7",
     "imDbRatingCount": "378519"
@@ -258,7 +258,7 @@ export const POP_SERIES = [
     "title": "Servant",
     "fullTitle": "Servant (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDNiOWE4Y2YtMDZiOS00OGFlLWIyN2QtYjA0MmFlOWY0NDRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDNiOWE4Y2YtMDZiOS00OGFlLWIyN2QtYjA0MmFlOWY0NDRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Lauren Ambrose, Toby Kebbell",
     "imDbRating": "7.5",
     "imDbRatingCount": "39640"
@@ -270,7 +270,7 @@ export const POP_SERIES = [
     "title": "Party Down",
     "fullTitle": "Party Down (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWI5MTNmNzktZGI2MS00YzEwLWEzODYtZDBhZjJmNzQ0YjhiXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWI5MTNmNzktZGI2MS00YzEwLWEzODYtZDBhZjJmNzQ0YjhiXkEyXkFqcGdeQXVyMTM1MTE1NDMx._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Adam Scott, Ken Marino",
     "imDbRating": "8.2",
     "imDbRatingCount": "33620"
@@ -282,7 +282,7 @@ export const POP_SERIES = [
     "title": "Wednesday",
     "fullTitle": "Wednesday (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jenna Ortega, Hunter Doohan",
     "imDbRating": "8.1",
     "imDbRatingCount": "288852"
@@ -294,7 +294,7 @@ export const POP_SERIES = [
     "title": "True Lies",
     "fullTitle": "True Lies (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjRkOWI3NzAtNzE1OC00YTAyLWJiZDgtZThiNjNlYzU2MzU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRkOWI3NzAtNzE1OC00YTAyLWJiZDgtZThiNjNlYzU2MzU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Ginger Gonzaga, Erica Hernandez",
     "imDbRating": "5.1",
     "imDbRatingCount": "1046"
@@ -306,7 +306,7 @@ export const POP_SERIES = [
     "title": "Grey's Anatomy",
     "fullTitle": "Grey's Anatomy (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0N2MtNGY0Mi00ZWFjLTkxODEtZDFjNDg4ZDliMGVmXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0N2MtNGY0Mi00ZWFjLTkxODEtZDFjNDg4ZDliMGVmXkEyXkFqcGdeQXVyMzAzNTY3MDM@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Chandra Wilson, James Pickens Jr.",
     "imDbRating": "7.6",
     "imDbRatingCount": "316388"
@@ -318,7 +318,7 @@ export const POP_SERIES = [
     "title": "The Blacklist",
     "fullTitle": "The Blacklist (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTU1OTdjYTUtMzA2MS00Njg4LWI1NTctMWUzYzNkNmQ5YWY3XkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU1OTdjYTUtMzA2MS00Njg4LWI1NTctMWUzYzNkNmQ5YWY3XkEyXkFqcGdeQXVyMTUwMzM5ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "James Spader, Megan Boone",
     "imDbRating": "8.0",
     "imDbRatingCount": "255409"
@@ -330,7 +330,7 @@ export const POP_SERIES = [
     "title": "Your Honor",
     "fullTitle": "Your Honor (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTIxMmJlNzAtZTQ3NC00MjIyLTk4YTUtNmNlNzNjMzYzZWFiXkEyXkFqcGdeQXVyMTUyMTU1MDg1._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTIxMmJlNzAtZTQ3NC00MjIyLTk4YTUtNmNlNzNjMzYzZWFiXkEyXkFqcGdeQXVyMTUyMTU1MDg1._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Bryan Cranston, Hope Davis",
     "imDbRating": "7.6",
     "imDbRatingCount": "54650"
@@ -342,7 +342,7 @@ export const POP_SERIES = [
     "title": "1883",
     "fullTitle": "1883 (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDZkZDdkMjYtMGI3Yi00MmVkLTkzZjQtMGI0NGViNzIzNjhjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDZkZDdkMjYtMGI3Yi00MmVkLTkzZjQtMGI0NGViNzIzNjhjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Faith Hill, Isabel May",
     "imDbRating": "8.7",
     "imDbRatingCount": "86202"
@@ -354,7 +354,7 @@ export const POP_SERIES = [
     "title": "Better Call Saul",
     "fullTitle": "Better Call Saul (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Bob Odenkirk, Rhea Seehorn",
     "imDbRating": "8.9",
     "imDbRatingCount": "554903"
@@ -366,7 +366,7 @@ export const POP_SERIES = [
     "title": "Criminal Minds",
     "fullTitle": "Criminal Minds (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWVjZWUyMzUtMGRiMS00MzhkLWI5NTQtYjBmZWVlZThjZjFkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWVjZWUyMzUtMGRiMS00MzhkLWI5NTQtYjBmZWVlZThjZjFkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Kirsten Vangsness, Matthew Gray Gubler",
     "imDbRating": "8.1",
     "imDbRatingCount": "204577"
@@ -378,7 +378,7 @@ export const POP_SERIES = [
     "title": "Stranger Things",
     "fullTitle": "Stranger Things (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Millie Bobby Brown, Finn Wolfhard",
     "imDbRating": "8.7",
     "imDbRatingCount": "1220982"
@@ -390,7 +390,7 @@ export const POP_SERIES = [
     "title": "The Rookie",
     "fullTitle": "The Rookie (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTY5OWFmMzAtZTIxYi00NGM4LTk3YWMtY2MyYzMwOWVhZWM0XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY5OWFmMzAtZTIxYi00NGM4LTk3YWMtY2MyYzMwOWVhZWM0XkEyXkFqcGdeQXVyMzAzNTY3MDM@._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Nathan Fillion, Alyssa Diaz",
     "imDbRating": "8.0",
     "imDbRatingCount": "44568"
@@ -402,7 +402,7 @@ export const POP_SERIES = [
     "title": "Farzi",
     "fullTitle": "Farzi (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Shahid Kapoor, Vijay Sethupathi",
     "imDbRating": "8.5",
     "imDbRatingCount": "22292"
@@ -414,7 +414,7 @@ export const POP_SERIES = [
     "title": "Mayor of Kingstown",
     "fullTitle": "Mayor of Kingstown (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGI2MDUxMGEtMWU4OS00ZjY2LTk5ZWUtNGVmMjRkNGI3NzBjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGI2MDUxMGEtMWU4OS00ZjY2LTk5ZWUtNGVmMjRkNGI3NzBjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jeremy Renner, Dianne Wiest",
     "imDbRating": "8.2",
     "imDbRatingCount": "33074"
@@ -426,7 +426,7 @@ export const POP_SERIES = [
     "title": "Beyond Paradise",
     "fullTitle": "Beyond Paradise (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWZjNmZlZmEtNzhiMi00NDBmLThlNzItMmQ2NTU0YjUxNGVjXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWZjNmZlZmEtNzhiMi00NDBmLThlNzItMmQ2NTU0YjUxNGVjXkEyXkFqcGdeQXVyOTMyODgwOTQ@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Kris Marshall, Sally Bretton",
     "imDbRating": "7.8",
     "imDbRatingCount": "802"
@@ -438,7 +438,7 @@ export const POP_SERIES = [
     "title": "NCIS",
     "fullTitle": "NCIS (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "David McCallum, Mark Harmon",
     "imDbRating": "7.8",
     "imDbRatingCount": "151595"
@@ -450,7 +450,7 @@ export const POP_SERIES = [
     "title": "The Company You Keep",
     "fullTitle": "The Company You Keep (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTA5YzQ2NDAtYjBhYi00Mzg2LTg1NTctMzVkZTJiYTdkODk5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA5YzQ2NDAtYjBhYi00Mzg2LTg1NTctMzVkZTJiYTdkODk5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Milo Ventimiglia, Catherine Haena Kim",
     "imDbRating": "7.3",
     "imDbRatingCount": "1482"
@@ -462,7 +462,7 @@ export const POP_SERIES = [
     "title": "The Gold",
     "fullTitle": "The Gold (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2Q4MDc5YjgtZGRjMi00NGVmLWEzOTItZjRmZDU5MDJkNWRkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q4MDc5YjgtZGRjMi00NGVmLWEzOTItZjRmZDU5MDJkNWRkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Hugh Bonneville, Jack Lowden",
     "imDbRating": "7.5",
     "imDbRatingCount": "2671"
@@ -474,7 +474,7 @@ export const POP_SERIES = [
     "title": "Law & Order: Special Victims Unit",
     "fullTitle": "Law & Order: Special Victims Unit (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmNkN2RlMzktMDgzNi00OWRmLWI3N2ItYzU5ZGUyMzc3MjJhXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmNkN2RlMzktMDgzNi00OWRmLWI3N2ItYzU5ZGUyMzc3MjJhXkEyXkFqcGdeQXVyODUxOTU0OTg@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Mariska Hargitay, Christopher Meloni",
     "imDbRating": "8.1",
     "imDbRatingCount": "111417"
@@ -486,7 +486,7 @@ export const POP_SERIES = [
     "title": "The Boys",
     "fullTitle": "The Boys (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Karl Urban, Jack Quaid",
     "imDbRating": "8.7",
     "imDbRatingCount": "533578"
@@ -498,7 +498,7 @@ export const POP_SERIES = [
     "title": "C.B. Strike",
     "fullTitle": "C.B. Strike (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTA2MDUxMTgtY2RhMC00NWViLWIwMmEtYzYzYTc1YTM4NDVjXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA2MDUxMTgtY2RhMC00NWViLWIwMmEtYzYzYTc1YTM4NDVjXkEyXkFqcGdeQXVyMzY0MTE3NzU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Tom Burke, Holliday Grainger",
     "imDbRating": "7.9",
     "imDbRatingCount": "20130"
@@ -510,7 +510,7 @@ export const POP_SERIES = [
     "title": "The Office",
     "fullTitle": "The Office (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Steve Carell, Jenna Fischer",
     "imDbRating": "9.0",
     "imDbRatingCount": "623421"
@@ -522,7 +522,7 @@ export const POP_SERIES = [
     "title": "The Sopranos",
     "fullTitle": "The Sopranos (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "James Gandolfini, Lorraine Bracco",
     "imDbRating": "9.2",
     "imDbRatingCount": "413183"
@@ -534,7 +534,7 @@ export const POP_SERIES = [
     "title": "Unforgotten",
     "fullTitle": "Unforgotten (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTkzMTE0MjUtYzU0NC00ZGQ3LThlYTMtZmIzY2RjMjVkY2YzXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTkzMTE0MjUtYzU0NC00ZGQ3LThlYTMtZmIzY2RjMjVkY2YzXkEyXkFqcGdeQXVyMDY4MzkyNw@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Sanjeev Bhaskar, Jordan Long",
     "imDbRating": "8.3",
     "imDbRatingCount": "24622"
@@ -546,7 +546,7 @@ export const POP_SERIES = [
     "title": "The Flash",
     "fullTitle": "The Flash (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjlkM2RjODgtNjRlYS00MDNjLTkxMzYtOWM4NjAwZTY2MjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjlkM2RjODgtNjRlYS00MDNjLTkxMzYtOWM4NjAwZTY2MjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Grant Gustin, Candice Patton",
     "imDbRating": "7.5",
     "imDbRatingCount": "351561"
@@ -558,7 +558,7 @@ export const POP_SERIES = [
     "title": "Supernatural",
     "fullTitle": "Supernatural (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jared Padalecki, Jensen Ackles",
     "imDbRating": "8.4",
     "imDbRatingCount": "453350"
@@ -570,7 +570,7 @@ export const POP_SERIES = [
     "title": "Death in Paradise",
     "fullTitle": "Death in Paradise (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc5OTc3MjAwN15BMl5BanBnXkFtZTgwODAxMDQyMTE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5OTc3MjAwN15BMl5BanBnXkFtZTgwODAxMDQyMTE@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Elizabeth Bourgine, Don Warrington",
     "imDbRating": "7.8",
     "imDbRatingCount": "23290"
@@ -582,7 +582,7 @@ export const POP_SERIES = [
     "title": "Euphoria",
     "fullTitle": "Euphoria (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Zendaya, Hunter Schafer",
     "imDbRating": "8.4",
     "imDbRatingCount": "196832"
@@ -594,7 +594,7 @@ export const POP_SERIES = [
     "title": "True Detective",
     "fullTitle": "True Detective (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Vince Vaughn, Colin Farrell",
     "imDbRating": "8.9",
     "imDbRatingCount": "584082"
@@ -606,7 +606,7 @@ export const POP_SERIES = [
     "title": "Severance",
     "fullTitle": "Severance (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Adam Scott, Zach Cherry",
     "imDbRating": "8.7",
     "imDbRatingCount": "141397"
@@ -618,7 +618,7 @@ export const POP_SERIES = [
     "title": "Peaky Blinders",
     "fullTitle": "Peaky Blinders (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Cillian Murphy, Paul Anderson",
     "imDbRating": "8.8",
     "imDbRatingCount": "568372"
@@ -630,7 +630,7 @@ export const POP_SERIES = [
     "title": "Happy Valley",
     "fullTitle": "Happy Valley (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTBmYTQ5ZDYtM2NjMC00M2Q2LTg4NDAtODUxZTk0ZmFjMGVjXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmYTQ5ZDYtM2NjMC00M2Q2LTg4NDAtODUxZTk0ZmFjMGVjXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._UX240_Ratio0.7313_AL_.jpg",
     "crew": "Sarah Lancashire, Siobhan Finneran",
     "imDbRating": "8.5",
     "imDbRatingCount": "51567"
@@ -642,7 +642,7 @@ export const POP_SERIES = [
     "title": "Die Hart",
     "fullTitle": "Die Hart (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmJiMjQwM2UtYTY2YS00ZTk2LTgzNTAtNDYxOTA1ZGJjNWViXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJiMjQwM2UtYTY2YS00ZTk2LTgzNTAtNDYxOTA1ZGJjNWViXkEyXkFqcGdeQXVyMTE5OTM1MjU3._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Kevin Hart, Nathalie Emmanuel",
     "imDbRating": "5.4",
     "imDbRatingCount": "5389"
@@ -654,7 +654,7 @@ export const POP_SERIES = [
     "title": "Yellowjackets",
     "fullTitle": "Yellowjackets (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTkzYTBkYmItN2Q0Zi00ODhiLWI3MzEtNDdiNDRkNWYzOTMyXkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkzYTBkYmItN2Q0Zi00ODhiLWI3MzEtNDdiNDRkNWYzOTMyXkEyXkFqcGdeQXVyMTUyMTgzNjY4._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Melanie Lynskey, Tawny Cypress",
     "imDbRating": "7.9",
     "imDbRatingCount": "52643"
@@ -666,7 +666,7 @@ export const POP_SERIES = [
     "title": "Tulsa King",
     "fullTitle": "Tulsa King (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmI3N2EzOWQtZjFiMi00MjgwLTgzN2UtZGI0ZGY1ZDQyOTRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmI3N2EzOWQtZjFiMi00MjgwLTgzN2UtZGI0ZGY1ZDQyOTRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Sylvester Stallone, Andrea Savage",
     "imDbRating": "8.1",
     "imDbRatingCount": "42892"
@@ -678,7 +678,7 @@ export const POP_SERIES = [
     "title": "Mayfair Witches",
     "fullTitle": "Mayfair Witches (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzIyZjYzYjgtYzQwNC00MGY4LWJhMTAtMDIzMTZiMGE0YjkxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzIyZjYzYjgtYzQwNC00MGY4LWJhMTAtMDIzMTZiMGE0YjkxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Alexandra Daddario, Tongayi Chirisa",
     "imDbRating": "6.3",
     "imDbRatingCount": "6866"
@@ -690,7 +690,7 @@ export const POP_SERIES = [
     "title": "The Big Bang Theory",
     "fullTitle": "The Big Bang Theory (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Johnny Galecki, Jim Parsons",
     "imDbRating": "8.2",
     "imDbRatingCount": "820872"
@@ -702,7 +702,7 @@ export const POP_SERIES = [
     "title": "Friends",
     "fullTitle": "Friends (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jennifer Aniston, Courteney Cox",
     "imDbRating": "8.9",
     "imDbRatingCount": "1013420"
@@ -714,7 +714,7 @@ export const POP_SERIES = [
     "title": "Triptych",
     "fullTitle": "Triptych (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjgzZDAtNmVlNy00YzVhLTk2MzMtZGZjMGM0MjU4ZTU1XkEyXkFqcGdeQXVyOTM3MTA1NTk@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjgzZDAtNmVlNy00YzVhLTk2MzMtZGZjMGM0MjU4ZTU1XkEyXkFqcGdeQXVyOTM3MTA1NTk@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Maite Perroni, David Chocarro",
     "imDbRating": "6.3",
     "imDbRatingCount": "1179"
@@ -726,7 +726,7 @@ export const POP_SERIES = [
     "title": "Modern Family",
     "fullTitle": "Modern Family (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzRhNWIxYTEtYjc2NS00YWFlLWFhOGEtMDZiMWM1M2RkNDkyXkEyXkFqcGdeQXVyNjc0MjkzNjc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzRhNWIxYTEtYjc2NS00YWFlLWFhOGEtMDZiMWM1M2RkNDkyXkEyXkFqcGdeQXVyNjc0MjkzNjc@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Ed O'Neill, Sofía Vergara",
     "imDbRating": "8.5",
     "imDbRatingCount": "441229"
@@ -738,7 +738,7 @@ export const POP_SERIES = [
     "title": "House of the Dragon",
     "fullTitle": "House of the Dragon (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Rhys Ifans, Matt Smith",
     "imDbRating": "8.5",
     "imDbRatingCount": "315957"
@@ -750,7 +750,7 @@ export const POP_SERIES = [
     "title": "Endeavour",
     "fullTitle": "Endeavour (2012)",
     "year": "2012",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjRkZTRkNDUtMTliMC00MjAzLTg4MDUtNjBmODYxMmFkZGU3XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRkZTRkNDUtMTliMC00MjAzLTg4MDUtNjBmODYxMmFkZGU3XkEyXkFqcGdeQXVyMjExMjk0ODk@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Shaun Evans, Roger Allam",
     "imDbRating": "8.6",
     "imDbRatingCount": "27798"
@@ -762,7 +762,7 @@ export const POP_SERIES = [
     "title": "Young Sheldon",
     "fullTitle": "Young Sheldon (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Iain Armitage, Zoe Perry",
     "imDbRating": "7.6",
     "imDbRatingCount": "67743"
@@ -774,7 +774,7 @@ export const POP_SERIES = [
     "title": "Andor",
     "fullTitle": "Andor (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Diego Luna, Kyle Soller",
     "imDbRating": "8.4",
     "imDbRatingCount": "125061"
@@ -786,7 +786,7 @@ export const POP_SERIES = [
     "title": "Star Wars: The Bad Batch",
     "fullTitle": "Star Wars: The Bad Batch (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGIwM2E2NzEtMjQzZC00M2FmLThhMDktZTRlMGYzZWZlZGYzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIwM2E2NzEtMjQzZC00M2FmLThhMDktZTRlMGYzZWZlZGYzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Ming-Na Wen, Dee Bradley Baker",
     "imDbRating": "7.8",
     "imDbRatingCount": "39687"
@@ -798,7 +798,7 @@ export const POP_SERIES = [
     "title": "It's Always Sunny in Philadelphia",
     "fullTitle": "It's Always Sunny in Philadelphia (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzg3ODVjZTYtZTAyNC00MzVjLTk3NmUtMGI4ZjZmNGQ1NmY4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzg3ODVjZTYtZTAyNC00MzVjLTk3NmUtMGI4ZjZmNGQ1NmY4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Charlie Day, Rob McElhenney",
     "imDbRating": "8.8",
     "imDbRatingCount": "231149"
@@ -810,7 +810,7 @@ export const POP_SERIES = [
     "title": "Vikings",
     "fullTitle": "Vikings (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Katheryn Winnick, Gustaf Skarsgård",
     "imDbRating": "8.5",
     "imDbRatingCount": "544396"
@@ -822,7 +822,7 @@ export const POP_SERIES = [
     "title": "Shadow and Bone",
     "fullTitle": "Shadow and Bone (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTY0ZjliOGUtMDFiZS00YzcwLWFiZWYtMzg4MWZkMWIwYzYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY0ZjliOGUtMDFiZS00YzcwLWFiZWYtMzg4MWZkMWIwYzYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jessie Mei Li, Ben Barnes",
     "imDbRating": "7.6",
     "imDbRatingCount": "90590"
@@ -834,7 +834,7 @@ export const POP_SERIES = [
     "title": "Red Rose",
     "fullTitle": "Red Rose (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWY2OTRkNjQtZDYwNi00NTMwLWE4OTAtZWFiYmRiYWZhMjc0XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWY2OTRkNjQtZDYwNi00NTMwLWE4OTAtZWFiYmRiYWZhMjc0XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Amelia Clarkson, Natalie Blair",
     "imDbRating": "6.4",
     "imDbRatingCount": "4420"
@@ -846,7 +846,7 @@ export const POP_SERIES = [
     "title": "The Idol",
     "fullTitle": "The Idol ( 601)",
     "year": " 601",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzg2ZDllZWItMmExYS00MmU2LTkwZDMtM2RhMmJkNWVjMTIzXkEyXkFqcGdeQXVyMTMzMjExODYw._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzg2ZDllZWItMmExYS00MmU2LTkwZDMtM2RhMmJkNWVjMTIzXkEyXkFqcGdeQXVyMTMzMjExODYw._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Lily-Rose Depp, The Weeknd",
     "imDbRating": "",
     "imDbRatingCount": "0"
@@ -858,7 +858,7 @@ export const POP_SERIES = [
     "title": "Abbott Elementary",
     "fullTitle": "Abbott Elementary (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MWUwYjItY2JmYi00ZDgyLTgzMjUtNzNkMzg0NjNjYTdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MWUwYjItY2JmYi00ZDgyLTgzMjUtNzNkMzg0NjNjYTdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Quinta Brunson, Tyler James Williams",
     "imDbRating": "8.2",
     "imDbRatingCount": "22484"
@@ -870,7 +870,7 @@ export const POP_SERIES = [
     "title": "Bones",
     "fullTitle": "Bones (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA3ODMxMzM5NF5BMl5BanBnXkFtZTgwMDM1NjU0OTE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA3ODMxMzM5NF5BMl5BanBnXkFtZTgwMDM1NjU0OTE@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Emily Deschanel, David Boreanaz",
     "imDbRating": "7.8",
     "imDbRatingCount": "163960"
@@ -882,7 +882,7 @@ export const POP_SERIES = [
     "title": "The Night Manager",
     "fullTitle": "The Night Manager (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjU2NDY0ZTktYTM2Zi00NzhlLWIzZGUtMWE0N2MzNGI2YTkxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjU2NDY0ZTktYTM2Zi00NzhlLWIzZGUtMWE0N2MzNGI2YTkxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Aditya Roy Kapoor, Anil Kapoor",
     "imDbRating": "7.8",
     "imDbRatingCount": "6358"
@@ -894,7 +894,7 @@ export const POP_SERIES = [
     "title": "New Amsterdam",
     "fullTitle": "New Amsterdam (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDEyZGJkZmUtYjk1My00MzNjLThmNDQtZThlYmIyZmFmMDIyXkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDEyZGJkZmUtYjk1My00MzNjLThmNDQtZThlYmIyZmFmMDIyXkEyXkFqcGdeQXVyMTUwMzM5ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Ryan Eggold, Janet Montgomery",
     "imDbRating": "8.0",
     "imDbRatingCount": "43539"
@@ -906,7 +906,7 @@ export const POP_SERIES = [
     "title": "Wolf Pack",
     "fullTitle": "Wolf Pack (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Sarah Michelle Gellar, Rodrigo Santoro",
     "imDbRating": "6.2",
     "imDbRatingCount": "4519"
@@ -918,7 +918,7 @@ export const POP_SERIES = [
     "title": "The Book of Boba Fett",
     "fullTitle": "The Book of Boba Fett (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Temuera Morrison, Ming-Na Wen",
     "imDbRating": "7.3",
     "imDbRatingCount": "159140"
@@ -930,7 +930,7 @@ export const POP_SERIES = [
     "title": "History of the World: Part II",
     "fullTitle": "History of the World: Part II (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._UX240_Ratio0.7910_AL_.jpg",
     "crew": "Mel Brooks, Ike Barinholtz",
     "imDbRating": "6.0",
     "imDbRatingCount": "1604"
@@ -942,7 +942,7 @@ export const POP_SERIES = [
     "title": "The Wire",
     "fullTitle": "The Wire (2002)",
     "year": "2002",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Dominic West, Lance Reddick",
     "imDbRating": "9.3",
     "imDbRatingCount": "346937"
@@ -954,7 +954,7 @@ export const POP_SERIES = [
     "title": "Narcos",
     "fullTitle": "Narcos (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Pedro Pascal, Wagner Moura",
     "imDbRating": "8.8",
     "imDbRatingCount": "432684"
@@ -966,7 +966,7 @@ export const POP_SERIES = [
     "title": "Swarm",
     "fullTitle": "Swarm (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzhhMTNlZGYtZDc2OC00NGZhLWJiM2EtN2ExZDQ3ZmY1MmNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhhMTNlZGYtZDc2OC00NGZhLWJiM2EtN2ExZDQ3ZmY1MmNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Dominique Fishback, Chloe Bailey",
     "imDbRating": "",
     "imDbRatingCount": "0"
@@ -978,7 +978,7 @@ export const POP_SERIES = [
     "title": "Ginny & Georgia",
     "fullTitle": "Ginny & Georgia (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2ZWFlNmEtNWYyYy00Yjk1LWIxMTEtMWVkM2NlMTEzOGI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2ZWFlNmEtNWYyYy00Yjk1LWIxMTEtMWVkM2NlMTEzOGI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Brianne Howey, Antonia Gentry",
     "imDbRating": "7.5",
     "imDbRatingCount": "67575"
@@ -990,7 +990,7 @@ export const POP_SERIES = [
     "title": "Doctor Who",
     "fullTitle": "Doctor Who (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWJhYjFmZDEtNTVlYy00NGExLWJhZWItNTAxODY5YTc3MDFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWJhYjFmZDEtNTVlYy00NGExLWJhZWItNTAxODY5YTc3MDFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Jodie Whittaker, Peter Capaldi",
     "imDbRating": "8.6",
     "imDbRatingCount": "229306"
@@ -1002,7 +1002,7 @@ export const POP_SERIES = [
     "title": "Black Mirror",
     "fullTitle": "Black Mirror (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Daniel Lapaine, Hannah John-Kamen",
     "imDbRating": "8.8",
     "imDbRatingCount": "561032"
@@ -1014,7 +1014,7 @@ export const POP_SERIES = [
     "title": "Ghosts",
     "fullTitle": "Ghosts (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzRlOTdiNGEtOTlmZi00YjNiLTljZjItZGNhNjY5ZDM4Yzg2XkEyXkFqcGdeQXVyNjc0MjkzNjc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRlOTdiNGEtOTlmZi00YjNiLTljZjItZGNhNjY5ZDM4Yzg2XkEyXkFqcGdeQXVyNjc0MjkzNjc@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Rose McIver, Utkarsh Ambudkar",
     "imDbRating": "7.9",
     "imDbRatingCount": "20488"
@@ -1026,7 +1026,7 @@ export const POP_SERIES = [
     "title": "Outlander",
     "fullTitle": "Outlander (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2JiZTUyZjYtZDliMS00MjY1LWIwYTItNmE0MWYzNDZjN2E4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2JiZTUyZjYtZDliMS00MjY1LWIwYTItNmE0MWYzNDZjN2E4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Caitríona Balfe, Sam Heughan",
     "imDbRating": "8.4",
     "imDbRatingCount": "163192"
@@ -1038,7 +1038,7 @@ export const POP_SERIES = [
     "title": "Seinfeld",
     "fullTitle": "Seinfeld (1989)",
     "year": "1989",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjZjMzQ2ZmUtZWEyZC00NWJiLWFjM2UtMzhmYzZmZDcxMzllXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjZjMzQ2ZmUtZWEyZC00NWJiLWFjM2UtMzhmYzZmZDcxMzllXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Jerry Seinfeld, Julia Louis-Dreyfus",
     "imDbRating": "8.9",
     "imDbRatingCount": "326613"
@@ -1050,7 +1050,7 @@ export const POP_SERIES = [
     "title": "The Chosen",
     "fullTitle": "The Chosen (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWUwZWVkNDMtMDEzYS00ZjYzLTk5NjgtYzMwZmViYmY5NWNhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWUwZWVkNDMtMDEzYS00ZjYzLTk5NjgtYzMwZmViYmY5NWNhXkEyXkFqcGdeQXVyODk4OTc3MTY@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Shahar Isaac, Jonathan Roumie",
     "imDbRating": "9.3",
     "imDbRatingCount": "33929"
@@ -1062,7 +1062,7 @@ export const POP_SERIES = [
     "title": "Suits",
     "fullTitle": "Suits (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Gabriel Macht, Patrick J. Adams",
     "imDbRating": "8.5",
     "imDbRatingCount": "418984"
@@ -1074,7 +1074,7 @@ export const POP_SERIES = [
     "title": "The Simpsons",
     "fullTitle": "The Simpsons (1989)",
     "year": "1989",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Dan Castellaneta, Nancy Cartwright",
     "imDbRating": "8.7",
     "imDbRatingCount": "413461"
@@ -1086,7 +1086,7 @@ export const POP_SERIES = [
     "title": "La Brea",
     "fullTitle": "La Brea (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzM4NWVmOWYtN2ZiNC00NDI1LWFlNjUtNjRkZTdlOGQxYmY5XkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM4NWVmOWYtN2ZiNC00NDI1LWFlNjUtNjRkZTdlOGQxYmY5XkEyXkFqcGdeQXVyMTUwMzM5ODkz._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Natalie Zea, Eoin Macken",
     "imDbRating": "5.7",
     "imDbRatingCount": "13068"
@@ -1098,7 +1098,7 @@ export const POP_SERIES = [
     "title": "Murdaugh Murders: Deadly Dynasty",
     "fullTitle": "Murdaugh Murders: Deadly Dynasty (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjgxZGZkOTYtYzZkNi00MTk0LWJiMTktZjhiOTJkNTgzMzUyXkEyXkFqcGdeQXVyNDkwNjE3NzY@._V1_Ratio1.3284_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjgxZGZkOTYtYzZkNi00MTk0LWJiMTktZjhiOTJkNTgzMzUyXkEyXkFqcGdeQXVyNDkwNjE3NzY@._UX240_Ratio1.3284_AL_.jpg",
     "crew": "Anne Emerson, Drew Tripp",
     "imDbRating": "6.9",
     "imDbRatingCount": "1135"
@@ -1110,7 +1110,7 @@ export const POP_SERIES = [
     "title": "The Crown",
     "fullTitle": "The Crown (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTEyNjBjYmYtYWYxYi00MmQyLThlYmItY2I4NzM1Mjg1MWYxXkEyXkFqcGdeQXVyMTU3ODI3MTk2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTEyNjBjYmYtYWYxYi00MmQyLThlYmItY2I4NzM1Mjg1MWYxXkEyXkFqcGdeQXVyMTU3ODI3MTk2._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Claire Foy, Olivia Colman",
     "imDbRating": "8.6",
     "imDbRatingCount": "226880"
@@ -1122,7 +1122,7 @@ export const POP_SERIES = [
     "title": "Shameless",
     "fullTitle": "Shameless (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDgxNjQ2MjMtMjk2Yi00M2Q2LWI0ZDktOGM1NWI5YWUzMjk4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDgxNjQ2MjMtMjk2Yi00M2Q2LWI0ZDktOGM1NWI5YWUzMjk4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Emmy Rossum, William H. Macy",
     "imDbRating": "8.6",
     "imDbRatingCount": "249155"
@@ -1134,7 +1134,7 @@ export const POP_SERIES = [
     "title": "Formula 1: Drive to Survive",
     "fullTitle": "Formula 1: Drive to Survive (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzVkMGU0YWMtOWQxMC00MjFhLTg1NjAtMDFlZTZlYzJlMjlhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzVkMGU0YWMtOWQxMC00MjFhLTg1NjAtMDFlZTZlYzJlMjlhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX240_Ratio0.7015_AL_.jpg",
     "crew": "Will Buxton, Jack Nicholls",
     "imDbRating": "8.6",
     "imDbRatingCount": "43565"
@@ -1146,7 +1146,7 @@ export const POP_SERIES = [
     "title": "Snowfall",
     "fullTitle": "Snowfall (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzVjNTRhNWItMzQzZS00MDBkLWIxNDMtOTU4MzRmMmNiZWRiXkEyXkFqcGdeQXVyMTUwMzE3NjY0._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzVjNTRhNWItMzQzZS00MDBkLWIxNDMtOTU4MzRmMmNiZWRiXkEyXkFqcGdeQXVyMTUwMzE3NjY0._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Damson Idris, Carter Hudson",
     "imDbRating": "8.2",
     "imDbRatingCount": "19874"
@@ -1158,7 +1158,7 @@ export const POP_SERIES = [
     "title": "Lost",
     "fullTitle": "Lost (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jorge Garcia, Josh Holloway",
     "imDbRating": "8.3",
     "imDbRatingCount": "561721"
@@ -1170,7 +1170,7 @@ export const POP_SERIES = [
     "title": "The Last Kingdom",
     "fullTitle": "The Last Kingdom (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Alexander Dreymon, Eliza Butterworth",
     "imDbRating": "8.5",
     "imDbRatingCount": "145639"
@@ -1182,7 +1182,7 @@ export const POP_SERIES = [
     "title": "Fleishman Is in Trouble",
     "fullTitle": "Fleishman Is in Trouble (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Jesse Eisenberg, Claire Danes",
     "imDbRating": "7.7",
     "imDbRatingCount": "7871"
@@ -1194,7 +1194,7 @@ export const POP_SERIES = [
     "title": "Liaison",
     "fullTitle": "Liaison (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmRjMDk1NTgtYTAxMy00NGE2LTk5YzQtOTYwZjdiNDM4YzlkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmRjMDk1NTgtYTAxMy00NGE2LTk5YzQtOTYwZjdiNDM4YzlkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._UX240_Ratio0.6716_AL_.jpg",
     "crew": "Daniel Francis, Vincent Cassel",
     "imDbRating": "6.2",
     "imDbRatingCount": "726"

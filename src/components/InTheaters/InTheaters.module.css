@@ -40,12 +40,14 @@
   background: linear-gradient(rgba(0, 0, 0, 0.151), black);
   backdrop-filter: blur(1px);
   display: flex;
-  align-items: flex-end;
   gap: 3rem;
 }
 
-.imgContainer {
+.mainImgContainer {
   position: relative;
+  width: 100%;
+  max-width: 10rem;
+  overflow: hidden;
 }
 
 .saveTag {
@@ -60,10 +62,6 @@
 .saveTag:hover {
   opacity: 0.8;
   box-shadow: inset 0 0 0 80px #ffd369;
-}
-
-.mainPoster {
-  width: 10rem;
 }
 
 .textContainer h2 {
@@ -153,8 +151,12 @@
   padding: 10px;
 }
 
-.poster {
-  width: 7rem;
+.imgContainer {
+  position: relative;
+  width: 100%;
+  max-width: 7rem;
+  height: 10rem;
+  overflow: hidden;
 }
 
 .title {
@@ -230,13 +232,9 @@
     padding: 7rem 0 0;
   }
 
-  .imgContainer {
+  .mainImgContainer {
     max-width: 350px;
     margin: auto;
-  }
-
-  .mainPoster {
-    width: 100%;
   }
 
   .textContainer h2 {

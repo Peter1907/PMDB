@@ -89,6 +89,8 @@
 
 .pictures {
   display: flex;
+  width: 100vw;
+  min-height: 33rem;
   max-width: 75rem;
   margin: 0 auto;
   gap: 0.5rem;
@@ -97,6 +99,10 @@
 .posterContainer {
   position: relative;
   display: flex;
+  width: 100%;
+  max-width: 22rem;
+  height: 33rem;
+  overflow: hidden;
 }
 
 .poster {
@@ -146,6 +152,7 @@
   opacity: 0.6;
   cursor: pointer;
   transition: all 250ms ease;
+  z-index: 1;
 }
 
 .saveTag:hover {
