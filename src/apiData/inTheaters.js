@@ -1,53 +1,53 @@
 export const IN_THEATERS = [
   {
-    "id": "tt14209916",
-    "title": "Cocaine Bear",
-    "fullTitle": "Cocaine Bear (2023)",
+    "id": "tt11145118",
+    "title": "Creed III",
+    "fullTitle": "Creed III (2023)",
     "year": "2023",
-    "releaseState": "24 Feb 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BODAwZDQ5ZjEtZDI1My00MTFiLTg0ZjUtOGE2YTBkOTdjODFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6699_AL_.jpg",
-    "runtimeMins": "95",
-    "runtimeStr": "95 mins",
-    "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
-    "contentRating": "R",
-    "imDbRating": "6.4",
-    "imDbRatingCount": "16774",
-    "metacriticRating": "54",
-    "genres": "Comedy, Thriller",
+    "releaseState": "03 Mar 2023",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6699_AL_.jpg",
+    "runtimeMins": "116",
+    "runtimeStr": "116 mins",
+    "plot": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
+    "contentRating": "PG-13",
+    "imDbRating": "7.3",
+    "imDbRatingCount": "15441",
+    "metacriticRating": "73",
+    "genres": "Drama, Sport",
     "genreList": [
       {
-        "key": "Comedy",
-        "value": "Comedy"
+        "key": "Drama",
+        "value": "Drama"
       },
       {
-        "key": "Thriller",
-        "value": "Thriller"
+        "key": "Sport",
+        "value": "Sport"
       }
     ],
-    "directors": "Elizabeth Banks",
+    "directors": "Michael B. Jordan",
     "directorList": [
       {
-        "id": "nm0006969",
-        "name": "Elizabeth Banks"
+        "id": "nm0430107",
+        "name": "Michael B. Jordan"
       }
     ],
-    "stars": "Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr., Ray Liotta",
+    "stars": "Michael B. Jordan, Tessa Thompson, Jonathan Majors, Wood Harris",
     "starList": [
       {
-        "id": "nm0005392",
-        "name": "Keri Russell"
+        "id": "nm0430107",
+        "name": "Michael B. Jordan"
       },
       {
-        "id": "nm2403277",
-        "name": "Alden Ehrenreich"
+        "id": "nm1935086",
+        "name": "Tessa Thompson"
       },
       {
-        "id": "nm6578009",
-        "name": "O'Shea Jackson Jr."
+        "id": "nm3718007",
+        "name": "Jonathan Majors"
       },
       {
-        "id": "nm0000501",
-        "name": "Ray Liotta"
+        "id": "nm0365445",
+        "name": "Wood Harris"
       }
     ]
   },
@@ -156,58 +156,6 @@ export const IN_THEATERS = [
     ]
   },
   {
-    "id": "tt11145118",
-    "title": "Creed III",
-    "fullTitle": "Creed III (2023)",
-    "year": "2023",
-    "releaseState": "03 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6699_AL_.jpg",
-    "runtimeMins": "116",
-    "runtimeStr": "116 mins",
-    "plot": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
-    "contentRating": "PG-13",
-    "imDbRating": "7.3",
-    "imDbRatingCount": "15441",
-    "metacriticRating": "73",
-    "genres": "Drama, Sport",
-    "genreList": [
-      {
-        "key": "Drama",
-        "value": "Drama"
-      },
-      {
-        "key": "Sport",
-        "value": "Sport"
-      }
-    ],
-    "directors": "Michael B. Jordan",
-    "directorList": [
-      {
-        "id": "nm0430107",
-        "name": "Michael B. Jordan"
-      }
-    ],
-    "stars": "Michael B. Jordan, Tessa Thompson, Jonathan Majors, Wood Harris",
-    "starList": [
-      {
-        "id": "nm0430107",
-        "name": "Michael B. Jordan"
-      },
-      {
-        "id": "nm1935086",
-        "name": "Tessa Thompson"
-      },
-      {
-        "id": "nm3718007",
-        "name": "Jonathan Majors"
-      },
-      {
-        "id": "nm0365445",
-        "name": "Wood Harris"
-      }
-    ]
-  },
-  {
     "id": "tt6710474",
     "title": "Everything Everywhere All at Once",
     "fullTitle": "Everything Everywhere All at Once (2022)",
@@ -264,6 +212,58 @@ export const IN_THEATERS = [
       {
         "id": "nm0702841",
         "name": "Ke Huy Quan"
+      }
+    ]
+  },
+  {
+    "id": "tt14209916",
+    "title": "Cocaine Bear",
+    "fullTitle": "Cocaine Bear (2023)",
+    "year": "2023",
+    "releaseState": "24 Feb 2023",
+    "image": "https://m.media-amazon.com/images/M/MV5BODAwZDQ5ZjEtZDI1My00MTFiLTg0ZjUtOGE2YTBkOTdjODFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6699_AL_.jpg",
+    "runtimeMins": "95",
+    "runtimeStr": "95 mins",
+    "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+    "contentRating": "R",
+    "imDbRating": "6.4",
+    "imDbRatingCount": "16774",
+    "metacriticRating": "54",
+    "genres": "Comedy, Thriller",
+    "genreList": [
+      {
+        "key": "Comedy",
+        "value": "Comedy"
+      },
+      {
+        "key": "Thriller",
+        "value": "Thriller"
+      }
+    ],
+    "directors": "Elizabeth Banks",
+    "directorList": [
+      {
+        "id": "nm0006969",
+        "name": "Elizabeth Banks"
+      }
+    ],
+    "stars": "Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr., Ray Liotta",
+    "starList": [
+      {
+        "id": "nm0005392",
+        "name": "Keri Russell"
+      },
+      {
+        "id": "nm2403277",
+        "name": "Alden Ehrenreich"
+      },
+      {
+        "id": "nm6578009",
+        "name": "O'Shea Jackson Jr."
+      },
+      {
+        "id": "nm0000501",
+        "name": "Ray Liotta"
       }
     ]
   },
