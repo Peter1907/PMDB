@@ -29,6 +29,10 @@ export default function InTheaters() {
     if (i === 7) event.target.parentNode.style.overflowY = 'scroll';
   };
 
+  const redirect = (url) => {
+    window.location.replace(window.location.origin + url);
+  };
+
   return (
     <div id="in-theaters" className={s.inTheaters}>
       <h1>In Theaters Now!</h1>
@@ -43,8 +47,8 @@ export default function InTheaters() {
                   <Placeholder key={Data[0].id} src={Data[0].image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.textContainer}>
-                  <Link className={s.title} to={`/item-details/${Data[0].id}`}>
-                    <h2>{Data[0].fullTitle}</h2>
+                  <Link onClick={() => redirect(`/item-details/${Data[0].id}`)}>
+                    <h2 className={s.title}>{Data[0].fullTitle}</h2>
                   </Link>
                   <p className={s.plot}>{`${Data[0].plot.substring(0, 150)}...`}</p>
                   <p className={s.mainPlayTrailer}>
@@ -62,7 +66,7 @@ export default function InTheaters() {
                   <Placeholder key={index} src={item.image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.text}>
-                  <Link to={`/item-details/${item.id}`}>
+                  <Link onClick={() => redirect(`/item-details/${item.id}`)}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <p>

@@ -329,10 +329,13 @@ hr {
   padding-left: 7px;
 }
 
-.imgContainer {
+.actorImg {
   width: 7rem;
   height: 7rem;
   border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  background-color: black;
 }
 
 .arrow {

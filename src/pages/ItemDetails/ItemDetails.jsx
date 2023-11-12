@@ -29,17 +29,10 @@ export default function ItemDetails() {
       <div className={s.main}>
         <div className={s.name}>
           <div className={s.header}>{Data.title}</div>
-          {!Data.tvSeriesInfo && (
-            <div className={s.subHeader}>
-              {Data.type} &spades; {Data.year} &spades; {`${Data.contentRating} `}
-              &spades; {` ${Data.runtimeStr}`}
-            </div>
-          )}
-          {Data.tvSeriesInfo && (
-            <div className={s.subHeader}>
-              {Data.type} &spades; {Data.year} &spades; {Data.contentRating}
-            </div>
-          )}
+          <div className={s.subHeader}>
+            {Data.type} &spades; {Data.year} &spades; {`${Data.contentRating} `}
+            {Data.type === 'Movie' && <>&spades; {Data.runtimeStr}</>}
+          </div>
         </div>
         <div className={s.rating}>
           <p className={s.rTitle}>Rating</p>
@@ -123,15 +116,11 @@ export default function ItemDetails() {
         </div>
         {Data.actorList && (
           <div className={s.castList}>
-            {Data.actorList.map((actor, id) => (
-              <div key={id} className={s.actor}>
-                <div
-                  className={s.imgContainer}
-                  style={{
-                    backgroundImage: `url(${actor.image})`,
-                    backgroundSize: 'cover',
-                  }}
-                />
+            {Data.actorList.map((actor) => (
+              <div key={actor.id} className={s.actor}>
+                <div className={s.actorImg}>
+                  <Placeholder alt="actor" src={actor.image} orientation="v" />
+                </div>
                 <div className={s.actorInfo}>
                   <h3>{actor.name}</h3>
                   <p>{actor.asCharacter}</p>

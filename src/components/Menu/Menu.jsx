@@ -23,11 +23,9 @@ export default function Menu() {
     setState(!state);
   };
 
-  const handleItemLink = () => {
+  const handleItemLink = (url) => {
     setState(!state);
-    setTimeout(() => {
-      window.location.reload();
-    }, 100);
+    window.location.replace(window.location.origin + url);
   };
 
   const menuStyle = state ? { right: 0 } : { right: '-100%' };
@@ -57,7 +55,7 @@ export default function Menu() {
               key={item[0]}
               className="link"
               to={`/item-details/${item[0]}`}
-              onClick={() => handleItemLink()}
+              onClick={() => handleItemLink(`/item-details/${item[0]}`)}
             >
               {item[1]}
             </NavLink>
