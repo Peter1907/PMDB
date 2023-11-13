@@ -83,7 +83,7 @@ export default function RankedList({ type }) {
     storedData ? dispatch(options[type].getStored()) : dispatch(options[type].get());
     window.scrollTo(0, 0);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [type]);
 
   const redirect = (url) => {
     window.location.replace(window.location.origin + url);
