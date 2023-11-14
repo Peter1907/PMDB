@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import s from './Menu.module.css';
+import gsap from 'gsap';
 
 export default function Menu() {
-  const [state, setState] = useState(false);
+  const [open, setOpen] = useState(false);
   const menuLinks = [
     ['/pop-movies', 'Most Popular Movies Now'],
     ['/top-movies', 'Top 250 Movies of All Time'],
@@ -20,22 +21,21 @@ export default function Menu() {
   ];
 
   const handleClick = () => {
-    setState(!state);
+    setOpen(!open);
+    gsap.to('body', { overflow: open ? 'auto' : 'hidden' });
   };
 
   const handleItemLink = (url) => {
-    setState(!state);
+    setOpen(!open);
     window.location.replace(window.location.origin + url);
   };
-
-  const menuStyle = state ? { right: 0 } : { right: '-100%' };
 
   return (
     <div className={s.menuContainer}>
       <button className={s.menuBtn} onClick={() => handleClick()} type="button">
         ||
       </button>
-      <div className={s.menu} style={menuStyle}>
+      <div className={`${s.menu} ${open && s.open}`}>
         <div className={s.closeBtn} onClick={() => handleClick()}>
           <p className={s.arrow} />
           <p className={s.line} />

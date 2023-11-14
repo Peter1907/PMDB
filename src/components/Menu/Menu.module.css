@@ -53,10 +53,11 @@
 }
 
 .menu {
-  z-index: 10;
+  z-index: 40;
   position: fixed;
   top: 0;
   bottom: 0;
+  left: 100%;
   width: 50%;
   height: 100vh;
   background-color: #eee;
@@ -66,11 +67,11 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  transition: all 500ms ease-in;
+  transition: left 500ms ease-in;
 }
 
-menu h1 {
-  font-size: 52px;
+.open {
+  left: 50%;
 }
 
 .lists,
@@ -81,8 +82,21 @@ menu h1 {
   gap: 0.5rem;
 }
 
-@media (max-aspect-ratio: 1.2) {
+@media screen and (width < 768px) {
   .menu {
     width: 100%;
+  }
+
+  .open {
+    left: 0;
+  }
+
+  .menu h1 {
+    font-size: 1.5rem;
+  }
+
+  .lists,
+  .popular {
+    margin: 1rem auto;
   }
 }
