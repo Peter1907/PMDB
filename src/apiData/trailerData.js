@@ -1,4 +1,19 @@
 export const trailerData = {
+  Default: {
+    imDbId: 'default',
+    title: '',
+    fullTitle: '',
+    type: '',
+    year: '',
+    videoId: '',
+    videoTitle: '',
+    videoDescription: '',
+    thumbnailUrl: '#',
+    uploadDate: '',
+    link: '',
+    linkEmbed: '',
+    errorMessage: '',
+  },
   T_tt14209916: {
     imDbId: 'tt14209916',
     title: 'Cocaine Bear',
