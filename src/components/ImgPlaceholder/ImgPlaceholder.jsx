@@ -1,10 +1,10 @@
 import { useRef, useState } from 'react';
 import gsap from 'gsap';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import s from './placeholder.module.css';
+import s from './ImgPlaceholder.module.css';
 import LoadingLogo from './LoadingLogo';
 
-export default function Placeholder({ src, alt, orientation }) {
+export default function ImgPlaceholder({ src, alt, orientation }) {
   const [loading, setLoading] = useState(true);
   const imgRef = useRef(null);
 

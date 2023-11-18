@@ -8,7 +8,7 @@ import {
 } from '../Redux/in-theaters/in-theaters';
 import Thumbnail from '../Thumbnail/Thumbnail';
 import s from './InTheaters.module.css';
-import Placeholder from '../Placeholder/Placeholder';
+import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
 
 export default function InTheaters() {
   const playIcon = './assets/play.png';
@@ -44,7 +44,7 @@ export default function InTheaters() {
               <div className={s.mainBlock}>
                 <div className={s.mainImgContainer}>
                   <img className={s.saveTag} src={saveIcon} alt="#" />
-                  <Placeholder key={Data[0].id} src={Data[0].image} alt="poster" orientation="v" />
+                  <ImgPlaceholder key={Data[0].id} src={Data[0].image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.textContainer}>
                   <Link onClick={() => redirect(`/item-details/${Data[0].id}`)}>
@@ -63,7 +63,7 @@ export default function InTheaters() {
             {Data[1].map((item, index) => (
               <div key={index} className={s.movie}>
                 <div className={s.imgContainer}>
-                  <Placeholder key={index} src={item.image} alt="poster" orientation="v" />
+                  <ImgPlaceholder key={index} src={item.image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.text}>
                   <Link onClick={() => redirect(`/item-details/${item.id}`)}>

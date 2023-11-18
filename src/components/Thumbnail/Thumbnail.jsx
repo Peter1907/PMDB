@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getStoredTrailer, getTrailer } from '../Redux/trailer/trailer';
 import s from './Thumbnail.module.css';
-import Placeholder from '../Placeholder/Placeholder';
+import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
 
 const Thumbnail = ({ id, type }) => {
   const dispatch = useDispatch();
@@ -17,7 +17,7 @@ const Thumbnail = ({ id, type }) => {
 
   return (
     <div className={s.thumbnail} style={thStyle}>
-      <Placeholder src={trailerInfo.thumbnailUrl} alt="thumbnail" orientation="h" />
+      <ImgPlaceholder src={trailerInfo.thumbnailUrl} alt="thumbnail" orientation="h" />
     </div>
   );
 };

@@ -1,4 +1,4 @@
-import s from './placeholder.module.css';
+import s from './ImgPlaceholder.module.css';
 
 export default function LoadingLogo() {
   return (

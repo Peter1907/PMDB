@@ -5,7 +5,7 @@ import Rack from '../../components/Rack/Rack';
 import { getDetails, getStoredDetails } from '../../components/Redux/details/details';
 import Thumbnail from '../../components/Thumbnail/Thumbnail';
 import s from './ItemDetails.module.css';
-import Placeholder from '../../components/Placeholder/Placeholder';
+import ImgPlaceholder from '../../components/ImgPlaceholder/ImgPlaceholder';
 import Notice from '../../components/Notice/Notice';
 
 export default function ItemDetails() {
@@ -55,7 +55,7 @@ export default function ItemDetails() {
       <div className={s.pictures}>
         <div className={s.posterContainer}>
           <img className={s.saveTag} src={saveIcon} alt="#" />
-          <Placeholder alt="poster" src={Data.image} orientation="v" />
+          <ImgPlaceholder alt="poster" src={Data.image} orientation="v" />
         </div>
         <div className={s.thumbnailContainer}>
           <Thumbnail id={id} type={'new'} />
@@ -123,7 +123,7 @@ export default function ItemDetails() {
             {Data.actorList.map((actor) => (
               <div key={actor.id} className={s.actor}>
                 <div className={s.actorImg}>
-                  <Placeholder alt="actor" src={actor.image} orientation="v" />
+                  <ImgPlaceholder alt="actor" src={actor.image} orientation="v" />
                 </div>
                 <div className={s.actorInfo}>
                   <h3>{actor.name}</h3>

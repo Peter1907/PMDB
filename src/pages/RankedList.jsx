@@ -27,7 +27,7 @@ import {
   removePopMoviesFilter,
 } from '../components/Redux/pop-movies/pop-movies';
 import s from './List.module.css';
-import Placeholder from '../components/Placeholder/Placeholder';
+import ImgPlaceholder from '../components/ImgPlaceholder/ImgPlaceholder';
 
 export default function RankedList({ type }) {
   const saveIcon = '/assets/add.png';
@@ -99,7 +99,7 @@ export default function RankedList({ type }) {
         {Data.map((item, index) => (
           <div key={index} className={s.item}>
             <div className={s.posterContainer}>
-              <Placeholder src={item.image} alt="poster" orientation="v" />
+              <ImgPlaceholder src={item.image} alt="poster" orientation="v" />
             </div>
             <div className={s.textContainer}>
               <div className={s.titleContainer}>

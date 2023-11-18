@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import * as Scroll from 'react-scroll';
 import PropTypes from 'prop-types';
 import s from './Rack.module.css';
-import Placeholder from '../Placeholder/Placeholder';
+import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
 
 const ScrollLink = Scroll.Link;
 
@@ -41,7 +41,7 @@ export default function Rack({ type }) {
               <div key={id} className={s.item}>
                 <div className={s.posterContainer}>
                   <img className={s.saveTag} src={saveIcon} alt="#" />
-                  <Placeholder key={id} alt="poster" src={item.image} orientation="v" />
+                  <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
                   <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
@@ -65,7 +65,7 @@ export default function Rack({ type }) {
               <div key={id} className={s.item}>
                 <div className={s.posterContainer}>
                   <img className={s.saveTag} src={saveIcon} alt="#" />
-                  <Placeholder key={id} alt="poster" src={item.image} orientation="v" />
+                  <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
                   <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
@@ -89,7 +89,7 @@ export default function Rack({ type }) {
               <div key={id} className={s.item}>
                 <div className={s.posterContainer}>
                   <img className={s.saveTag} src={saveIcon} alt="#" />
-                  <Placeholder key={id} alt="poster" src={item.image} orientation="v" />
+                  <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
                   <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
