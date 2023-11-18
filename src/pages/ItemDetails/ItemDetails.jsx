@@ -29,10 +29,12 @@ export default function ItemDetails() {
       <div className={s.main}>
         <div className={s.name}>
           <div className={s.header}>{Data.title}</div>
-          <div className={s.subHeader}>
-            {Data.type} &spades; {Data.year} &spades; {`${Data.contentRating} `}
-            {Data.type === 'Movie' && <>&spades; {Data.runtimeStr}</>}
-          </div>
+          {Data.title && (
+            <div className={s.subHeader}>
+              {Data.type} &spades; {Data.year} &spades; {`${Data.contentRating} `}
+              {Data.runtimeStr && <>&spades; {Data.runtimeStr}</>}
+            </div>
+          )}
         </div>
         <div className={s.rating}>
           <p className={s.rTitle}>Rating</p>
