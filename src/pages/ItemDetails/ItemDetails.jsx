@@ -6,6 +6,7 @@ import { getDetails, getStoredDetails } from '../../components/Redux/details/det
 import Thumbnail from '../../components/Thumbnail/Thumbnail';
 import s from './ItemDetails.module.css';
 import Placeholder from '../../components/Placeholder/Placeholder';
+import Notice from '../../components/Notice/Notice';
 
 export default function ItemDetails() {
   const star = '../assets/star.png';
@@ -25,6 +26,7 @@ export default function ItemDetails() {
 
   return (
     <div className={s.detailsContainer}>
+      {Data.title === 'Full Title' && <Notice />}
       <img className={s.background} src={background} alt="movie disks" />
       <div className={s.main}>
         <div className={s.name}>
