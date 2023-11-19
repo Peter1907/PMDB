@@ -31,21 +31,19 @@
 
 .posterContainer {
   position: relative;
+  height: 100%;
   border: 3px solid black;
   background-color: black;
 }
 
-.poster {
-  width: 100%;
-}
-
 .saveTag {
-  width: 2rem;
   position: absolute;
   top: 0;
   left: 0.3rem;
+  width: 2rem;
   opacity: 0.8;
   cursor: pointer;
+  z-index: 1;
 }
 
 .saveTag:hover {

@@ -1,7 +1,4 @@
-.topMovies,
-.topSeries,
-.popMovies,
-.popSeries {
+.listPage {
   padding: 5rem 1rem 3rem;
   background:
     linear-gradient(#393e46f1, #222831f8),
@@ -37,8 +34,7 @@
   letter-spacing: 2px;
 }
 
-.movieList,
-.seriesList {
+.rankedList {
   max-width: 60rem;
   margin: auto;
   display: flex;
@@ -48,23 +44,24 @@
   box-shadow: 0 0 50px 1px #eee1;
 }
 
-.movie,
-.series {
+.item {
   display: flex;
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 0;
 }
 
-.movie:nth-child(even),
-.series:nth-child(even) {
+.item:nth-child(even) {
   background-color: #393e4665;
 }
 
 .posterContainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: relative;
+  width: 5rem;
+  height: 7.5rem;
+  margin-left: 2rem;
+  overflow: hidden;
+  flex-shrink: 0;
 }
 
 .poster {
@@ -148,14 +145,11 @@
 }
 
 @media screen and (max-width: 436px) {
-  .topMovies,
-  .topSeries,
-  .popMovies,
-  .popSeries {
+  .listPage {
     padding: 5rem 0.5rem 3rem;
   }
 
-  .poster {
+  .posterContainer {
     margin-left: 0.5rem;
   }
 }

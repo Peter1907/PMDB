@@ -1,7 +1,7 @@
 .mainContainer {
   position: relative;
   height: 100vh;
-  overflow-y: hidden;
+  overflow: hidden;
   background-color: #222831;
 }
 

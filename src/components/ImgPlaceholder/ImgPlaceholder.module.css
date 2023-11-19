@@ -1,0 +1,52 @@
+.animationBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 40%;
+  background-color: #393e46;
+  display: flex;
+  align-items: center;
+  -webkit-mask-image: url(/public/assets/logo.svg);
+  -webkit-mask-size: 100% 100%;
+  -webkit-mask-clip: border-box;
+  mask-image: url(/public/assets/logo.svg);
+  mask-size: 100% 100%;
+  mask-clip: border-box;
+  overflow: hidden;
+}
+
+.lightBox {
+  width: 100px;
+  height: 250px;
+  background-color: hsl(217, 10%, 45%);
+  animation: move 2s linear infinite;
+  filter: blur(20px);
+}
+
+@keyframes move {
+  from {
+    transform: translateX(-120px);
+  }
+  to {
+    transform: translateX(300px);
+  }
+}
+
+.placeholderContainer,
+.mainImgContainer {
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.placeholderImg,
+.mainImg {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.mainImgContainer {
+  opacity: 0;
+}
