@@ -4,7 +4,7 @@ import { getStoredTrailer, getTrailer } from '../Redux/trailer/trailer';
 import s from './Thumbnail.module.css';
 import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
 
-const Thumbnail = ({ id, type }) => {
+const Thumbnail = ({ id }) => {
   const dispatch = useDispatch();
   const storedTrailer = sessionStorage.getItem(`T_${id}`);
   const trailerInfo = useSelector((state) => state.trailer);
@@ -13,10 +13,8 @@ const Thumbnail = ({ id, type }) => {
     storedTrailer ? dispatch(getStoredTrailer(id)) : dispatch(getTrailer(id));
   }, [dispatch, id, storedTrailer]);
 
-  const thStyle = type ? { position: 'static' } : { position: 'absolute' };
-
   return (
-    <div className={s.thumbnail} style={thStyle}>
+    <div className={s.thumbnail}>
       <ImgPlaceholder src={trailerInfo.thumbnailUrl} alt="thumbnail" orientation="h" />
     </div>
   );

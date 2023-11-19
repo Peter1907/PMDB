@@ -40,7 +40,6 @@ export default function InTheaters() {
         <div className={s.block}>
           <div className={s.view}>
             <div className={s.thumbnailContainer}>
-              <Thumbnail id={Data[0].id} />
               <div className={s.mainBlock}>
                 <div className={s.mainImgContainer}>
                   <img className={s.saveTag} src={saveIcon} alt="#" />
@@ -48,7 +47,7 @@ export default function InTheaters() {
                 </div>
                 <div className={s.textContainer}>
                   <Link onClick={() => redirect(`/item-details/${Data[0].id}`)}>
-                    <h2 className={s.title}>{Data[0].fullTitle}</h2>
+                    <h2 className={s.mainTitle}>{Data[0].fullTitle}</h2>
                   </Link>
                   <p className={s.plot}>{`${Data[0].plot.substring(0, 150)}...`}</p>
                   <p className={s.mainPlayTrailer}>
@@ -57,6 +56,7 @@ export default function InTheaters() {
                   </p>
                 </div>
               </div>
+              <Thumbnail id={Data[0].id} />
             </div>
           </div>
           <div className={s.next}>

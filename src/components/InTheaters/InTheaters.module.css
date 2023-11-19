@@ -22,9 +22,11 @@
 }
 
 .view {
-  width: 68.5%;
+  width: 100%;
+  max-width: 68.5%;
   position: relative;
   background-color: black;
+  min-height: 40rem;
 }
 
 .thumbnailContainer {
@@ -37,17 +39,20 @@
   bottom: 0;
   left: 7%;
   width: 90%;
-  background: linear-gradient(rgba(0, 0, 0, 0.151), black);
+  background: linear-gradient(rgba(0, 0, 0, 0.226), black);
   backdrop-filter: blur(1px);
   display: flex;
   gap: 3rem;
+  z-index: 1;
 }
 
 .mainImgContainer {
+  --width: 10rem;
   position: relative;
-  width: 100%;
-  max-width: 10rem;
+  width: var(--width);
+  height: calc(var(--width) * 100 / 67.5);
   overflow: hidden;
+  flex-shrink: 0;
 }
 
 .saveTag {
@@ -64,8 +69,8 @@
   box-shadow: inset 0 0 0 80px #ffd369;
 }
 
-.textContainer h2 {
-  font-size: 42px;
+.mainTitle {
+  font-size: 38px;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-weight: 600;
   color: #ffd369;
@@ -73,8 +78,9 @@
 }
 
 .plot {
+  line-height: 1.55rem;
   font-size: 18px;
-  margin: 0 3%;
+  margin: 0.5rem 3%;
 }
 
 .mainPlayTrailer {
@@ -87,6 +93,7 @@
   background-color: rgba(0, 0, 0, 0.247);
   width: 100%;
   padding: 10px;
+  line-height: 1.55rem;
 }
 
 .mainPlayTrailer:hover {
@@ -186,68 +193,49 @@
 }
 
 @media screen and (max-width: 1024px) {
+  .view {
+    max-width: 50rem;
+    margin: auto;
+  }
+
   .block {
     flex-direction: column;
   }
 
-  .view {
-    width: 100%;
-    overflow: hidden;
-    aspect-ratio: 14 / 9;
-  }
-
   .next {
-    width: 70%;
+    width: 30rem;
     margin: auto;
+    max-height: 50rem;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 640px) {
   .inTheaters {
     padding: 5rem 5% 3rem;
   }
 
   .inTheaters h1 {
     text-align: center;
-    font-size: 60px;
-  }
-
-  .block {
-    flex-direction: column;
-  }
-
-  .view {
-    width: 100%;
-    min-height: 75rem;
+    font-size: 48px;
   }
 
   .mainBlock {
     position: static;
-    margin: auto auto 20rem;
-    display: flex;
-    background: transparent;
+    margin: 1rem auto;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-    padding: 7rem 0 0;
+    align-items: center;
   }
 
   .mainImgContainer {
-    max-width: 350px;
-    margin: auto;
+    --width: 300px;
   }
 
-  .textContainer h2 {
-    font-size: 34px;
-    position: absolute;
-    top: 1.5rem;
-    left: 5%;
+  .mainTitle {
+    font-size: 32px;
   }
 
   .mainPlayTrailer {
     font-size: 26px;
-    position: absolute;
-    bottom: -25rem;
   }
 
   .mainPlayButton {
@@ -255,16 +243,28 @@
   }
 
   .next {
-    width: 100%;
+    max-width: calc(100% - 2rem);
   }
 }
 
-@media screen and (max-width: 436px) {
+@media screen and (max-width: 480px) {
   .inTheaters {
     padding: 5rem 0.5rem 3rem;
   }
 
   .inTheaters h1 {
-    font-size: 46px;
+    font-size: 36px;
+  }
+
+  .mainTitle {
+    font-size: 26px;
+  }
+
+  .mainPlayTrailer {
+    font-size: 20px;
+  }
+
+  .mainPlayButton {
+    width: 35px;
   }
 }
