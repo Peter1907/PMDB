@@ -28,6 +28,7 @@ import {
 } from '../components/Redux/pop-movies/pop-movies';
 import s from './List.module.css';
 import ImgPlaceholder from '../components/ImgPlaceholder/ImgPlaceholder';
+import PagePlaceholder from '../components/PagePlaceholder/PagePlaceholder';
 
 export default function RankedList({ type }) {
   const saveIcon = '/assets/add.png';
@@ -94,35 +95,41 @@ export default function RankedList({ type }) {
       <img className={s.background} src={background} alt="movie disks" />
       <h1 className={s.header}>{options[type].header}</h1>
       <h3 className={s.subHeader}>{options[type].subHeader}</h3>
-      <Filter filter={options[type].filter} remove={options[type].removeFilter} />
-      <div className={s.rankedList}>
-        {Data.map((item, index) => (
-          <div key={index} className={s.item}>
-            <div className={s.posterContainer}>
-              <ImgPlaceholder src={item.image} alt="poster" orientation="v" />
-            </div>
-            <div className={s.textContainer}>
-              <div className={s.titleContainer}>
-                <p className={s.index}>{`${index + 1}.`}</p>
-                <Link
-                  className={s.title}
-                  to={`/item-details/${item.id}`}
-                  onClick={() => redirect(`/item-details/${item.id}`)}
-                >
-                  <p>{item.fullTitle}</p>
-                </Link>
+      {!Data.length ? (
+        <PagePlaceholder />
+      ) : (
+        <>
+          <Filter filter={options[type].filter} remove={options[type].removeFilter} />
+          <div className={s.rankedList}>
+            {Data.map((item, index) => (
+              <div key={index} className={s.item}>
+                <div className={s.posterContainer}>
+                  <ImgPlaceholder src={item.image} alt="poster" orientation="v" />
+                </div>
+                <div className={s.textContainer}>
+                  <div className={s.titleContainer}>
+                    <p className={s.index}>{`${index + 1}.`}</p>
+                    <Link
+                      className={s.title}
+                      to={`/item-details/${item.id}`}
+                      onClick={() => redirect(`/item-details/${item.id}`)}
+                    >
+                      <p>{item.fullTitle}</p>
+                    </Link>
+                  </div>
+                  <div className={s.ratingContainer}>
+                    <p className={s.rating}>
+                      <img src={starIcon} className={s.playButton} alt="star shaped icon" />
+                      {item.imDbRating} ({item.imDbRatingCount})
+                    </p>
+                  </div>
+                </div>
+                <img className={s.saveTag} src={saveIcon} alt="#" />
               </div>
-              <div className={s.ratingContainer}>
-                <p className={s.rating}>
-                  <img src={starIcon} className={s.playButton} alt="star shaped icon" />
-                  {item.imDbRating} ({item.imDbRatingCount})
-                </p>
-              </div>
-            </div>
-            <img className={s.saveTag} src={saveIcon} alt="#" />
+            ))}
           </div>
-        ))}
-      </div>
+        </>
+      )}
     </div>
   );
 }

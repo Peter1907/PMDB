@@ -14,6 +14,7 @@
   mask-image: url(/public/assets/logo.svg);
   mask-size: 100% 100%;
   mask-clip: border-box;
+  overflow: hidden;
 }
 
 .lightBox {

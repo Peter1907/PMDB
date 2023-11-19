@@ -42,7 +42,7 @@ export default function Notice() {
         </svg>
         <p className={s.notice}>
           The available data does not cover all titles. This is a placeholder template for titles
-          with no data. You can try any item on the menu for a full experience.
+          with no data. You can try any item on the menu for a full experience. Bon Appétit!
         </p>
         <button className={s.btn} onClick={removeNotice}>
           Got it!
