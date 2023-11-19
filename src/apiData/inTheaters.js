@@ -5,7 +5,7 @@ export const IN_THEATERS = [
     "fullTitle": "Creed III (2023)",
     "year": "2023",
     "releaseState": "03 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "116",
     "runtimeStr": "116 mins",
     "plot": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
@@ -57,7 +57,7 @@ export const IN_THEATERS = [
     "fullTitle": "Ant-Man and the Wasp: Quantumania (2023)",
     "year": "2023",
     "releaseState": "17 Feb 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "124",
     "runtimeStr": "124 mins",
     "plot": "Scott Lang and Hope Van Dyne, along with Hank Pym and Janet Van Dyne, explore the Quantum Realm, where they interact with strange creatures and embark on an adventure that goes beyond the limits of what they thought was possible.",
@@ -108,50 +108,58 @@ export const IN_THEATERS = [
     ]
   },
   {
-    "id": "tt13833688",
-    "title": "The Whale",
-    "fullTitle": "The Whale (2022)",
+    "id": "tt1630029",
+    "title": "Avatar: The Way of Water",
+    "fullTitle": "Avatar: The Way of Water (2022)",
     "year": "2022",
-    "releaseState": "21 Dec 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6986_AL_.jpg",
-    "runtimeMins": "117",
-    "runtimeStr": "117 mins",
-    "plot": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
-    "contentRating": "R",
+    "releaseState": "16 Dec 2022",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._UX360_Ratio0.6986_AL_.jpg",
+    "runtimeMins": "192",
+    "runtimeStr": "192 mins",
+    "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "contentRating": "PG-13",
     "imDbRating": "7.8",
-    "imDbRatingCount": "76967",
-    "metacriticRating": "60",
-    "genres": "Drama",
+    "imDbRatingCount": "313416",
+    "metacriticRating": "67",
+    "genres": "Action, Adventure, Fantasy",
     "genreList": [
       {
-        "key": "Drama",
-        "value": "Drama"
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Adventure",
+        "value": "Adventure"
+      },
+      {
+        "key": "Fantasy",
+        "value": "Fantasy"
       }
     ],
-    "directors": "Darren Aronofsky",
+    "directors": "James Cameron",
     "directorList": [
       {
-        "id": "nm0004716",
-        "name": "Darren Aronofsky"
+        "id": "nm0000116",
+        "name": "James Cameron"
       }
     ],
-    "stars": "Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",
+    "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
     "starList": [
       {
-        "id": "nm0000409",
-        "name": "Brendan Fraser"
+        "id": "nm0941777",
+        "name": "Sam Worthington"
       },
       {
-        "id": "nm5584750",
-        "name": "Sadie Sink"
+        "id": "nm0757855",
+        "name": "Zoe Saldana"
       },
       {
-        "id": "nm1339223",
-        "name": "Ty Simpkins"
+        "id": "nm0000244",
+        "name": "Sigourney Weaver"
       },
       {
-        "id": "nm2186865",
-        "name": "Hong Chau"
+        "id": "nm0002332",
+        "name": "Stephen Lang"
       }
     ]
   },
@@ -161,7 +169,7 @@ export const IN_THEATERS = [
     "fullTitle": "Everything Everywhere All at Once (2022)",
     "year": "2022",
     "releaseState": "08 Apr 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.6890_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._UX360_Ratio0.6890_AL_.jpg",
     "runtimeMins": "139",
     "runtimeStr": "139 mins",
     "plot": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
@@ -216,64 +224,12 @@ export const IN_THEATERS = [
     ]
   },
   {
-    "id": "tt14209916",
-    "title": "Cocaine Bear",
-    "fullTitle": "Cocaine Bear (2023)",
-    "year": "2023",
-    "releaseState": "24 Feb 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BODAwZDQ5ZjEtZDI1My00MTFiLTg0ZjUtOGE2YTBkOTdjODFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6699_AL_.jpg",
-    "runtimeMins": "95",
-    "runtimeStr": "95 mins",
-    "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
-    "contentRating": "R",
-    "imDbRating": "6.4",
-    "imDbRatingCount": "16774",
-    "metacriticRating": "54",
-    "genres": "Comedy, Thriller",
-    "genreList": [
-      {
-        "key": "Comedy",
-        "value": "Comedy"
-      },
-      {
-        "key": "Thriller",
-        "value": "Thriller"
-      }
-    ],
-    "directors": "Elizabeth Banks",
-    "directorList": [
-      {
-        "id": "nm0006969",
-        "name": "Elizabeth Banks"
-      }
-    ],
-    "stars": "Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr., Ray Liotta",
-    "starList": [
-      {
-        "id": "nm0005392",
-        "name": "Keri Russell"
-      },
-      {
-        "id": "nm2403277",
-        "name": "Alden Ehrenreich"
-      },
-      {
-        "id": "nm6578009",
-        "name": "O'Shea Jackson Jr."
-      },
-      {
-        "id": "nm0000501",
-        "name": "Ray Liotta"
-      }
-    ]
-  },
-  {
     "id": "tt10098448",
     "title": "Jesus Revolution",
     "fullTitle": "Jesus Revolution (2023)",
     "year": "2023",
     "releaseState": "24 Feb 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjQ4M2JiMTEtNDhiMi00OWM1LTkwMWEtODdjYTQxNWQyOTFiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ4M2JiMTEtNDhiMi00OWM1LTkwMWEtODdjYTQxNWQyOTFiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "120",
     "runtimeStr": "120 mins",
     "plot": "The true story of a national spiritual awakening in the early 1970's and its origins within a community of teenage hippies in Southern California.",
@@ -320,12 +276,112 @@ export const IN_THEATERS = [
     ]
   },
   {
+    "id": "tt13833688",
+    "title": "The Whale",
+    "fullTitle": "The Whale (2022)",
+    "year": "2022",
+    "releaseState": "21 Dec 2022",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._UX360_Ratio0.6986_AL_.jpg",
+    "runtimeMins": "117",
+    "runtimeStr": "117 mins",
+    "plot": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+    "contentRating": "R",
+    "imDbRating": "7.8",
+    "imDbRatingCount": "76967",
+    "metacriticRating": "60",
+    "genres": "Drama",
+    "genreList": [
+      {
+        "key": "Drama",
+        "value": "Drama"
+      }
+    ],
+    "directors": "Darren Aronofsky",
+    "directorList": [
+      {
+        "id": "nm0004716",
+        "name": "Darren Aronofsky"
+      }
+    ],
+    "stars": "Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",
+    "starList": [
+      {
+        "id": "nm0000409",
+        "name": "Brendan Fraser"
+      },
+      {
+        "id": "nm5584750",
+        "name": "Sadie Sink"
+      },
+      {
+        "id": "nm1339223",
+        "name": "Ty Simpkins"
+      },
+      {
+        "id": "nm2186865",
+        "name": "Hong Chau"
+      }
+    ]
+  },
+  {
+    "id": "tt14209916",
+    "title": "Cocaine Bear",
+    "fullTitle": "Cocaine Bear (2023)",
+    "year": "2023",
+    "releaseState": "24 Feb 2023",
+    "image": "https://m.media-amazon.com/images/M/MV5BODAwZDQ5ZjEtZDI1My00MTFiLTg0ZjUtOGE2YTBkOTdjODFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._UX360_Ratio0.6699_AL_.jpg",
+    "runtimeMins": "95",
+    "runtimeStr": "95 mins",
+    "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+    "contentRating": "R",
+    "imDbRating": "6.4",
+    "imDbRatingCount": "16774",
+    "metacriticRating": "54",
+    "genres": "Comedy, Thriller",
+    "genreList": [
+      {
+        "key": "Comedy",
+        "value": "Comedy"
+      },
+      {
+        "key": "Thriller",
+        "value": "Thriller"
+      }
+    ],
+    "directors": "Elizabeth Banks",
+    "directorList": [
+      {
+        "id": "nm0006969",
+        "name": "Elizabeth Banks"
+      }
+    ],
+    "stars": "Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr., Ray Liotta",
+    "starList": [
+      {
+        "id": "nm0005392",
+        "name": "Keri Russell"
+      },
+      {
+        "id": "nm2403277",
+        "name": "Alden Ehrenreich"
+      },
+      {
+        "id": "nm6578009",
+        "name": "O'Shea Jackson Jr."
+      },
+      {
+        "id": "nm0000501",
+        "name": "Ray Liotta"
+      }
+    ]
+  },
+  {
     "id": "tt11813216",
     "title": "The Banshees of Inisherin",
     "fullTitle": "The Banshees of Inisherin (2022)",
     "year": "2022",
     "releaseState": "04 Nov 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "114",
     "runtimeStr": "114 mins",
     "plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
@@ -372,68 +428,12 @@ export const IN_THEATERS = [
     ]
   },
   {
-    "id": "tt1630029",
-    "title": "Avatar: The Way of Water",
-    "fullTitle": "Avatar: The Way of Water (2022)",
-    "year": "2022",
-    "releaseState": "16 Dec 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.6986_AL_.jpg",
-    "runtimeMins": "192",
-    "runtimeStr": "192 mins",
-    "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
-    "contentRating": "PG-13",
-    "imDbRating": "7.8",
-    "imDbRatingCount": "313416",
-    "metacriticRating": "67",
-    "genres": "Action, Adventure, Fantasy",
-    "genreList": [
-      {
-        "key": "Action",
-        "value": "Action"
-      },
-      {
-        "key": "Adventure",
-        "value": "Adventure"
-      },
-      {
-        "key": "Fantasy",
-        "value": "Fantasy"
-      }
-    ],
-    "directors": "James Cameron",
-    "directorList": [
-      {
-        "id": "nm0000116",
-        "name": "James Cameron"
-      }
-    ],
-    "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
-    "starList": [
-      {
-        "id": "nm0941777",
-        "name": "Sam Worthington"
-      },
-      {
-        "id": "nm0757855",
-        "name": "Zoe Saldana"
-      },
-      {
-        "id": "nm0000244",
-        "name": "Sigourney Weaver"
-      },
-      {
-        "id": "nm0002332",
-        "name": "Stephen Lang"
-      }
-    ]
-  },
-  {
     "id": "tt14444726",
     "title": "Tár",
     "fullTitle": "Tár (2022)",
     "year": "2022",
     "releaseState": "28 Oct 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "158",
     "runtimeStr": "158 mins",
     "plot": "Set in the international world of Western classical music, the film centers on Lydia Tár, widely considered one of the greatest living composer-conductors and the very first female director of a major German orchestra.",
@@ -485,7 +485,7 @@ export const IN_THEATERS = [
     "fullTitle": "Scream VI (2023)",
     "year": "2023",
     "releaseState": "10 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTQ5OTkxNGEtZjZkMS00ZjBlLWE2OWYtM2ZkOTU3MjRlNzAxXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_Ratio0.7943_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQ5OTkxNGEtZjZkMS00ZjBlLWE2OWYtM2ZkOTU3MjRlNzAxXkEyXkFqcGdeQXVyMTQzNTA5MzYz._UX360_Ratio0.7943_AL_.jpg",
     "runtimeMins": "123",
     "runtimeStr": "123 mins",
     "plot": "In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
@@ -545,7 +545,7 @@ export const IN_THEATERS = [
     "fullTitle": "Puss in Boots: The Last Wish (2022)",
     "year": "2022",
     "releaseState": "21 Dec 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "102",
     "runtimeStr": "102 mins",
     "plot": "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
@@ -605,7 +605,7 @@ export const IN_THEATERS = [
     "fullTitle": "Magic Mike's Last Dance (2023)",
     "year": "2023",
     "releaseState": "10 Feb 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg4ZWZhODQtNWVhNC00NjA1LWJhZjgtZTFkY2JmNWJlYzU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg4ZWZhODQtNWVhNC00NjA1LWJhZjgtZTFkY2JmNWJlYzU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "112",
     "runtimeStr": "112 mins",
     "plot": "Mike takes to the stage again, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. Mike heads to London with a wealthy socialite who lures him with an offer he can't refuse.",
@@ -657,7 +657,7 @@ export const IN_THEATERS = [
     "fullTitle": "All Quiet on the Western Front (2022)",
     "year": "2022",
     "releaseState": "28 Oct 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "148",
     "runtimeStr": "148 mins",
     "plot": "A young German soldier's terrifying experiences and distress on the western front during World War I.",
@@ -713,7 +713,7 @@ export const IN_THEATERS = [
     "fullTitle": "Women Talking (2022)",
     "year": "2022",
     "releaseState": "20 Jan 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "104",
     "runtimeStr": "104 mins",
     "plot": "Do nothing. Stay and fight. Or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
@@ -761,7 +761,7 @@ export const IN_THEATERS = [
     "fullTitle": "Operation Fortune: Ruse de guerre (2023)",
     "year": "2023",
     "releaseState": "03 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "114",
     "runtimeStr": "114 mins",
     "plot": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
@@ -817,7 +817,7 @@ export const IN_THEATERS = [
     "fullTitle": "Top Gun: Maverick (2022)",
     "year": "2022",
     "releaseState": "27 May 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "130",
     "runtimeStr": "130 mins",
     "plot": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
@@ -869,7 +869,7 @@ export const IN_THEATERS = [
     "fullTitle": "65 (2023)",
     "year": "2023",
     "releaseState": "10 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzFhM2M1MDUtNDhmNC00YzEzLThiMzctYWYxZTc0MGJhNWYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.7943_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFhM2M1MDUtNDhmNC00YzEzLThiMzctYWYxZTc0MGJhNWYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX360_Ratio0.7943_AL_.jpg",
     "runtimeMins": "93",
     "runtimeStr": "93 mins",
     "plot": "An astronaut crash lands on a mysterious planet only to discover he's not alone.",
@@ -929,7 +929,7 @@ export const IN_THEATERS = [
     "fullTitle": "Elvis (2022)",
     "year": "2022",
     "releaseState": "24 Jun 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "159",
     "runtimeStr": "159 mins",
     "plot": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
@@ -985,7 +985,7 @@ export const IN_THEATERS = [
     "fullTitle": "Champions (2023)",
     "year": "2023",
     "releaseState": "10 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTYwMWJjZTgtMzJiNS00OGIzLWE1NDYtNjgwMDUwYjZiOTc5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTYwMWJjZTgtMzJiNS00OGIzLWE1NDYtNjgwMDUwYjZiOTc5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "123",
     "runtimeStr": "123 mins",
     "plot": "A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",
@@ -1041,7 +1041,7 @@ export const IN_THEATERS = [
     "fullTitle": "Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village (2023)",
     "year": "2023",
     "releaseState": "03 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDZiZTZhMzgtYTY0ZC00OGUyLWE2NzgtMmM4MjA1YjUxN2YyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDZiZTZhMzgtYTY0ZC00OGUyLWE2NzgtMmM4MjA1YjUxN2YyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "110",
     "runtimeStr": "110 mins",
     "plot": "All the Upper Rank Demons assemble at the Infinity Castle after Upper Six Demons' defeat.",
@@ -1097,7 +1097,7 @@ export const IN_THEATERS = [
     "fullTitle": "The Quiet Girl (2022)",
     "year": "2022",
     "releaseState": "13 May 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6794_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX360_Ratio0.6794_AL_.jpg",
     "runtimeMins": "95",
     "runtimeStr": "95 mins",
     "plot": "Rural Ireland 1981. A quiet, neglected girl is sent away from her dysfunctional family to live with foster parents for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one.",
@@ -1145,7 +1145,7 @@ export const IN_THEATERS = [
     "fullTitle": "Emily (2022)",
     "year": "2022",
     "releaseState": "17 Nov 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWViZTkzY2YtZDE5OC00M2NkLWJiY2QtMTdhNmJlYTE4OTVlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWViZTkzY2YtZDE5OC00M2NkLWJiY2QtMTdhNmJlYTE4OTVlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "130",
     "runtimeStr": "130 mins",
     "plot": "\"Emily\" imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
@@ -1201,7 +1201,7 @@ export const IN_THEATERS = [
     "fullTitle": "Unwelcome (2022)",
     "year": "2022",
     "releaseState": "20 Apr 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzhiMGM5YTktOTlkNS00MmQ5LTg5NTUtYzg3ODVjN2VmMjAzXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhiMGM5YTktOTlkNS00MmQ5LTg5NTUtYzg3ODVjN2VmMjAzXkEyXkFqcGdeQXVyMTAxNDE3MTE5._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "104",
     "runtimeStr": "104 mins",
     "plot": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
@@ -1249,7 +1249,7 @@ export const IN_THEATERS = [
     "fullTitle": "The Big Lebowski (1998)",
     "year": "1998",
     "releaseState": "06 Mar 1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "117",
     "runtimeStr": "117 mins",
     "plot": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
@@ -1305,7 +1305,7 @@ export const IN_THEATERS = [
     "fullTitle": "Mad Heidi (2022)",
     "year": "2022",
     "releaseState": "24 Nov 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGQ3M2JhNjMtYjM2OC00NjllLWFlOTUtMmZjYzM4ZTNiYjhlXkEyXkFqcGdeQXVyMTk0ODAyMTU@._V1_Ratio0.7081_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ3M2JhNjMtYjM2OC00NjllLWFlOTUtMmZjYzM4ZTNiYjhlXkEyXkFqcGdeQXVyMTk0ODAyMTU@._UX360_Ratio0.7081_AL_.jpg",
     "runtimeMins": "92",
     "runtimeStr": "92 mins",
     "plot": "Swiss mountain girl Heidi is abducted by brutal government troops and must defend herself and fight a war against a cheese-fueled machinery of hate.",
@@ -1365,7 +1365,7 @@ export const IN_THEATERS = [
     "fullTitle": "One Fine Morning (2022)",
     "year": "2022",
     "releaseState": "05 Oct 2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDRmOWEyMzUtODE0NC00MWRmLTkwY2YtMDdkOTcwZmJkMzA2XkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRmOWEyMzUtODE0NC00MWRmLTkwY2YtMDdkOTcwZmJkMzA2XkEyXkFqcGdeQXVyMTQyODg5MjQw._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "112",
     "runtimeStr": "112 mins",
     "plot": "With a father suffering from neurodegenerative disease, a young woman lives with her eight-year-old daughter. While struggling to secure a decent nursing home, she runs into an unavailable friend with whom she embarks on an affair.",
@@ -1417,7 +1417,7 @@ export const IN_THEATERS = [
     "fullTitle": "The Magic Flute (2022)",
     "year": "2022",
     "releaseState": "13 Apr 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjg3MDY1N2ItMzZjZC00MTc0LThiYjYtYmFkNWNmODEyZDU0XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjg3MDY1N2ItMzZjZC00MTc0LThiYjYtYmFkNWNmODEyZDU0XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "115",
     "runtimeStr": "115 mins",
     "plot": "Follows 17-year-old Tim Walker as he travels from London to the Austrian Alps to attend the legendary Mozart boarding school. There, he discovers a centuries-old forgotten passageway into the fantastic world of Mozart's \"The Magic Flute.\"",
@@ -1473,7 +1473,7 @@ export const IN_THEATERS = [
     "fullTitle": "Tu Jhoothi Main Makkaar (2023)",
     "year": "2023",
     "releaseState": "08 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmZmYWFiYzAtY2RhMC00MDRiLWI1M2YtNzRkZGNmYTIwZDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6890_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmZmYWFiYzAtY2RhMC00MDRiLWI1M2YtNzRkZGNmYTIwZDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._UX360_Ratio0.6890_AL_.jpg",
     "runtimeMins": "150",
     "runtimeStr": "150 mins",
     "plot": "Madness ensues when a 'player' in the world of romantic relationships finds a girl who's a worthy opponent, that believes love is a battle of wits.",
@@ -1533,7 +1533,7 @@ export const IN_THEATERS = [
     "fullTitle": "Unicorn Wars (2022)",
     "year": "2022",
     "releaseState": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_Ratio0.7081_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._UX360_Ratio0.7081_AL_.jpg",
     "runtimeMins": "80",
     "runtimeStr": "80 mins",
     "plot": "War-hungry teddy bears journey from bootcamp to the psychedelic terrors of the Magic Forest in this darkly beautiful horror animation.",
@@ -1589,7 +1589,7 @@ export const IN_THEATERS = [
     "fullTitle": "Southern Gospel",
     "year": "",
     "releaseState": "Limited Release",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDdhZWEwYmMtZGJiZS00ODRmLTk3YjAtZGRlYjlkYTFjNTgwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdhZWEwYmMtZGJiZS00ODRmLTk3YjAtZGRlYjlkYTFjNTgwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "109",
     "runtimeStr": "109 mins",
     "plot": "When a rock n roll star's life comes crashing down, he must fight his past demons to realize his childhood ambition of becoming a preacher.",
@@ -1645,7 +1645,7 @@ export const IN_THEATERS = [
     "fullTitle": "Saturday Afternoon (2019)",
     "year": "2019",
     "releaseState": "10 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMThkOTU4NzAtZWRhYS00MzUxLWJkOGEtNzYxNmVmNzI4YmUyXkEyXkFqcGdeQXVyOTc3MjQ5ODQ@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMThkOTU4NzAtZWRhYS00MzUxLWJkOGEtNzYxNmVmNzI4YmUyXkEyXkFqcGdeQXVyOTc3MjQ5ODQ@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "83",
     "runtimeStr": "83 mins",
     "plot": "An unprecedented terrorist attack takes place in a peaceful café in the center of Dhaka, capital of Bangladesh, on a nice Saturday afternoon. The terrorists use religion to divide and to ... See full summary",
@@ -1697,7 +1697,7 @@ export const IN_THEATERS = [
     "fullTitle": "Martyr or Murderer (2023)",
     "year": "2023",
     "releaseState": "01 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTE2ZTM4ZWQtNjBmZi00YWY0LThkYWUtNTY5MTlkN2EyYTFhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTE2ZTM4ZWQtNjBmZi00YWY0LThkYWUtNTY5MTlkN2EyYTFhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "103",
     "runtimeStr": "103 mins",
     "plot": "The film explores the assassination of Ninoy Aquino on August 21, 1983, three years before the events of Maid in Malacañang, and how the Marcoses were accused of as those responsible for killing him.",
@@ -1745,7 +1745,7 @@ export const IN_THEATERS = [
     "fullTitle": "The House of No Man (2023)",
     "year": "2023",
     "releaseState": "22 Jan 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTlmYTFkNTMtYWMyYy00NTdlLWEwZTctOWJlYzYzYmQ5OGJlXkEyXkFqcGdeQXVyNDc0Njc1NTY@._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTlmYTFkNTMtYWMyYy00NTdlLWEwZTctOWJlYzYzYmQ5OGJlXkEyXkFqcGdeQXVyNDc0Njc1NTY@._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "102",
     "runtimeStr": "102 mins",
     "plot": "Mrs. Nu (Le Giang) is a domineering matriarch who runs her three-generational household the same way she runs her successful crab noodle soup stall. In short, she runs a tight ship in all ... See full summary",
@@ -1793,7 +1793,7 @@ export const IN_THEATERS = [
     "fullTitle": "Agilan (2023)",
     "year": "2023",
     "releaseState": "10 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjc5NzA0MDYtMmIyZS00NDAyLTlmMTctZTNkNWZkZWQyNDYyXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_Ratio0.6699_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjc5NzA0MDYtMmIyZS00NDAyLTlmMTctZTNkNWZkZWQyNDYyXkEyXkFqcGdeQXVyMTUyNjIwMDEw._UX360_Ratio0.6699_AL_.jpg",
     "runtimeMins": "133",
     "runtimeStr": "133 mins",
     "plot": "A Crane operator doubles up as the leader of illegal trades happening in the harbour. What happens when he clashes with a fellow gangster, Gokul?",
@@ -1849,7 +1849,7 @@ export const IN_THEATERS = [
     "fullTitle": "Mitran Da Naa Chalda (2023)",
     "year": "2023",
     "releaseState": "08 Mar 2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjk3MGYtMjE5NC00MGQzLTgyMjktZjA5MTkwMTQxNjg2XkEyXkFqcGdeQXVyMTUwMjM5Njk1._V1_Ratio0.7943_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjk3MGYtMjE5NC00MGQzLTgyMjktZjA5MTkwMTQxNjg2XkEyXkFqcGdeQXVyMTUwMjM5Njk1._UX360_Ratio0.7943_AL_.jpg",
     "runtimeMins": "124",
     "runtimeStr": "124 mins",
     "plot": "An underdog guy who is always bullied during his childhood days because of his stammering. He dropped out of school in his early years, but he learned a lot about legal and court cases ... See full summary",

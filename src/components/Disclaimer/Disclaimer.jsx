@@ -9,6 +9,7 @@ export default function Disclaimer() {
   const [containerRef, textRef, btnRef] = [useRef(null), useRef(null), useRef(null)];
   const primaryColor = open ? '#222831' : '#ffd369';
   const secondaryColor = open ? '#ffd369' : '#222831';
+  const seen = sessionStorage.getItem('disclaimerSeen');
 
   const openMsg = () => {
     gsap.to(containerRef.current, {
@@ -43,11 +44,12 @@ export default function Disclaimer() {
         setRendered(false);
       },
     });
+    sessionStorage.setItem('disclaimerSeen', true);
   };
 
   return (
     <>
-      {rendered && (
+      {rendered && !seen && (
         <div className={s.disclaimer} ref={containerRef}>
           <DisclaimerSvg
             primaryColor={primaryColor}

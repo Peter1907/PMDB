@@ -5,6 +5,7 @@ import s from './notice.module.css';
 export default function Notice() {
   const [open, setOpen] = useState(true);
   const noticeRef = useRef(null);
+  const seen = sessionStorage.getItem('noticeSeen');
 
   useEffect(() => {
     gsap.from(noticeRef.current, { y: -130, duration: 0.5, ease: 'power1.out' });
@@ -12,10 +13,11 @@ export default function Notice() {
 
   const removeNotice = () => {
     gsap.to(noticeRef.current, { y: -130, duration: 0.5, ease: 'power1.out', onComplete: () => setOpen(false) });
+    sessionStorage.setItem('noticeSeen', true);
   };
 
   return (
-    open && (
+    open && !seen && (
       <div className={s.noticeContainer} ref={noticeRef}>
         <svg
           className={s.svg}

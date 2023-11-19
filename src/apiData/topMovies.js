@@ -5,7 +5,7 @@ export const TOP_MOVIES = [
     "title": "The Shawshank Redemption",
     "fullTitle": "The Shawshank Redemption (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Frank Darabont (dir.), Tim Robbins, Morgan Freeman",
     "imDbRating": "9.2",
     "imDbRatingCount": "2749440"
@@ -16,7 +16,7 @@ export const TOP_MOVIES = [
     "title": "The Godfather",
     "fullTitle": "The Godfather (1972)",
     "year": "1972",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",
     "imDbRating": "9.2",
     "imDbRatingCount": "1912331"
@@ -27,7 +27,7 @@ export const TOP_MOVIES = [
     "title": "The Dark Knight",
     "fullTitle": "The Dark Knight (2008)",
     "year": "2008",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Christian Bale, Heath Ledger",
     "imDbRating": "9.0",
     "imDbRatingCount": "2722192"
@@ -38,7 +38,7 @@ export const TOP_MOVIES = [
     "title": "The Godfather Part II",
     "fullTitle": "The Godfather Part II (1974)",
     "year": "1974",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",
     "imDbRating": "9.0",
     "imDbRatingCount": "1302511"
@@ -49,7 +49,7 @@ export const TOP_MOVIES = [
     "title": "12 Angry Men",
     "fullTitle": "12 Angry Men (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",
     "imDbRating": "9.0",
     "imDbRatingCount": "814170"
@@ -60,7 +60,7 @@ export const TOP_MOVIES = [
     "title": "Schindler's List",
     "fullTitle": "Schindler's List (1993)",
     "year": "1993",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",
     "imDbRating": "8.9",
     "imDbRatingCount": "1386689"
@@ -71,7 +71,7 @@ export const TOP_MOVIES = [
     "title": "The Lord of the Rings: The Return of the King",
     "fullTitle": "The Lord of the Rings: The Return of the King (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",
     "imDbRating": "8.9",
     "imDbRatingCount": "1889277"
@@ -82,7 +82,7 @@ export const TOP_MOVIES = [
     "title": "Pulp Fiction",
     "fullTitle": "Pulp Fiction (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Quentin Tarantino (dir.), John Travolta, Uma Thurman",
     "imDbRating": "8.8",
     "imDbRatingCount": "2112316"
@@ -93,7 +93,7 @@ export const TOP_MOVIES = [
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "fullTitle": "The Lord of the Rings: The Fellowship of the Ring (2001)",
     "year": "2001",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
     "imDbRating": "8.8",
     "imDbRatingCount": "1917872"
@@ -104,7 +104,7 @@ export const TOP_MOVIES = [
     "title": "The Good, the Bad and the Ugly",
     "fullTitle": "The Good, the Bad and the Ugly (1966)",
     "year": "1966",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sergio Leone (dir.), Clint Eastwood, Eli Wallach",
     "imDbRating": "8.8",
     "imDbRatingCount": "778110"
@@ -115,7 +115,7 @@ export const TOP_MOVIES = [
     "title": "Spider-Man: Across the Spider-Verse",
     "fullTitle": "Spider-Man: Across the Spider-Verse (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzQ1ODUzYjktMzRiMS00ODNiLWI4NzQtOTRiN2VlNTNmODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQ1ODUzYjktMzRiMS00ODNiLWI4NzQtOTRiN2VlNTNmODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Joaquim Dos Santos (dir.), Shameik Moore, Hailee Steinfeld",
     "imDbRating": "8.8",
     "imDbRatingCount": "86693"
@@ -126,7 +126,7 @@ export const TOP_MOVIES = [
     "title": "Forrest Gump",
     "fullTitle": "Forrest Gump (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Robert Zemeckis (dir.), Tom Hanks, Robin Wright",
     "imDbRating": "8.8",
     "imDbRatingCount": "2138950"
@@ -137,7 +137,7 @@ export const TOP_MOVIES = [
     "title": "Fight Club",
     "fullTitle": "Fight Club (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Fincher (dir.), Brad Pitt, Edward Norton",
     "imDbRating": "8.7",
     "imDbRatingCount": "2189364"
@@ -148,7 +148,7 @@ export const TOP_MOVIES = [
     "title": "The Lord of the Rings: The Two Towers",
     "fullTitle": "The Lord of the Rings: The Two Towers (2002)",
     "year": "2002",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
     "imDbRating": "8.7",
     "imDbRatingCount": "1705175"
@@ -159,7 +159,7 @@ export const TOP_MOVIES = [
     "title": "Inception",
     "fullTitle": "Inception (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",
     "imDbRating": "8.7",
     "imDbRatingCount": "2416254"
@@ -170,7 +170,7 @@ export const TOP_MOVIES = [
     "title": "Star Wars: Episode V - The Empire Strikes Back",
     "fullTitle": "Star Wars: Episode V - The Empire Strikes Back (1980)",
     "year": "1980",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford",
     "imDbRating": "8.7",
     "imDbRatingCount": "1322731"
@@ -181,7 +181,7 @@ export const TOP_MOVIES = [
     "title": "The Matrix",
     "fullTitle": "The Matrix (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",
     "imDbRating": "8.7",
     "imDbRatingCount": "1960244"
@@ -192,7 +192,7 @@ export const TOP_MOVIES = [
     "title": "Goodfellas",
     "fullTitle": "Goodfellas (1990)",
     "year": "1990",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Robert De Niro, Ray Liotta",
     "imDbRating": "8.7",
     "imDbRatingCount": "1193343"
@@ -203,7 +203,7 @@ export const TOP_MOVIES = [
     "title": "One Flew Over the Cuckoo's Nest",
     "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
     "year": "1975",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Milos Forman (dir.), Jack Nicholson, Louise Fletcher",
     "imDbRating": "8.6",
     "imDbRatingCount": "1029762"
@@ -214,7 +214,7 @@ export const TOP_MOVIES = [
     "title": "Se7en",
     "fullTitle": "Se7en (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Fincher (dir.), Morgan Freeman, Brad Pitt",
     "imDbRating": "8.6",
     "imDbRatingCount": "1700050"
@@ -225,7 +225,7 @@ export const TOP_MOVIES = [
     "title": "It's a Wonderful Life",
     "fullTitle": "It's a Wonderful Life (1946)",
     "year": "1946",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Frank Capra (dir.), James Stewart, Donna Reed",
     "imDbRating": "8.6",
     "imDbRatingCount": "472582"
@@ -236,7 +236,7 @@ export const TOP_MOVIES = [
     "title": "Seven Samurai",
     "fullTitle": "Seven Samurai (1954)",
     "year": "1954",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",
     "imDbRating": "8.6",
     "imDbRatingCount": "353172"
@@ -247,7 +247,7 @@ export const TOP_MOVIES = [
     "title": "The Silence of the Lambs",
     "fullTitle": "The Silence of the Lambs (1991)",
     "year": "1991",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",
     "imDbRating": "8.6",
     "imDbRatingCount": "1469276"
@@ -258,7 +258,7 @@ export const TOP_MOVIES = [
     "title": "Saving Private Ryan",
     "fullTitle": "Saving Private Ryan (1998)",
     "year": "1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Tom Hanks, Matt Damon",
     "imDbRating": "8.6",
     "imDbRatingCount": "1425104"
@@ -269,7 +269,7 @@ export const TOP_MOVIES = [
     "title": "City of God",
     "fullTitle": "City of God (2002)",
     "year": "2002",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",
     "imDbRating": "8.6",
     "imDbRatingCount": "771655"
@@ -280,7 +280,7 @@ export const TOP_MOVIES = [
     "title": "Interstellar",
     "fullTitle": "Interstellar (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",
     "imDbRating": "8.6",
     "imDbRatingCount": "1914623"
@@ -291,7 +291,7 @@ export const TOP_MOVIES = [
     "title": "Life Is Beautiful",
     "fullTitle": "Life Is Beautiful (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",
     "imDbRating": "8.6",
     "imDbRatingCount": "711859"
@@ -302,7 +302,7 @@ export const TOP_MOVIES = [
     "title": "The Green Mile",
     "fullTitle": "The Green Mile (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",
     "imDbRating": "8.6",
     "imDbRatingCount": "1336897"
@@ -313,7 +313,7 @@ export const TOP_MOVIES = [
     "title": "Star Wars: Episode IV - A New Hope",
     "fullTitle": "Star Wars: Episode IV - A New Hope (1977)",
     "year": "1977",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._UX960_Ratio0.6716_AL_.jpg",
     "crew": "George Lucas (dir.), Mark Hamill, Harrison Ford",
     "imDbRating": "8.5",
     "imDbRatingCount": "1395138"
@@ -324,7 +324,7 @@ export const TOP_MOVIES = [
     "title": "Terminator 2: Judgment Day",
     "fullTitle": "Terminator 2: Judgment Day (1991)",
     "year": "1991",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
     "imDbRating": "8.5",
     "imDbRatingCount": "1124349"
@@ -335,7 +335,7 @@ export const TOP_MOVIES = [
     "title": "Back to the Future",
     "fullTitle": "Back to the Future (1985)",
     "year": "1985",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",
     "imDbRating": "8.5",
     "imDbRatingCount": "1240543"
@@ -346,7 +346,7 @@ export const TOP_MOVIES = [
     "title": "Spirited Away",
     "fullTitle": "Spirited Away (2001)",
     "year": "2001",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",
     "imDbRating": "8.5",
     "imDbRatingCount": "791231"
@@ -357,7 +357,7 @@ export const TOP_MOVIES = [
     "title": "The Pianist",
     "fullTitle": "The Pianist (2002)",
     "year": "2002",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.7313_AL_.jpg",
     "crew": "Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",
     "imDbRating": "8.5",
     "imDbRatingCount": "857334"
@@ -368,7 +368,7 @@ export const TOP_MOVIES = [
     "title": "Psycho",
     "fullTitle": "Psycho (1960)",
     "year": "1960",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",
     "imDbRating": "8.5",
     "imDbRatingCount": "688498"
@@ -379,7 +379,7 @@ export const TOP_MOVIES = [
     "title": "Parasite",
     "fullTitle": "Parasite (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Bong Joon Ho (dir.), Song Kang-ho, Lee Sun-kyun",
     "imDbRating": "8.5",
     "imDbRatingCount": "857047"
@@ -390,7 +390,7 @@ export const TOP_MOVIES = [
     "title": "Léon: The Professional",
     "fullTitle": "Léon: The Professional (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Luc Besson (dir.), Jean Reno, Gary Oldman",
     "imDbRating": "8.5",
     "imDbRatingCount": "1190814"
@@ -401,7 +401,7 @@ export const TOP_MOVIES = [
     "title": "The Lion King",
     "fullTitle": "The Lion King (1994)",
     "year": "1994",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Roger Allers (dir.), Matthew Broderick, Jeremy Irons",
     "imDbRating": "8.5",
     "imDbRatingCount": "1086869"
@@ -412,7 +412,7 @@ export const TOP_MOVIES = [
     "title": "Gladiator",
     "fullTitle": "Gladiator (2000)",
     "year": "2000",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",
     "imDbRating": "8.5",
     "imDbRatingCount": "1537870"
@@ -423,7 +423,7 @@ export const TOP_MOVIES = [
     "title": "American History X",
     "fullTitle": "American History X (1998)",
     "year": "1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Tony Kaye (dir.), Edward Norton, Edward Furlong",
     "imDbRating": "8.5",
     "imDbRatingCount": "1144354"
@@ -434,7 +434,7 @@ export const TOP_MOVIES = [
     "title": "The Departed",
     "fullTitle": "The Departed (2006)",
     "year": "2006",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",
     "imDbRating": "8.5",
     "imDbRatingCount": "1357877"
@@ -445,7 +445,7 @@ export const TOP_MOVIES = [
     "title": "Whiplash",
     "fullTitle": "Whiplash (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Damien Chazelle (dir.), Miles Teller, J.K. Simmons",
     "imDbRating": "8.5",
     "imDbRatingCount": "906501"
@@ -456,7 +456,7 @@ export const TOP_MOVIES = [
     "title": "The Prestige",
     "fullTitle": "The Prestige (2006)",
     "year": "2006",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Christian Bale, Hugh Jackman",
     "imDbRating": "8.5",
     "imDbRatingCount": "1366169"
@@ -467,7 +467,7 @@ export const TOP_MOVIES = [
     "title": "The Usual Suspects",
     "fullTitle": "The Usual Suspects (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",
     "imDbRating": "8.5",
     "imDbRatingCount": "1105399"
@@ -478,7 +478,7 @@ export const TOP_MOVIES = [
     "title": "Casablanca",
     "fullTitle": "Casablanca (1942)",
     "year": "1942",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",
     "imDbRating": "8.5",
     "imDbRatingCount": "584125"
@@ -489,7 +489,7 @@ export const TOP_MOVIES = [
     "title": "Grave of the Fireflies",
     "fullTitle": "Grave of the Fireflies (1988)",
     "year": "1988",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",
     "imDbRating": "8.5",
     "imDbRatingCount": "287887"
@@ -500,7 +500,7 @@ export const TOP_MOVIES = [
     "title": "Harakiri",
     "fullTitle": "Harakiri (1962)",
     "year": "1962",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._UX960_Ratio0.7313_AL_.jpg",
     "crew": "Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",
     "imDbRating": "8.5",
     "imDbRatingCount": "61144"
@@ -511,7 +511,7 @@ export const TOP_MOVIES = [
     "title": "The Intouchables",
     "fullTitle": "The Intouchables (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Olivier Nakache (dir.), François Cluzet, Omar Sy",
     "imDbRating": "8.5",
     "imDbRatingCount": "882638"
@@ -522,7 +522,7 @@ export const TOP_MOVIES = [
     "title": "Modern Times",
     "fullTitle": "Modern Times (1936)",
     "year": "1936",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
     "imDbRating": "8.4",
     "imDbRatingCount": "248602"
@@ -533,7 +533,7 @@ export const TOP_MOVIES = [
     "title": "Once Upon a Time in the West",
     "fullTitle": "Once Upon a Time in the West (1968)",
     "year": "1968",
-    "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sergio Leone (dir.), Henry Fonda, Charles Bronson",
     "imDbRating": "8.4",
     "imDbRatingCount": "337457"
@@ -544,7 +544,7 @@ export const TOP_MOVIES = [
     "title": "Cinema Paradiso",
     "fullTitle": "Cinema Paradiso (1988)",
     "year": "1988",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",
     "imDbRating": "8.4",
     "imDbRatingCount": "268805"
@@ -555,7 +555,7 @@ export const TOP_MOVIES = [
     "title": "Rear Window",
     "fullTitle": "Rear Window (1954)",
     "year": "1954",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), James Stewart, Grace Kelly",
     "imDbRating": "8.4",
     "imDbRatingCount": "502386"
@@ -566,7 +566,7 @@ export const TOP_MOVIES = [
     "title": "Alien",
     "fullTitle": "Alien (1979)",
     "year": "1979",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",
     "imDbRating": "8.4",
     "imDbRatingCount": "904404"
@@ -577,7 +577,7 @@ export const TOP_MOVIES = [
     "title": "City Lights",
     "fullTitle": "City Lights (1931)",
     "year": "1931",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",
     "imDbRating": "8.4",
     "imDbRatingCount": "188730"
@@ -588,7 +588,7 @@ export const TOP_MOVIES = [
     "title": "Apocalypse Now",
     "fullTitle": "Apocalypse Now (1979)",
     "year": "1979",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",
     "imDbRating": "8.4",
     "imDbRatingCount": "682844"
@@ -599,7 +599,7 @@ export const TOP_MOVIES = [
     "title": "Memento",
     "fullTitle": "Memento (2000)",
     "year": "2000",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",
     "imDbRating": "8.4",
     "imDbRatingCount": "1264923"
@@ -610,7 +610,7 @@ export const TOP_MOVIES = [
     "title": "Django Unchained",
     "fullTitle": "Django Unchained (2012)",
     "year": "2012",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",
     "imDbRating": "8.4",
     "imDbRatingCount": "1601606"
@@ -621,7 +621,7 @@ export const TOP_MOVIES = [
     "title": "Indiana Jones and the Raiders of the Lost Ark",
     "fullTitle": "Indiana Jones and the Raiders of the Lost Ark (1981)",
     "year": "1981",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Harrison Ford, Karen Allen",
     "imDbRating": "8.4",
     "imDbRatingCount": "988215"
@@ -632,7 +632,7 @@ export const TOP_MOVIES = [
     "title": "WALL·E",
     "fullTitle": "WALL·E (2008)",
     "year": "2008",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Andrew Stanton (dir.), Ben Burtt, Elissa Knight",
     "imDbRating": "8.4",
     "imDbRatingCount": "1144528"
@@ -643,7 +643,7 @@ export const TOP_MOVIES = [
     "title": "The Lives of Others",
     "fullTitle": "The Lives of Others (2006)",
     "year": "2006",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",
     "imDbRating": "8.4",
     "imDbRatingCount": "396954"
@@ -654,7 +654,7 @@ export const TOP_MOVIES = [
     "title": "Sunset Blvd.",
     "fullTitle": "Sunset Blvd. (1950)",
     "year": "1950",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Billy Wilder (dir.), William Holden, Gloria Swanson",
     "imDbRating": "8.4",
     "imDbRatingCount": "227101"
@@ -665,7 +665,7 @@ export const TOP_MOVIES = [
     "title": "Paths of Glory",
     "fullTitle": "Paths of Glory (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",
     "imDbRating": "8.4",
     "imDbRatingCount": "202432"
@@ -676,7 +676,7 @@ export const TOP_MOVIES = [
     "title": "Avengers: Infinity War",
     "fullTitle": "Avengers: Infinity War (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",
     "imDbRating": "8.4",
     "imDbRatingCount": "1125934"
@@ -687,7 +687,7 @@ export const TOP_MOVIES = [
     "title": "The Shining",
     "fullTitle": "The Shining (1980)",
     "year": "1980",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",
     "imDbRating": "8.4",
     "imDbRatingCount": "1050505"
@@ -698,7 +698,7 @@ export const TOP_MOVIES = [
     "title": "The Great Dictator",
     "fullTitle": "The Great Dictator (1940)",
     "year": "1940",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
     "imDbRating": "8.4",
     "imDbRatingCount": "228960"
@@ -709,7 +709,7 @@ export const TOP_MOVIES = [
     "title": "Witness for the Prosecution",
     "fullTitle": "Witness for the Prosecution (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",
     "imDbRating": "8.4",
     "imDbRatingCount": "129703"
@@ -720,7 +720,7 @@ export const TOP_MOVIES = [
     "title": "Spider-Man: Into the Spider-Verse",
     "fullTitle": "Spider-Man: Into the Spider-Verse (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Bob Persichetti (dir.), Shameik Moore, Jake Johnson",
     "imDbRating": "8.4",
     "imDbRatingCount": "578419"
@@ -731,7 +731,7 @@ export const TOP_MOVIES = [
     "title": "Aliens",
     "fullTitle": "Aliens (1986)",
     "year": "1986",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Cameron (dir.), Sigourney Weaver, Michael Biehn",
     "imDbRating": "8.3",
     "imDbRatingCount": "733204"
@@ -742,7 +742,7 @@ export const TOP_MOVIES = [
     "title": "American Beauty",
     "fullTitle": "American Beauty (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sam Mendes (dir.), Kevin Spacey, Annette Bening",
     "imDbRating": "8.3",
     "imDbRatingCount": "1174395"
@@ -753,7 +753,7 @@ export const TOP_MOVIES = [
     "title": "The Dark Knight Rises",
     "fullTitle": "The Dark Knight Rises (2012)",
     "year": "2012",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Christian Bale, Tom Hardy",
     "imDbRating": "8.3",
     "imDbRatingCount": "1743701"
@@ -764,7 +764,7 @@ export const TOP_MOVIES = [
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "fullTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
     "year": "1964",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Peter Sellers, George C. Scott",
     "imDbRating": "8.3",
     "imDbRatingCount": "500828"
@@ -775,7 +775,7 @@ export const TOP_MOVIES = [
     "title": "Inglourious Basterds",
     "fullTitle": "Inglourious Basterds (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",
     "imDbRating": "8.3",
     "imDbRatingCount": "1493964"
@@ -786,7 +786,7 @@ export const TOP_MOVIES = [
     "title": "Oldboy",
     "fullTitle": "Oldboy (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Park Chan-wook (dir.), Choi Min-sik, Yoo Ji-tae",
     "imDbRating": "8.3",
     "imDbRatingCount": "597194"
@@ -797,7 +797,7 @@ export const TOP_MOVIES = [
     "title": "Coco",
     "fullTitle": "Coco (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",
     "imDbRating": "8.3",
     "imDbRatingCount": "535795"
@@ -808,7 +808,7 @@ export const TOP_MOVIES = [
     "title": "Amadeus",
     "fullTitle": "Amadeus (1984)",
     "year": "1984",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Milos Forman (dir.), F. Murray Abraham, Tom Hulce",
     "imDbRating": "8.3",
     "imDbRatingCount": "410096"
@@ -819,7 +819,7 @@ export const TOP_MOVIES = [
     "title": "Toy Story",
     "fullTitle": "Toy Story (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John Lasseter (dir.), Tom Hanks, Tim Allen",
     "imDbRating": "8.3",
     "imDbRatingCount": "1019636"
@@ -830,7 +830,7 @@ export const TOP_MOVIES = [
     "title": "Braveheart",
     "fullTitle": "Braveheart (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Mel Gibson (dir.), Mel Gibson, Sophie Marceau",
     "imDbRating": "8.3",
     "imDbRatingCount": "1056605"
@@ -841,7 +841,7 @@ export const TOP_MOVIES = [
     "title": "Das Boot",
     "fullTitle": "Das Boot (1981)",
     "year": "1981",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",
     "imDbRating": "8.3",
     "imDbRatingCount": "255846"
@@ -852,7 +852,7 @@ export const TOP_MOVIES = [
     "title": "Joker",
     "fullTitle": "Joker (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",
     "imDbRating": "8.3",
     "imDbRatingCount": "1357394"
@@ -863,7 +863,7 @@ export const TOP_MOVIES = [
     "title": "Avengers: Endgame",
     "fullTitle": "Avengers: Endgame (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Anthony Russo (dir.), Robert Downey Jr., Chris Evans",
     "imDbRating": "8.3",
     "imDbRatingCount": "1182716"
@@ -874,7 +874,7 @@ export const TOP_MOVIES = [
     "title": "Princess Mononoke",
     "fullTitle": "Princess Mononoke (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",
     "imDbRating": "8.3",
     "imDbRatingCount": "407332"
@@ -885,7 +885,7 @@ export const TOP_MOVIES = [
     "title": "Good Will Hunting",
     "fullTitle": "Good Will Hunting (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Gus Van Sant (dir.), Robin Williams, Matt Damon",
     "imDbRating": "8.3",
     "imDbRatingCount": "1005194"
@@ -896,7 +896,7 @@ export const TOP_MOVIES = [
     "title": "Once Upon a Time in America",
     "fullTitle": "Once Upon a Time in America (1984)",
     "year": "1984",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sergio Leone (dir.), Robert De Niro, James Woods",
     "imDbRating": "8.3",
     "imDbRatingCount": "360734"
@@ -907,7 +907,7 @@ export const TOP_MOVIES = [
     "title": "Your Name.",
     "fullTitle": "Your Name. (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Makoto Shinkai (dir.), Ryunosuke Kamiki, Mone Kamishiraishi",
     "imDbRating": "8.3",
     "imDbRatingCount": "287758"
@@ -918,7 +918,7 @@ export const TOP_MOVIES = [
     "title": "3 Idiots",
     "fullTitle": "3 Idiots (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan",
     "imDbRating": "8.3",
     "imDbRatingCount": "411286"
@@ -929,7 +929,7 @@ export const TOP_MOVIES = [
     "title": "Singin' in the Rain",
     "fullTitle": "Singin' in the Rain (1952)",
     "year": "1952",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Donen (dir.), Gene Kelly, Donald O'Connor",
     "imDbRating": "8.3",
     "imDbRatingCount": "249249"
@@ -940,7 +940,7 @@ export const TOP_MOVIES = [
     "title": "High and Low",
     "fullTitle": "High and Low (1963)",
     "year": "1963",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",
     "imDbRating": "8.3",
     "imDbRatingCount": "47920"
@@ -951,7 +951,7 @@ export const TOP_MOVIES = [
     "title": "Requiem for a Dream",
     "fullTitle": "Requiem for a Dream (2000)",
     "year": "2000",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",
     "imDbRating": "8.3",
     "imDbRatingCount": "862520"
@@ -962,7 +962,7 @@ export const TOP_MOVIES = [
     "title": "Capernaum",
     "fullTitle": "Capernaum (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",
     "imDbRating": "8.3",
     "imDbRatingCount": "95487"
@@ -973,7 +973,7 @@ export const TOP_MOVIES = [
     "title": "Toy Story 3",
     "fullTitle": "Toy Story 3 (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Lee Unkrich (dir.), Tom Hanks, Tim Allen",
     "imDbRating": "8.3",
     "imDbRatingCount": "856141"
@@ -984,7 +984,7 @@ export const TOP_MOVIES = [
     "title": "Star Wars: Episode VI - Return of the Jedi",
     "fullTitle": "Star Wars: Episode VI - Return of the Jedi (1983)",
     "year": "1983",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Richard Marquand (dir.), Mark Hamill, Harrison Ford",
     "imDbRating": "8.3",
     "imDbRatingCount": "1078841"
@@ -995,7 +995,7 @@ export const TOP_MOVIES = [
     "title": "Come and See",
     "fullTitle": "Come and See (1985)",
     "year": "1985",
-    "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",
     "imDbRating": "8.3",
     "imDbRatingCount": "86199"
@@ -1006,7 +1006,7 @@ export const TOP_MOVIES = [
     "title": "2001: A Space Odyssey",
     "fullTitle": "2001: A Space Odyssey (1968)",
     "year": "1968",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",
     "imDbRating": "8.3",
     "imDbRatingCount": "686280"
@@ -1017,7 +1017,7 @@ export const TOP_MOVIES = [
     "title": "Eternal Sunshine of the Spotless Mind",
     "fullTitle": "Eternal Sunshine of the Spotless Mind (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Michel Gondry (dir.), Jim Carrey, Kate Winslet",
     "imDbRating": "8.3",
     "imDbRatingCount": "1032330"
@@ -1028,7 +1028,7 @@ export const TOP_MOVIES = [
     "title": "The Hunt",
     "fullTitle": "The Hunt (2012)",
     "year": "2012",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",
     "imDbRating": "8.3",
     "imDbRatingCount": "342025"
@@ -1039,7 +1039,7 @@ export const TOP_MOVIES = [
     "title": "Reservoir Dogs",
     "fullTitle": "Reservoir Dogs (1992)",
     "year": "1992",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",
     "imDbRating": "8.3",
     "imDbRatingCount": "1043991"
@@ -1050,7 +1050,7 @@ export const TOP_MOVIES = [
     "title": "Lawrence of Arabia",
     "fullTitle": "Lawrence of Arabia (1962)",
     "year": "1962",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Lean (dir.), Peter O'Toole, Alec Guinness",
     "imDbRating": "8.2",
     "imDbRatingCount": "301462"
@@ -1061,7 +1061,7 @@ export const TOP_MOVIES = [
     "title": "Citizen Kane",
     "fullTitle": "Citizen Kane (1941)",
     "year": "1941",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Orson Welles (dir.), Orson Welles, Joseph Cotten",
     "imDbRating": "8.2",
     "imDbRatingCount": "451044"
@@ -1072,7 +1072,7 @@ export const TOP_MOVIES = [
     "title": "M",
     "fullTitle": "M (1931)",
     "year": "1931",
-    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Fritz Lang (dir.), Peter Lorre, Ellen Widmann",
     "imDbRating": "8.2",
     "imDbRatingCount": "161820"
@@ -1083,7 +1083,7 @@ export const TOP_MOVIES = [
     "title": "Ikiru",
     "fullTitle": "Ikiru (1952)",
     "year": "1952",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",
     "imDbRating": "8.2",
     "imDbRatingCount": "81947"
@@ -1094,7 +1094,7 @@ export const TOP_MOVIES = [
     "title": "North by Northwest",
     "fullTitle": "North by Northwest (1959)",
     "year": "1959",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",
     "imDbRating": "8.2",
     "imDbRatingCount": "334891"
@@ -1105,7 +1105,7 @@ export const TOP_MOVIES = [
     "title": "The Apartment",
     "fullTitle": "The Apartment (1960)",
     "year": "1960",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",
     "imDbRating": "8.2",
     "imDbRatingCount": "186811"
@@ -1116,7 +1116,7 @@ export const TOP_MOVIES = [
     "title": "Vertigo",
     "fullTitle": "Vertigo (1958)",
     "year": "1958",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), James Stewart, Kim Novak",
     "imDbRating": "8.2",
     "imDbRatingCount": "411207"
@@ -1127,7 +1127,7 @@ export const TOP_MOVIES = [
     "title": "Amélie",
     "fullTitle": "Amélie (2001)",
     "year": "2001",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",
     "imDbRating": "8.2",
     "imDbRatingCount": "770224"
@@ -1138,7 +1138,7 @@ export const TOP_MOVIES = [
     "title": "Double Indemnity",
     "fullTitle": "Double Indemnity (1944)",
     "year": "1944",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",
     "imDbRating": "8.2",
     "imDbRatingCount": "160967"
@@ -1149,7 +1149,7 @@ export const TOP_MOVIES = [
     "title": "A Clockwork Orange",
     "fullTitle": "A Clockwork Orange (1971)",
     "year": "1971",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",
     "imDbRating": "8.2",
     "imDbRatingCount": "848731"
@@ -1160,7 +1160,7 @@ export const TOP_MOVIES = [
     "title": "Hamilton",
     "fullTitle": "Hamilton (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Thomas Kail (dir.), Lin-Manuel Miranda, Phillipa Soo",
     "imDbRating": "8.2",
     "imDbRatingCount": "101777"
@@ -1171,7 +1171,7 @@ export const TOP_MOVIES = [
     "title": "Full Metal Jacket",
     "fullTitle": "Full Metal Jacket (1987)",
     "year": "1987",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",
     "imDbRating": "8.2",
     "imDbRatingCount": "759615"
@@ -1182,7 +1182,7 @@ export const TOP_MOVIES = [
     "title": "Scarface",
     "fullTitle": "Scarface (1983)",
     "year": "1983",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",
     "imDbRating": "8.2",
     "imDbRatingCount": "867284"
@@ -1193,7 +1193,7 @@ export const TOP_MOVIES = [
     "title": "Incendies",
     "fullTitle": "Incendies (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",
     "imDbRating": "8.2",
     "imDbRatingCount": "184409"
@@ -1204,7 +1204,7 @@ export const TOP_MOVIES = [
     "title": "Heat",
     "fullTitle": "Heat (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Michael Mann (dir.), Al Pacino, Robert De Niro",
     "imDbRating": "8.2",
     "imDbRatingCount": "677664"
@@ -1215,7 +1215,7 @@ export const TOP_MOVIES = [
     "title": "Up",
     "fullTitle": "Up (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Pete Docter (dir.), Edward Asner, Jordan Nagai",
     "imDbRating": "8.2",
     "imDbRatingCount": "1071006"
@@ -1226,7 +1226,7 @@ export const TOP_MOVIES = [
     "title": "To Kill a Mockingbird",
     "fullTitle": "To Kill a Mockingbird (1962)",
     "year": "1962",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Robert Mulligan (dir.), Gregory Peck, John Megna",
     "imDbRating": "8.2",
     "imDbRatingCount": "322462"
@@ -1237,7 +1237,7 @@ export const TOP_MOVIES = [
     "title": "The Sting",
     "fullTitle": "The Sting (1973)",
     "year": "1973",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "George Roy Hill (dir.), Paul Newman, Robert Redford",
     "imDbRating": "8.2",
     "imDbRatingCount": "269807"
@@ -1248,7 +1248,7 @@ export const TOP_MOVIES = [
     "title": "A Separation",
     "fullTitle": "A Separation (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",
     "imDbRating": "8.2",
     "imDbRatingCount": "249701"
@@ -1259,7 +1259,7 @@ export const TOP_MOVIES = [
     "title": "Metropolis",
     "fullTitle": "Metropolis (1927)",
     "year": "1927",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Fritz Lang (dir.), Brigitte Helm, Alfred Abel",
     "imDbRating": "8.2",
     "imDbRatingCount": "178420"
@@ -1270,7 +1270,7 @@ export const TOP_MOVIES = [
     "title": "L.A. Confidential",
     "fullTitle": "L.A. Confidential (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",
     "imDbRating": "8.2",
     "imDbRatingCount": "593626"
@@ -1281,7 +1281,7 @@ export const TOP_MOVIES = [
     "title": "Die Hard",
     "fullTitle": "Die Hard (1988)",
     "year": "1988",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John McTiernan (dir.), Bruce Willis, Alan Rickman",
     "imDbRating": "8.2",
     "imDbRatingCount": "902083"
@@ -1292,7 +1292,7 @@ export const TOP_MOVIES = [
     "title": "Indiana Jones and the Last Crusade",
     "fullTitle": "Indiana Jones and the Last Crusade (1989)",
     "year": "1989",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Harrison Ford, Sean Connery",
     "imDbRating": "8.2",
     "imDbRatingCount": "772293"
@@ -1303,7 +1303,7 @@ export const TOP_MOVIES = [
     "title": "Taxi Driver",
     "fullTitle": "Taxi Driver (1976)",
     "year": "1976",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Robert De Niro, Jodie Foster",
     "imDbRating": "8.2",
     "imDbRatingCount": "865481"
@@ -1314,7 +1314,7 @@ export const TOP_MOVIES = [
     "title": "Snatch",
     "fullTitle": "Snatch (2000)",
     "year": "2000",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Guy Ritchie (dir.), Jason Statham, Brad Pitt",
     "imDbRating": "8.2",
     "imDbRatingCount": "874937"
@@ -1325,7 +1325,7 @@ export const TOP_MOVIES = [
     "title": "Bicycle Thieves",
     "fullTitle": "Bicycle Thieves (1948)",
     "year": "1948",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",
     "imDbRating": "8.2",
     "imDbRatingCount": "167755"
@@ -1336,7 +1336,7 @@ export const TOP_MOVIES = [
     "title": "Like Stars on Earth",
     "fullTitle": "Like Stars on Earth (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan",
     "imDbRating": "8.2",
     "imDbRatingCount": "198205"
@@ -1347,7 +1347,7 @@ export const TOP_MOVIES = [
     "title": "1917",
     "fullTitle": "1917 (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",
     "imDbRating": "8.2",
     "imDbRatingCount": "622362"
@@ -1358,7 +1358,7 @@ export const TOP_MOVIES = [
     "title": "Dangal",
     "fullTitle": "Dangal (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",
     "imDbRating": "8.2",
     "imDbRatingCount": "197587"
@@ -1369,7 +1369,7 @@ export const TOP_MOVIES = [
     "title": "Downfall",
     "fullTitle": "Downfall (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",
     "imDbRating": "8.2",
     "imDbRatingCount": "362654"
@@ -1380,7 +1380,7 @@ export const TOP_MOVIES = [
     "title": "Top Gun: Maverick",
     "fullTitle": "Top Gun: Maverick (2022)",
     "year": "2022",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Joseph Kosinski (dir.), Tom Cruise, Jennifer Connelly",
     "imDbRating": "8.2",
     "imDbRatingCount": "593442"
@@ -1391,7 +1391,7 @@ export const TOP_MOVIES = [
     "title": "For a Few Dollars More",
     "fullTitle": "For a Few Dollars More (1965)",
     "year": "1965",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",
     "imDbRating": "8.2",
     "imDbRatingCount": "263062"
@@ -1402,7 +1402,7 @@ export const TOP_MOVIES = [
     "title": "Batman Begins",
     "fullTitle": "Batman Begins (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Christopher Nolan (dir.), Christian Bale, Michael Caine",
     "imDbRating": "8.2",
     "imDbRatingCount": "1504974"
@@ -1413,7 +1413,7 @@ export const TOP_MOVIES = [
     "title": "The Kid",
     "fullTitle": "The Kid (1921)",
     "year": "1921",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",
     "imDbRating": "8.2",
     "imDbRatingCount": "129451"
@@ -1424,7 +1424,7 @@ export const TOP_MOVIES = [
     "title": "Some Like It Hot",
     "fullTitle": "Some Like It Hot (1959)",
     "year": "1959",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",
     "imDbRating": "8.2",
     "imDbRatingCount": "273416"
@@ -1435,7 +1435,7 @@ export const TOP_MOVIES = [
     "title": "The Father",
     "fullTitle": "The Father (2020)",
     "year": "2020",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Florian Zeller (dir.), Anthony Hopkins, Olivia Colman",
     "imDbRating": "8.2",
     "imDbRatingCount": "169407"
@@ -1446,7 +1446,7 @@ export const TOP_MOVIES = [
     "title": "All About Eve",
     "fullTitle": "All About Eve (1950)",
     "year": "1950",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",
     "imDbRating": "8.2",
     "imDbRatingCount": "134184"
@@ -1457,7 +1457,7 @@ export const TOP_MOVIES = [
     "title": "The Wolf of Wall Street",
     "fullTitle": "The Wolf of Wall Street (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",
     "imDbRating": "8.2",
     "imDbRatingCount": "1465668"
@@ -1468,7 +1468,7 @@ export const TOP_MOVIES = [
     "title": "Green Book",
     "fullTitle": "Green Book (2018)",
     "year": "2018",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",
     "imDbRating": "8.2",
     "imDbRatingCount": "520319"
@@ -1479,7 +1479,7 @@ export const TOP_MOVIES = [
     "title": "Judgment at Nuremberg",
     "fullTitle": "Judgment at Nuremberg (1961)",
     "year": "1961",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",
     "imDbRating": "8.2",
     "imDbRatingCount": "80073"
@@ -1490,7 +1490,7 @@ export const TOP_MOVIES = [
     "title": "The Truman Show",
     "fullTitle": "The Truman Show (1998)",
     "year": "1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Weir (dir.), Jim Carrey, Ed Harris",
     "imDbRating": "8.2",
     "imDbRatingCount": "1118751"
@@ -1501,7 +1501,7 @@ export const TOP_MOVIES = [
     "title": "Ran",
     "fullTitle": "Ran (1985)",
     "year": "1985",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",
     "imDbRating": "8.2",
     "imDbRatingCount": "129341"
@@ -1512,7 +1512,7 @@ export const TOP_MOVIES = [
     "title": "Casino",
     "fullTitle": "Casino (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Robert De Niro, Sharon Stone",
     "imDbRating": "8.2",
     "imDbRatingCount": "535472"
@@ -1523,7 +1523,7 @@ export const TOP_MOVIES = [
     "title": "There Will Be Blood",
     "fullTitle": "There Will Be Blood (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",
     "imDbRating": "8.2",
     "imDbRatingCount": "602997"
@@ -1534,7 +1534,7 @@ export const TOP_MOVIES = [
     "title": "Pan's Labyrinth",
     "fullTitle": "Pan's Labyrinth (2006)",
     "year": "2006",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",
     "imDbRating": "8.2",
     "imDbRatingCount": "681491"
@@ -1545,7 +1545,7 @@ export const TOP_MOVIES = [
     "title": "Unforgiven",
     "fullTitle": "Unforgiven (1992)",
     "year": "1992",
-    "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",
     "imDbRating": "8.2",
     "imDbRatingCount": "421321"
@@ -1556,7 +1556,7 @@ export const TOP_MOVIES = [
     "title": "Shutter Island",
     "fullTitle": "Shutter Island (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",
     "imDbRating": "8.2",
     "imDbRatingCount": "1363118"
@@ -1567,7 +1567,7 @@ export const TOP_MOVIES = [
     "title": "The Sixth Sense",
     "fullTitle": "The Sixth Sense (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",
     "imDbRating": "8.2",
     "imDbRatingCount": "1011936"
@@ -1578,7 +1578,7 @@ export const TOP_MOVIES = [
     "title": "Jurassic Park",
     "fullTitle": "Jurassic Park (1993)",
     "year": "1993",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Sam Neill, Laura Dern",
     "imDbRating": "8.2",
     "imDbRatingCount": "1015157"
@@ -1589,7 +1589,7 @@ export const TOP_MOVIES = [
     "title": "A Beautiful Mind",
     "fullTitle": "A Beautiful Mind (2001)",
     "year": "2001",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ron Howard (dir.), Russell Crowe, Ed Harris",
     "imDbRating": "8.2",
     "imDbRatingCount": "951208"
@@ -1600,7 +1600,7 @@ export const TOP_MOVIES = [
     "title": "Yojimbo",
     "fullTitle": "Yojimbo (1961)",
     "year": "1961",
-    "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",
     "imDbRating": "8.1",
     "imDbRatingCount": "125993"
@@ -1611,7 +1611,7 @@ export const TOP_MOVIES = [
     "title": "The Treasure of the Sierra Madre",
     "fullTitle": "The Treasure of the Sierra Madre (1948)",
     "year": "1948",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John Huston (dir.), Humphrey Bogart, Walter Huston",
     "imDbRating": "8.1",
     "imDbRatingCount": "128040"
@@ -1622,7 +1622,7 @@ export const TOP_MOVIES = [
     "title": "Monty Python and the Holy Grail",
     "fullTitle": "Monty Python and the Holy Grail (1975)",
     "year": "1975",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Terry Gilliam (dir.), Graham Chapman, John Cleese",
     "imDbRating": "8.1",
     "imDbRatingCount": "552310"
@@ -1633,7 +1633,7 @@ export const TOP_MOVIES = [
     "title": "No Country for Old Men",
     "fullTitle": "No Country for Old Men (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",
     "imDbRating": "8.1",
     "imDbRatingCount": "1002841"
@@ -1644,7 +1644,7 @@ export const TOP_MOVIES = [
     "title": "Kill Bill: Vol. 1",
     "fullTitle": "Kill Bill: Vol. 1 (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Quentin Tarantino (dir.), Uma Thurman, David Carradine",
     "imDbRating": "8.1",
     "imDbRatingCount": "1141938"
@@ -1655,7 +1655,7 @@ export const TOP_MOVIES = [
     "title": "The Great Escape",
     "fullTitle": "The Great Escape (1963)",
     "year": "1963",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John Sturges (dir.), Steve McQueen, James Garner",
     "imDbRating": "8.1",
     "imDbRatingCount": "249715"
@@ -1666,7 +1666,7 @@ export const TOP_MOVIES = [
     "title": "Rashomon",
     "fullTitle": "Rashomon (1950)",
     "year": "1950",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",
     "imDbRating": "8.1",
     "imDbRatingCount": "172895"
@@ -1677,7 +1677,7 @@ export const TOP_MOVIES = [
     "title": "The Thing",
     "fullTitle": "The Thing (1982)",
     "year": "1982",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John Carpenter (dir.), Kurt Russell, Wilford Brimley",
     "imDbRating": "8.1",
     "imDbRatingCount": "439269"
@@ -1688,7 +1688,7 @@ export const TOP_MOVIES = [
     "title": "Finding Nemo",
     "fullTitle": "Finding Nemo (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",
     "imDbRating": "8.1",
     "imDbRatingCount": "1067773"
@@ -1699,7 +1699,7 @@ export const TOP_MOVIES = [
     "title": "Spider-Man: No Way Home",
     "fullTitle": "Spider-Man: No Way Home (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Jon Watts (dir.), Tom Holland, Zendaya",
     "imDbRating": "8.1",
     "imDbRatingCount": "800007"
@@ -1710,7 +1710,7 @@ export const TOP_MOVIES = [
     "title": "The Elephant Man",
     "fullTitle": "The Elephant Man (1980)",
     "year": "1980",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Lynch (dir.), Anthony Hopkins, John Hurt",
     "imDbRating": "8.1",
     "imDbRatingCount": "248160"
@@ -1721,7 +1721,7 @@ export const TOP_MOVIES = [
     "title": "Chinatown",
     "fullTitle": "Chinatown (1974)",
     "year": "1974",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",
     "imDbRating": "8.1",
     "imDbRatingCount": "335040"
@@ -1732,7 +1732,7 @@ export const TOP_MOVIES = [
     "title": "Raging Bull",
     "fullTitle": "Raging Bull (1980)",
     "year": "1980",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",
     "imDbRating": "8.1",
     "imDbRatingCount": "363551"
@@ -1743,7 +1743,7 @@ export const TOP_MOVIES = [
     "title": "V for Vendetta",
     "fullTitle": "V for Vendetta (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James McTeigue (dir.), Hugo Weaving, Natalie Portman",
     "imDbRating": "8.1",
     "imDbRatingCount": "1141684"
@@ -1754,7 +1754,7 @@ export const TOP_MOVIES = [
     "title": "Gone with the Wind",
     "fullTitle": "Gone with the Wind (1939)",
     "year": "1939",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Victor Fleming (dir.), Clark Gable, Vivien Leigh",
     "imDbRating": "8.1",
     "imDbRatingCount": "322691"
@@ -1765,7 +1765,7 @@ export const TOP_MOVIES = [
     "title": "Dial M for Murder",
     "fullTitle": "Dial M for Murder (1954)",
     "year": "1954",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",
     "imDbRating": "8.1",
     "imDbRatingCount": "180755"
@@ -1776,7 +1776,7 @@ export const TOP_MOVIES = [
     "title": "Inside Out",
     "fullTitle": "Inside Out (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Pete Docter (dir.), Amy Poehler, Bill Hader",
     "imDbRating": "8.1",
     "imDbRatingCount": "737709"
@@ -1787,7 +1787,7 @@ export const TOP_MOVIES = [
     "title": "Lock, Stock and Two Smoking Barrels",
     "fullTitle": "Lock, Stock and Two Smoking Barrels (1998)",
     "year": "1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",
     "imDbRating": "8.1",
     "imDbRatingCount": "595764"
@@ -1798,7 +1798,7 @@ export const TOP_MOVIES = [
     "title": "Howl's Moving Castle",
     "fullTitle": "Howl's Moving Castle (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",
     "imDbRating": "8.1",
     "imDbRatingCount": "412747"
@@ -1809,7 +1809,7 @@ export const TOP_MOVIES = [
     "title": "The Secret in Their Eyes",
     "fullTitle": "The Secret in Their Eyes (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",
     "imDbRating": "8.1",
     "imDbRatingCount": "214333"
@@ -1820,7 +1820,7 @@ export const TOP_MOVIES = [
     "title": "Guardians of the Galaxy Vol. 3",
     "fullTitle": "Guardians of the Galaxy Vol. 3 (2023)",
     "year": "2023",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Gunn (dir.), Chris Pratt, Chukwudi Iwuji",
     "imDbRating": "8.1",
     "imDbRatingCount": "163113"
@@ -1831,7 +1831,7 @@ export const TOP_MOVIES = [
     "title": "Three Billboards Outside Ebbing, Missouri",
     "fullTitle": "Three Billboards Outside Ebbing, Missouri (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",
     "imDbRating": "8.1",
     "imDbRatingCount": "526713"
@@ -1842,7 +1842,7 @@ export const TOP_MOVIES = [
     "title": "Prisoners",
     "fullTitle": "Prisoners (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",
     "imDbRating": "8.1",
     "imDbRatingCount": "747540"
@@ -1853,7 +1853,7 @@ export const TOP_MOVIES = [
     "title": "Trainspotting",
     "fullTitle": "Trainspotting (1996)",
     "year": "1996",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",
     "imDbRating": "8.1",
     "imDbRatingCount": "701668"
@@ -1864,7 +1864,7 @@ export const TOP_MOVIES = [
     "title": "The Bridge on the River Kwai",
     "fullTitle": "The Bridge on the River Kwai (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Lean (dir.), William Holden, Alec Guinness",
     "imDbRating": "8.1",
     "imDbRatingCount": "225850"
@@ -1875,7 +1875,7 @@ export const TOP_MOVIES = [
     "title": "Fargo",
     "fullTitle": "Fargo (1996)",
     "year": "1996",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Joel Coen (dir.), William H. Macy, Frances McDormand",
     "imDbRating": "8.1",
     "imDbRatingCount": "693309"
@@ -1886,7 +1886,7 @@ export const TOP_MOVIES = [
     "title": "Warrior",
     "fullTitle": "Warrior (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",
     "imDbRating": "8.1",
     "imDbRatingCount": "482178"
@@ -1897,7 +1897,7 @@ export const TOP_MOVIES = [
     "title": "Gran Torino",
     "fullTitle": "Gran Torino (2008)",
     "year": "2008",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Clint Eastwood (dir.), Clint Eastwood, Bee Vang",
     "imDbRating": "8.1",
     "imDbRatingCount": "790224"
@@ -1908,7 +1908,7 @@ export const TOP_MOVIES = [
     "title": "Catch Me If You Can",
     "fullTitle": "Catch Me If You Can (2002)",
     "year": "2002",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",
     "imDbRating": "8.1",
     "imDbRatingCount": "1023034"
@@ -1919,7 +1919,7 @@ export const TOP_MOVIES = [
     "title": "My Neighbor Totoro",
     "fullTitle": "My Neighbor Totoro (1988)",
     "year": "1988",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",
     "imDbRating": "8.1",
     "imDbRatingCount": "353340"
@@ -1930,7 +1930,7 @@ export const TOP_MOVIES = [
     "title": "Million Dollar Baby",
     "fullTitle": "Million Dollar Baby (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",
     "imDbRating": "8.1",
     "imDbRatingCount": "700493"
@@ -1941,7 +1941,7 @@ export const TOP_MOVIES = [
     "title": "Children of Heaven",
     "fullTitle": "Children of Heaven (1997)",
     "year": "1997",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",
     "imDbRating": "8.1",
     "imDbRatingCount": "76823"
@@ -1952,7 +1952,7 @@ export const TOP_MOVIES = [
     "title": "The Gold Rush",
     "fullTitle": "The Gold Rush (1925)",
     "year": "1925",
-    "image": "https://m.media-amazon.com/images/M/MV5BODI0NTFkMTItOTYyNC00MzQ4LTgzZWMtMzdhMDAyOWU5YjA5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODI0NTFkMTItOTYyNC00MzQ4LTgzZWMtMzdhMDAyOWU5YjA5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Charles Chaplin (dir.), Charles Chaplin, Mack Swain",
     "imDbRating": "8.1",
     "imDbRatingCount": "114005"
@@ -1963,7 +1963,7 @@ export const TOP_MOVIES = [
     "title": "Blade Runner",
     "fullTitle": "Blade Runner (1982)",
     "year": "1982",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ridley Scott (dir.), Harrison Ford, Rutger Hauer",
     "imDbRating": "8.1",
     "imDbRatingCount": "788807"
@@ -1974,7 +1974,7 @@ export const TOP_MOVIES = [
     "title": "Klaus",
     "fullTitle": "Klaus (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",
     "imDbRating": "8.1",
     "imDbRatingCount": "166510"
@@ -1985,7 +1985,7 @@ export const TOP_MOVIES = [
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "fullTitle": "Harry Potter and the Deathly Hallows: Part 2 (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Yates (dir.), Daniel Radcliffe, Emma Watson",
     "imDbRating": "8.1",
     "imDbRatingCount": "901745"
@@ -1996,7 +1996,7 @@ export const TOP_MOVIES = [
     "title": "12 Years a Slave",
     "fullTitle": "12 Years a Slave (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",
     "imDbRating": "8.1",
     "imDbRatingCount": "716399"
@@ -2007,7 +2007,7 @@ export const TOP_MOVIES = [
     "title": "Before Sunrise",
     "fullTitle": "Before Sunrise (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
     "imDbRating": "8.1",
     "imDbRatingCount": "320841"
@@ -2018,7 +2018,7 @@ export const TOP_MOVIES = [
     "title": "The Grand Budapest Hotel",
     "fullTitle": "The Grand Budapest Hotel (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",
     "imDbRating": "8.1",
     "imDbRatingCount": "839937"
@@ -2029,7 +2029,7 @@ export const TOP_MOVIES = [
     "title": "Ben-Hur",
     "fullTitle": "Ben-Hur (1959)",
     "year": "1959",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "William Wyler (dir.), Charlton Heston, Jack Hawkins",
     "imDbRating": "8.1",
     "imDbRatingCount": "245353"
@@ -2040,7 +2040,7 @@ export const TOP_MOVIES = [
     "title": "On the Waterfront",
     "fullTitle": "On the Waterfront (1954)",
     "year": "1954",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Elia Kazan (dir.), Marlon Brando, Karl Malden",
     "imDbRating": "8.1",
     "imDbRatingCount": "158640"
@@ -2051,7 +2051,7 @@ export const TOP_MOVIES = [
     "title": "Gone Girl",
     "fullTitle": "Gone Girl (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "David Fincher (dir.), Ben Affleck, Rosamund Pike",
     "imDbRating": "8.1",
     "imDbRatingCount": "1009725"
@@ -2062,7 +2062,7 @@ export const TOP_MOVIES = [
     "title": "The General",
     "fullTitle": "The General (1926)",
     "year": "1926",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Clyde Bruckman (dir.), Buster Keaton, Marion Mack",
     "imDbRating": "8.1",
     "imDbRatingCount": "93975"
@@ -2073,7 +2073,7 @@ export const TOP_MOVIES = [
     "title": "Barry Lyndon",
     "fullTitle": "Barry Lyndon (1975)",
     "year": "1975",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",
     "imDbRating": "8.1",
     "imDbRatingCount": "173966"
@@ -2084,7 +2084,7 @@ export const TOP_MOVIES = [
     "title": "Wild Strawberries",
     "fullTitle": "Wild Strawberries (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",
     "imDbRating": "8.1",
     "imDbRatingCount": "110108"
@@ -2095,7 +2095,7 @@ export const TOP_MOVIES = [
     "title": "In the Name of the Father",
     "fullTitle": "In the Name of the Father (1993)",
     "year": "1993",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",
     "imDbRating": "8.1",
     "imDbRatingCount": "180026"
@@ -2106,7 +2106,7 @@ export const TOP_MOVIES = [
     "title": "The Deer Hunter",
     "fullTitle": "The Deer Hunter (1978)",
     "year": "1978",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Michael Cimino (dir.), Robert De Niro, Christopher Walken",
     "imDbRating": "8.1",
     "imDbRatingCount": "347013"
@@ -2117,7 +2117,7 @@ export const TOP_MOVIES = [
     "title": "Hacksaw Ridge",
     "fullTitle": "Hacksaw Ridge (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Mel Gibson (dir.), Andrew Garfield, Sam Worthington",
     "imDbRating": "8.1",
     "imDbRatingCount": "550871"
@@ -2128,7 +2128,7 @@ export const TOP_MOVIES = [
     "title": "The Third Man",
     "fullTitle": "The Third Man (1949)",
     "year": "1949",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Carol Reed (dir.), Orson Welles, Joseph Cotten",
     "imDbRating": "8.1",
     "imDbRatingCount": "175496"
@@ -2139,7 +2139,7 @@ export const TOP_MOVIES = [
     "title": "The Wages of Fear",
     "fullTitle": "The Wages of Fear (1953)",
     "year": "1953",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",
     "imDbRating": "8.1",
     "imDbRatingCount": "63245"
@@ -2150,7 +2150,7 @@ export const TOP_MOVIES = [
     "title": "Memories of Murder",
     "fullTitle": "Memories of Murder (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Bong Joon Ho (dir.), Song Kang-ho, Kim Sang-kyung",
     "imDbRating": "8.1",
     "imDbRatingCount": "196268"
@@ -2161,7 +2161,7 @@ export const TOP_MOVIES = [
     "title": "Sherlock Jr.",
     "fullTitle": "Sherlock Jr. (1924)",
     "year": "1924",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",
     "imDbRating": "8.1",
     "imDbRatingCount": "52550"
@@ -2172,7 +2172,7 @@ export const TOP_MOVIES = [
     "title": "Wild Tales",
     "fullTitle": "Wild Tales (2014)",
     "year": "2014",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Damián Szifron (dir.), Darío Grandinetti, María Marull",
     "imDbRating": "8.1",
     "imDbRatingCount": "205608"
@@ -2183,7 +2183,7 @@ export const TOP_MOVIES = [
     "title": "Mr. Smith Goes to Washington",
     "fullTitle": "Mr. Smith Goes to Washington (1939)",
     "year": "1939",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Frank Capra (dir.), James Stewart, Jean Arthur",
     "imDbRating": "8.1",
     "imDbRatingCount": "117706"
@@ -2194,7 +2194,7 @@ export const TOP_MOVIES = [
     "title": "Mad Max: Fury Road",
     "fullTitle": "Mad Max: Fury Road (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "George Miller (dir.), Tom Hardy, Charlize Theron",
     "imDbRating": "8.1",
     "imDbRatingCount": "1031420"
@@ -2205,7 +2205,7 @@ export const TOP_MOVIES = [
     "title": "Mary and Max",
     "fullTitle": "Mary and Max (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",
     "imDbRating": "8.1",
     "imDbRatingCount": "180931"
@@ -2216,7 +2216,7 @@ export const TOP_MOVIES = [
     "title": "Dead Poets Society",
     "fullTitle": "Dead Poets Society (1989)",
     "year": "1989",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Peter Weir (dir.), Robin Williams, Robert Sean Leonard",
     "imDbRating": "8.1",
     "imDbRatingCount": "510698"
@@ -2227,7 +2227,7 @@ export const TOP_MOVIES = [
     "title": "How to Train Your Dragon",
     "fullTitle": "How to Train Your Dragon (2010)",
     "year": "2010",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",
     "imDbRating": "8.1",
     "imDbRatingCount": "762360"
@@ -2238,7 +2238,7 @@ export const TOP_MOVIES = [
     "title": "Monsters, Inc.",
     "fullTitle": "Monsters, Inc. (2001)",
     "year": "2001",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Pete Docter (dir.), Billy Crystal, John Goodman",
     "imDbRating": "8.1",
     "imDbRatingCount": "933340"
@@ -2249,7 +2249,7 @@ export const TOP_MOVIES = [
     "title": "The Seventh Seal",
     "fullTitle": "The Seventh Seal (1957)",
     "year": "1957",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",
     "imDbRating": "8.1",
     "imDbRatingCount": "190072"
@@ -2260,7 +2260,7 @@ export const TOP_MOVIES = [
     "title": "Jaws",
     "fullTitle": "Jaws (1975)",
     "year": "1975",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Steven Spielberg (dir.), Roy Scheider, Robert Shaw",
     "imDbRating": "8.1",
     "imDbRatingCount": "624929"
@@ -2271,7 +2271,7 @@ export const TOP_MOVIES = [
     "title": "Room",
     "fullTitle": "Room (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",
     "imDbRating": "8.1",
     "imDbRatingCount": "432216"
@@ -2282,7 +2282,7 @@ export const TOP_MOVIES = [
     "title": "The Big Lebowski",
     "fullTitle": "The Big Lebowski (1998)",
     "year": "1998",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Joel Coen (dir.), Jeff Bridges, John Goodman",
     "imDbRating": "8.1",
     "imDbRatingCount": "827924"
@@ -2293,7 +2293,7 @@ export const TOP_MOVIES = [
     "title": "Tokyo Story",
     "fullTitle": "Tokyo Story (1953)",
     "year": "1953",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",
     "imDbRating": "8.1",
     "imDbRatingCount": "64187"
@@ -2304,7 +2304,7 @@ export const TOP_MOVIES = [
     "title": "Ford v Ferrari",
     "fullTitle": "Ford v Ferrari (2019)",
     "year": "2019",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Mangold (dir.), Matt Damon, Christian Bale",
     "imDbRating": "8.1",
     "imDbRatingCount": "420149"
@@ -2315,7 +2315,7 @@ export const TOP_MOVIES = [
     "title": "The Passion of Joan of Arc",
     "fullTitle": "The Passion of Joan of Arc (1928)",
     "year": "1928",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",
     "imDbRating": "8.0",
     "imDbRatingCount": "57365"
@@ -2326,7 +2326,7 @@ export const TOP_MOVIES = [
     "title": "Hotel Rwanda",
     "fullTitle": "Hotel Rwanda (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Terry George (dir.), Don Cheadle, Sophie Okonedo",
     "imDbRating": "8.0",
     "imDbRatingCount": "362120"
@@ -2337,7 +2337,7 @@ export const TOP_MOVIES = [
     "title": "Rocky",
     "fullTitle": "Rocky (1976)",
     "year": "1976",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",
     "imDbRating": "8.0",
     "imDbRatingCount": "599122"
@@ -2348,7 +2348,7 @@ export const TOP_MOVIES = [
     "title": "Ratatouille",
     "fullTitle": "Ratatouille (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Brad Bird (dir.), Brad Garrett, Lou Romano",
     "imDbRating": "8.0",
     "imDbRatingCount": "767954"
@@ -2359,7 +2359,7 @@ export const TOP_MOVIES = [
     "title": "Platoon",
     "fullTitle": "Platoon (1986)",
     "year": "1986",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Oliver Stone (dir.), Charlie Sheen, Tom Berenger",
     "imDbRating": "8.0",
     "imDbRatingCount": "423635"
@@ -2370,7 +2370,7 @@ export const TOP_MOVIES = [
     "title": "Spotlight",
     "fullTitle": "Spotlight (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",
     "imDbRating": "8.0",
     "imDbRatingCount": "482693"
@@ -2381,7 +2381,7 @@ export const TOP_MOVIES = [
     "title": "Logan",
     "fullTitle": "Logan (2017)",
     "year": "2017",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Mangold (dir.), Hugh Jackman, Patrick Stewart",
     "imDbRating": "8.0",
     "imDbRatingCount": "788703"
@@ -2392,7 +2392,7 @@ export const TOP_MOVIES = [
     "title": "The Terminator",
     "fullTitle": "The Terminator (1984)",
     "year": "1984",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
     "imDbRating": "8.0",
     "imDbRatingCount": "886384"
@@ -2403,7 +2403,7 @@ export const TOP_MOVIES = [
     "title": "Jai Bhim",
     "fullTitle": "Jai Bhim (2021)",
     "year": "2021",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_Ratio0.7910_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._UX960_Ratio0.7910_AL_.jpg",
     "crew": "T.J. Gnanavel (dir.), Suriya, Lijo Mol Jose",
     "imDbRating": "8.0",
     "imDbRatingCount": "207011"
@@ -2414,7 +2414,7 @@ export const TOP_MOVIES = [
     "title": "Rush",
     "fullTitle": "Rush (2013)",
     "year": "2013",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",
     "imDbRating": "8.0",
     "imDbRatingCount": "491630"
@@ -2425,7 +2425,7 @@ export const TOP_MOVIES = [
     "title": "Stand by Me",
     "fullTitle": "Stand by Me (1986)",
     "year": "1986",
-    "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Rob Reiner (dir.), Wil Wheaton, River Phoenix",
     "imDbRating": "8.0",
     "imDbRatingCount": "418031"
@@ -2436,7 +2436,7 @@ export const TOP_MOVIES = [
     "title": "Before Sunset",
     "fullTitle": "Before Sunset (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
     "imDbRating": "8.0",
     "imDbRatingCount": "274228"
@@ -2447,7 +2447,7 @@ export const TOP_MOVIES = [
     "title": "Network",
     "fullTitle": "Network (1976)",
     "year": "1976",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sidney Lumet (dir.), Faye Dunaway, William Holden",
     "imDbRating": "8.0",
     "imDbRatingCount": "163648"
@@ -2458,7 +2458,7 @@ export const TOP_MOVIES = [
     "title": "Into the Wild",
     "fullTitle": "Into the Wild (2007)",
     "year": "2007",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Sean Penn (dir.), Emile Hirsch, Vince Vaughn",
     "imDbRating": "8.0",
     "imDbRatingCount": "635659"
@@ -2469,7 +2469,7 @@ export const TOP_MOVIES = [
     "title": "The Wizard of Oz",
     "fullTitle": "The Wizard of Oz (1939)",
     "year": "1939",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Victor Fleming (dir.), Judy Garland, Frank Morgan",
     "imDbRating": "8.0",
     "imDbRatingCount": "410851"
@@ -2480,7 +2480,7 @@ export const TOP_MOVIES = [
     "title": "The Best Years of Our Lives",
     "fullTitle": "The Best Years of Our Lives (1946)",
     "year": "1946",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "William Wyler (dir.), Myrna Loy, Dana Andrews",
     "imDbRating": "8.0",
     "imDbRatingCount": "67163"
@@ -2491,7 +2491,7 @@ export const TOP_MOVIES = [
     "title": "La haine",
     "fullTitle": "La haine (1995)",
     "year": "1995",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",
     "imDbRating": "8.0",
     "imDbRatingCount": "181752"
@@ -2502,7 +2502,7 @@ export const TOP_MOVIES = [
     "title": "The Exorcist",
     "fullTitle": "The Exorcist (1973)",
     "year": "1973",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "William Friedkin (dir.), Ellen Burstyn, Max von Sydow",
     "imDbRating": "8.0",
     "imDbRatingCount": "421816"
@@ -2513,7 +2513,7 @@ export const TOP_MOVIES = [
     "title": "The Incredibles",
     "fullTitle": "The Incredibles (2004)",
     "year": "2004",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Brad Bird (dir.), Craig T. Nelson, Samuel L. Jackson",
     "imDbRating": "8.0",
     "imDbRatingCount": "762804"
@@ -2524,7 +2524,7 @@ export const TOP_MOVIES = [
     "title": "To Be or Not to Be",
     "fullTitle": "To Be or Not to Be (1942)",
     "year": "1942",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ernst Lubitsch (dir.), Carole Lombard, Jack Benny",
     "imDbRating": "8.0",
     "imDbRatingCount": "39723"
@@ -2535,7 +2535,7 @@ export const TOP_MOVIES = [
     "title": "Groundhog Day",
     "fullTitle": "Groundhog Day (1993)",
     "year": "1993",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Harold Ramis (dir.), Bill Murray, Andie MacDowell",
     "imDbRating": "8.0",
     "imDbRatingCount": "651399"
@@ -2546,7 +2546,7 @@ export const TOP_MOVIES = [
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "fullTitle": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
     "year": "2003",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Gore Verbinski (dir.), Johnny Depp, Geoffrey Rush",
     "imDbRating": "8.0",
     "imDbRatingCount": "1154939"
@@ -2557,7 +2557,7 @@ export const TOP_MOVIES = [
     "title": "The Battle of Algiers",
     "fullTitle": "The Battle of Algiers (1966)",
     "year": "1966",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin",
     "imDbRating": "8.0",
     "imDbRatingCount": "62497"
@@ -2568,7 +2568,7 @@ export const TOP_MOVIES = [
     "title": "The Grapes of Wrath",
     "fullTitle": "The Grapes of Wrath (1940)",
     "year": "1940",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "John Ford (dir.), Henry Fonda, Jane Darwell",
     "imDbRating": "8.0",
     "imDbRatingCount": "96235"
@@ -2579,7 +2579,7 @@ export const TOP_MOVIES = [
     "title": "My Father and My Son",
     "fullTitle": "My Father and My Son (2005)",
     "year": "2005",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",
     "imDbRating": "8.0",
     "imDbRatingCount": "88403"
@@ -2590,7 +2590,7 @@ export const TOP_MOVIES = [
     "title": "Hachi: A Dog's Tale",
     "fullTitle": "Hachi: A Dog's Tale (2009)",
     "year": "2009",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Lasse Hallström (dir.), Richard Gere, Joan Allen",
     "imDbRating": "8.0",
     "imDbRatingCount": "295318"
@@ -2601,7 +2601,7 @@ export const TOP_MOVIES = [
     "title": "Pather Panchali",
     "fullTitle": "Pather Panchali (1955)",
     "year": "1955",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Satyajit Ray (dir.), Kanu Bannerjee, Karuna Bannerjee",
     "imDbRating": "8.0",
     "imDbRatingCount": "35085"
@@ -2612,7 +2612,7 @@ export const TOP_MOVIES = [
     "title": "The Handmaiden",
     "fullTitle": "The Handmaiden (2016)",
     "year": "2016",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Park Chan-wook (dir.), Kim Min-hee, Ha Jung-woo",
     "imDbRating": "8.0",
     "imDbRatingCount": "157360"
@@ -2623,7 +2623,7 @@ export const TOP_MOVIES = [
     "title": "Amores Perros",
     "fullTitle": "Amores Perros (2000)",
     "year": "2000",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",
     "imDbRating": "8.0",
     "imDbRatingCount": "245586"
@@ -2634,7 +2634,7 @@ export const TOP_MOVIES = [
     "title": "Rebecca",
     "fullTitle": "Rebecca (1940)",
     "year": "1940",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.7015_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.7015_AL_.jpg",
     "crew": "Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",
     "imDbRating": "8.0",
     "imDbRatingCount": "140917"
@@ -2645,7 +2645,7 @@ export const TOP_MOVIES = [
     "title": "Cool Hand Luke",
     "fullTitle": "Cool Hand Luke (1967)",
     "year": "1967",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Stuart Rosenberg (dir.), Paul Newman, George Kennedy",
     "imDbRating": "8.0",
     "imDbRatingCount": "181901"
@@ -2656,7 +2656,7 @@ export const TOP_MOVIES = [
     "title": "The Sound of Music",
     "fullTitle": "The Sound of Music (1965)",
     "year": "1965",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWFhNjg3YjctMjg2Ny00YjBkLTg5M2EtMTk2MjA1NDY3NzQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWFhNjg3YjctMjg2Ny00YjBkLTg5M2EtMTk2MjA1NDY3NzQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Robert Wise (dir.), Julie Andrews, Christopher Plummer",
     "imDbRating": "8.0",
     "imDbRatingCount": "244927"
@@ -2667,7 +2667,7 @@ export const TOP_MOVIES = [
     "title": "It Happened One Night",
     "fullTitle": "It Happened One Night (1934)",
     "year": "1934",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Frank Capra (dir.), Clark Gable, Claudette Colbert",
     "imDbRating": "8.0",
     "imDbRatingCount": "107406"
@@ -2678,7 +2678,7 @@ export const TOP_MOVIES = [
     "title": "The 400 Blows",
     "fullTitle": "The 400 Blows (1959)",
     "year": "1959",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7313_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX960_Ratio0.7313_AL_.jpg",
     "crew": "François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",
     "imDbRating": "8.0",
     "imDbRatingCount": "122279"
@@ -2689,7 +2689,7 @@ export const TOP_MOVIES = [
     "title": "Persona",
     "fullTitle": "Persona (1966)",
     "year": "1966",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",
     "imDbRating": "8.0",
     "imDbRatingCount": "123797"
@@ -2700,7 +2700,7 @@ export const TOP_MOVIES = [
     "title": "The Help",
     "fullTitle": "The Help (2011)",
     "year": "2011",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Tate Taylor (dir.), Viola Davis, Emma Stone",
     "imDbRating": "8.0",
     "imDbRatingCount": "472923"
@@ -2711,7 +2711,7 @@ export const TOP_MOVIES = [
     "title": "Life of Brian",
     "fullTitle": "Life of Brian (1979)",
     "year": "1979",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Terry Jones (dir.), Graham Chapman, John Cleese",
     "imDbRating": "8.0",
     "imDbRatingCount": "409241"
@@ -2722,7 +2722,7 @@ export const TOP_MOVIES = [
     "title": "The Iron Giant",
     "fullTitle": "The Iron Giant (1999)",
     "year": "1999",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Brad Bird (dir.), Eli Marienthal, Harry Connick Jr.",
     "imDbRating": "8.0",
     "imDbRatingCount": "209626"
@@ -2733,7 +2733,7 @@ export const TOP_MOVIES = [
     "title": "Aladdin",
     "fullTitle": "Aladdin (1992)",
     "year": "1992",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Ron Clements (dir.), Scott Weinger, Robin Williams",
     "imDbRating": "8.0",
     "imDbRatingCount": "437804"
@@ -2744,7 +2744,7 @@ export const TOP_MOVIES = [
     "title": "Drishyam",
     "fullTitle": "Drishyam (2015)",
     "year": "2015",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6716_AL_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._UX960_Ratio0.6716_AL_.jpg",
     "crew": "Nishikant Kamat (dir.), Ajay Devgn, Shriya Saran",
     "imDbRating": "8.0",
     "imDbRatingCount": "88704"

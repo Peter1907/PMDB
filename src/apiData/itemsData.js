@@ -2594,7 +2594,7 @@ export const itemsData = {
     type: 'TVSeries',
     year: '2019',
     image:
-      'https://m.media-amazon.com/images/M/MV5BZTg4NTUzNGQtY2I4YS00ZDAxLWFhNjAtMDNiMjc3NjY2NGI5XkEyXkFqcGdeQXVyNjAwNDUxODI@._UX480_Ratio0.7046_AL_.jpg',
+      'https://m.media-amazon.com/images/M/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._UX480_.jpg',
     releaseDate: '2019-05-06',
     runtimeMins: null,
     runtimeStr: null,

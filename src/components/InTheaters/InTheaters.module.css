@@ -109,7 +109,7 @@
   max-width: 30rem;
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 0.5rem;
   max-height: 40.2rem;
 }
 
@@ -170,6 +170,7 @@
   font-weight: 700;
   margin: 0;
   color: #ffd369;
+  line-height: 1.5rem;
 }
 
 .loadBtn {
@@ -205,7 +206,7 @@
   .next {
     width: 30rem;
     margin: auto;
-    max-height: 50rem;
+    max-height: 43rem;
   }
 }
 
