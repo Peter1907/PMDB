@@ -1,9 +1,7 @@
 .detailsContainer {
   min-height: 100vh;
   padding: 5rem 0 3rem;
-  background:
-    linear-gradient(#393e46f1, #222831f8),
-    linear-gradient(0.25turn, #393e46, #393e4600);
+  background: linear-gradient(#393e46f1, #222831f8), linear-gradient(0.25turn, #393e46, #393e4600);
   background-size: 100% 120vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -89,6 +87,8 @@
 
 .pictures {
   display: flex;
+  width: 100vw;
+  min-height: 33rem;
   max-width: 75rem;
   margin: 0 auto;
   gap: 0.5rem;
@@ -97,6 +97,10 @@
 .posterContainer {
   position: relative;
   display: flex;
+  width: 100%;
+  max-width: 22rem;
+  height: 33rem;
+  overflow: hidden;
 }
 
 .poster {
@@ -146,6 +150,7 @@
   opacity: 0.6;
   cursor: pointer;
   transition: all 250ms ease;
+  z-index: 1;
 }
 
 .saveTag:hover {
@@ -254,9 +259,11 @@ hr {
   gap: 1rem;
   max-width: 75rem;
   margin: 0 auto 8rem;
+  padding-left: 0.5rem;
 }
 
 .rackContainer {
+  padding-left: 0.5rem;
   max-width: 75rem;
   margin: auto auto 2rem;
 }
@@ -291,7 +298,7 @@ hr {
 .castList {
   display: flex;
   flex-wrap: wrap;
-  max-width: 75rem;
+  max-width: 100%;
   margin: 0;
   align-self: flex-start;
   padding: 1rem 0;
@@ -320,10 +327,13 @@ hr {
   padding-left: 7px;
 }
 
-.imgContainer {
+.actorImg {
   width: 7rem;
   height: 7rem;
   border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  background-color: black;
 }
 
 .arrow {
@@ -337,12 +347,9 @@ hr {
 }
 
 @media screen and (max-width: 1024px) {
-  .detailsContainer {
-    padding: 5rem 1rem 3rem;
-  }
-
   .main {
-    padding: 1rem 0;
+    padding: 1rem 0.5rem;
+    max-width: 47rem;
   }
 
   .header {
@@ -351,6 +358,7 @@ hr {
 
   .subHeader {
     font-size: 14px;
+    margin-left: 0.5rem;
   }
 
   .rating {
@@ -378,6 +386,10 @@ hr {
   .pictures {
     flex-direction: column;
     background: linear-gradient(#22283163, rgba(0, 0, 0, 0.658));
+    width: 95%;
+    max-width: 47rem;
+    gap: 1rem;
+    padding: 1rem 0;
   }
 
   .posterContainer {
@@ -387,19 +399,21 @@ hr {
 
   .thumbnailContainer {
     width: 100%;
+    align-self: center;
   }
 
   .playTrailer {
-    font-size: 30px;
+    font-size: 28px;
   }
 
   .playButton {
-    width: 3.3rem;
+    width: 3rem;
   }
 
   .info {
     flex-direction: column;
     gap: 2rem;
+    max-width: 47rem;
   }
 
   .left {
@@ -432,6 +446,24 @@ hr {
     padding: 2rem 1rem;
   }
 
+  .cast {
+    max-width: 47rem;
+  }
+
+  .castList {
+    max-width: 100%;
+    column-gap: 3rem;
+  }
+
+  .actor {
+    min-width: 340px;
+  }
+
+  .rackContainer {
+    padding-left: 0.5rem;
+    max-width: fit-content;
+  }
+
   .castHead h1,
   .rackHead h1 {
     font-size: 50px;
@@ -449,5 +481,15 @@ hr {
     height: 1rem;
     width: 1rem;
     margin: 0 0 1.7rem 0.2rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .rackContainer {
+    padding: 0;
+  }
+
+  .rackHead {
+    padding-left: 0.5rem;
   }
 }

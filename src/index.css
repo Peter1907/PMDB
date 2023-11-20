@@ -178,3 +178,34 @@ body {
     color: #ffd369;
   }
 }
+
+@media screen and (max-width: 436px) {
+  .header {
+    font-size: 46px;
+    margin-left: 0;
+  }
+
+  .rack-head {
+    margin-left: 0.5rem;
+    max-width: 26rem;
+  }
+
+  .rack-head h1 {
+    font-size: 42px;
+    margin: 1rem 0.3rem 0 0;
+  }
+
+  .rack-head h2 {
+    font-size: 32px;
+  }
+
+  .arrow {
+    height: 0.9rem;
+    width: 0.9rem;
+    margin: 0 0 1.8rem 0;
+  }
+
+  .page-link {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,36 @@
+.svg {
+  max-width: 50dvw;
+  position: fixed;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.ring1 {
+  transform-origin: center;
+  animation: ring-1 10s linear infinite;
+}
+
+@keyframes ring-1 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.ring2 {
+  transform-origin: center;
+  animation: ring-2 12s linear infinite;
+}
+
+@keyframes ring-2 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}

@@ -1,0 +1,52 @@
+.noticeContainer {
+  z-index: 50;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  max-width: 75rem;
+  margin: auto;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  color: #333;
+}
+
+.svg {
+  flex-shrink: 0.3;
+}
+
+.notice {
+  line-height: 1.2rem;
+  font-weight: 500;
+  margin: 0.5rem;
+  text-align: center;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #222831;
+  color: #eee;
+  font-size: 1rem;
+  min-width: 6rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: black;
+}
+ 
+@media screen and (max-width: 786px) {
+  .noticeContainer {
+    flex-direction: column;
+    margin: auto 0.5rem;
+    padding: 0.5rem;
+    gap: 0.5rem;
+  }
+
+  .btn {
+    min-width: 16rem;
+  }
+}

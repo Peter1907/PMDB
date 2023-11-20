@@ -12,9 +12,9 @@ export default function Main() {
   const logo = ('./assets/logo02.png');
 
   const dispatch = useDispatch();
-  const DATA = localStorage.getItem('TOP_MOVIES');
-  const DATA2 = localStorage.getItem('POP_MOVIES');
-  const DATA3 = localStorage.getItem('POP_SERIES');
+  const DATA = sessionStorage.getItem('TOP_MOVIES');
+  const DATA2 = sessionStorage.getItem('POP_MOVIES');
+  const DATA3 = sessionStorage.getItem('POP_SERIES');
   const Data = useSelector((state) => state.topMovies);
   const random = Math.floor(Math.random() * 247);
   const images = Data.slice(random, random + 2);

@@ -1,0 +1,43 @@
+.disclaimer {
+  z-index: 12;
+  max-width: 760px;
+  padding: 0 1rem;
+  position: fixed;
+  left: calc(5% / 2);
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+  gap: 1rem;
+  border-radius: 1rem 1rem 0 0;
+  background-color: transparent;
+}
+
+.svg {
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.text {
+  opacity: 0;
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.close {
+  align-self: flex-start;
+  margin-top: 0.3rem;
+  border: none;
+  font-size: 1.5rem;
+  background-color: transparent;
+  font-weight: 900;
+  cursor: pointer;
+  display: none;
+}
+
+@media screen and (max-width: 786px) {
+  .disclaimer {
+    max-width: 90vw;
+  }
+}
