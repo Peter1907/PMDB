@@ -462,7 +462,7 @@ export const POP_MOVIES = [
     "title": "Lilo & Stitch",
     "fullTitle": "Lilo & Stitch ( 176)",
     "year": " 176",
-    "image": "https://imdb-api.com/images/oUX240_ginal/nopicture.jpg",
+    "image": "https://tv-api.com/images/oUX240_ginal/nopicture.jpg",
     "crew": "Dean Fleischer Camp (dir.), Sydney Agudong, Billy Magnussen",
     "imDbRating": "",
     "imDbRatingCount": "0"
