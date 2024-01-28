@@ -4,6 +4,7 @@ import { trailerData } from '../../../apiData/trailerData';
 
 const GET = './redux/trailer/GET';
 const GET_STORED = './redux/trailer/GET_STORED';
+const CLEAR_DATA = './redux/trailer/CLEAR_DATA';
 
 export default function trailerReducer(state = [], action) {
   switch (action.type) {
@@ -12,6 +13,8 @@ export default function trailerReducer(state = [], action) {
       return action.payload;
     case GET_STORED:
       return JSON.parse(sessionStorage.getItem(`T_${action.id}`));
+    case CLEAR_DATA:
+      return [];
     default:
       return state;
   }
@@ -33,4 +36,8 @@ const getStoredTrailer = (id) => ({
   id,
 });
 
-export { getTrailer, getStoredTrailer };
+const clearTrailerData = () => ({
+  type: CLEAR_DATA,
+});
+
+export { getTrailer, getStoredTrailer, clearTrailerData };

@@ -1,13 +1,16 @@
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import * as Scroll from 'react-scroll';
 import PropTypes from 'prop-types';
 import s from './Rack.module.css';
 import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
+import { clearDetailsData } from '../Redux/details/details';
+import { clearTrailerData } from '../Redux/trailer/trailer';
 
 const ScrollLink = Scroll.Link;
 
 export default function Rack({ type }) {
+  const dispatch = useDispatch();
   const saveIcon = '../assets/add.png';
   const starIcon = '../assets/star.png';
   const Data1 = useSelector((state) => state.details);
@@ -20,8 +23,9 @@ export default function Rack({ type }) {
   };
   const selection = options[type];
 
-  const refresh = (url) => {
-    window.location.replace(window.location.origin + url);
+  const clearData = () => {
+    dispatch(clearDetailsData());
+    dispatch(clearTrailerData());
   };
 
   const activateDot = (e) => {
@@ -44,7 +48,7 @@ export default function Rack({ type }) {
                   <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
-                  <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
+                  <Link onClick={clearData} to={`/item-details/${item.id}`}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <div className={s.ratingContainer}>
@@ -68,7 +72,7 @@ export default function Rack({ type }) {
                   <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
-                  <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
+                  <Link onClick={clearData} to={`/item-details/${item.id}`}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <div className={s.ratingContainer}>
@@ -92,7 +96,7 @@ export default function Rack({ type }) {
                   <ImgPlaceholder key={id} alt="poster" src={item.image} orientation="v" />
                 </div>
                 <div className={s.info}>
-                  <Link onClick={() => refresh(`/item-details/${item.id}`)} to={`/item-details/${item.id}`}>
+                  <Link onClick={clearData} to={`/item-details/${item.id}`}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <div className={s.ratingContainer}>

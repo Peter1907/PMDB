@@ -9,6 +9,8 @@ import {
 import Thumbnail from '../Thumbnail/Thumbnail';
 import s from './InTheaters.module.css';
 import ImgPlaceholder from '../ImgPlaceholder/ImgPlaceholder';
+import { clearDetailsData } from '../Redux/details/details';
+import { clearTrailerData } from '../Redux/trailer/trailer';
 
 export default function InTheaters() {
   const playIcon = './assets/play.png';
@@ -29,8 +31,9 @@ export default function InTheaters() {
     if (i === 7) event.target.parentNode.style.overflowY = 'scroll';
   };
 
-  const redirect = (url) => {
-    window.location.replace(window.location.origin + url);
+  const clearData = () => {
+    dispatch(clearDetailsData());
+    dispatch(clearTrailerData());
   };
 
   return (
@@ -46,7 +49,7 @@ export default function InTheaters() {
                   <ImgPlaceholder key={Data[0].id} src={Data[0].image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.textContainer}>
-                  <Link onClick={() => redirect(`/item-details/${Data[0].id}`)}>
+                  <Link to={`/item-details/${Data[0].id}`} onClick={clearData}>
                     <h2 className={s.mainTitle}>{Data[0].fullTitle}</h2>
                   </Link>
                   <p className={s.plot}>{`${Data[0].plot.substring(0, 150)}...`}</p>
@@ -66,7 +69,7 @@ export default function InTheaters() {
                   <ImgPlaceholder key={index} src={item.image} alt="poster" orientation="v" />
                 </div>
                 <div className={s.text}>
-                  <Link onClick={() => redirect(`/item-details/${item.id}`)}>
+                  <Link to={`/item-details/${item.id}`} onClick={clearData}>
                     <h3 className={s.title}>{item.title}</h3>
                   </Link>
                   <p>

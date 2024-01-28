@@ -29,6 +29,8 @@ import {
 import s from './List.module.css';
 import ImgPlaceholder from '../components/ImgPlaceholder/ImgPlaceholder';
 import PagePlaceholder from '../components/PagePlaceholder/PagePlaceholder';
+import { clearDetailsData } from '../components/Redux/details/details';
+import { clearTrailerData } from '../components/Redux/trailer/trailer';
 
 export default function RankedList({ type }) {
   const saveIcon = '/assets/add.png';
@@ -86,8 +88,9 @@ export default function RankedList({ type }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [type]);
 
-  const redirect = (url) => {
-    window.location.replace(window.location.origin + url);
+  const clearData = () => {
+    dispatch(clearDetailsData());
+    dispatch(clearTrailerData());
   };
 
   return (
@@ -112,7 +115,7 @@ export default function RankedList({ type }) {
                     <Link
                       className={s.title}
                       to={`/item-details/${item.id}`}
-                      onClick={() => redirect(`/item-details/${item.id}`)}
+                      onClick={clearData}
                     >
                       <p>{item.fullTitle}</p>
                     </Link>

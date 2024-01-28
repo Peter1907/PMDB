@@ -4,6 +4,7 @@ import { itemsData } from '../../../apiData/itemsData';
 
 const GET = './redux/details/GET';
 const GET_STORED = './redux/details/GET_STORED';
+const CLEAR_DATA = './redux/details/CLEAR_DATA';
 
 export default function detailsReducer(state = [], action) {
   switch (action.type) {
@@ -12,6 +13,8 @@ export default function detailsReducer(state = [], action) {
       return action.payload;
     case GET_STORED:
       return JSON.parse(sessionStorage.getItem(`D_${action.id}`));
+    case CLEAR_DATA:
+      return [];
     default:
       return state;
   }
@@ -30,4 +33,8 @@ const getStoredDetails = (id) => ({
   id,
 });
 
-export { getDetails, getStoredDetails };
+const clearDetailsData = () => ({
+  type: CLEAR_DATA,
+});
+
+export { getDetails, getStoredDetails, clearDetailsData };
