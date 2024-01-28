@@ -36,7 +36,7 @@ export default function popMoviesReducer(state = [], action) {
 const getPopMovies = createAsyncThunk(
   GET,
   async () => {
-    const response = await axios('https://imdb-api.com/en/API/MostPopularMovies/k_sncsc4tf');
+    const response = await axios('https://tv-api.com/en/API/MostPopularMovies/k_sncsc4tf');
     const data = response.data.errorMessage ? POP_MOVIES : response.data;
     return data;
   },

@@ -4,7 +4,7 @@ PMDB (Peter's Movie Database) :joy::joy::joy:
 
 # Description the project.
 
-This is a project I made using React & Redux with the help of the [IMDb API](https://imdb-api.com/api)
+This is a project I made using React & Redux with the help of the [IMDb API](https://tv-api.com/api)
 
 ## Built With
 

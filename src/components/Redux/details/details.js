@@ -18,7 +18,7 @@ export default function detailsReducer(state = [], action) {
 }
 
 const getDetails = createAsyncThunk(GET, async (id) => {
-  const response = await axios(`https://imdb-api.com/en/API/Title/k_0m1r0qhf/${id}`);
+  const response = await axios(`https://tv-api.com/en/API/Title/k_0m1r0qhf/${id}`);
   const data = response.data.errorMessage
     ? itemsData[`D_${id}`] || itemsData['Default']
     : response.data;

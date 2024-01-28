@@ -36,7 +36,7 @@ export default function popSeriesReducer(state = [], action) {
 const getPopSeries = createAsyncThunk(
   GET,
   async () => {
-    const response = await axios('https://imdb-api.com/en/API/MostPopularTVs/k_0m1r0qhf');
+    const response = await axios('https://tv-api.com/en/API/MostPopularTVs/k_0m1r0qhf');
     const data = response.data.errorMessage ? POP_SERIES : response.data;
     return data;
   },
