@@ -34,7 +34,7 @@ export default function inTheatersReducer(state = [], action) {
 const getInTheaters = createAsyncThunk(
   GET,
   async () => {
-    const response = await axios('https://imdb-api.com/en/API/InTheaters/k_sncsc4tf');
+    const response = await axios('https://tv-api.com/en/API/InTheaters/k_sncsc4tf');
     const data = response.data.errorMessage ? IN_THEATERS : response.data;
     return data;
   },

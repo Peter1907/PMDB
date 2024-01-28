@@ -20,7 +20,7 @@ export default function trailerReducer(state = [], action) {
 const getTrailer = createAsyncThunk(
   GET,
   async (id) => {
-    const response = await axios(`https://imdb-api.com/en/API/Trailer/k_sncsc4tf/${id}`);
+    const response = await axios(`https://tv-api.com/en/API/Trailer/k_sncsc4tf/${id}`);
     const data = response.data.errorMessage
       ? trailerData[`T_${id}`] || trailerData['Default']
       : response.data;
